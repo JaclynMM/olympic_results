@@ -2,7 +2,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Chamonix,Biathlon,Biathlon,"BERTHET, G.",FRA,Men,Military Patrol,Bronze
 1924,Chamonix,Biathlon,Biathlon,"MANDRILLON, C.",FRA,Men,Military Patrol,Bronze
 1924,Chamonix,Biathlon,Biathlon,"MANDRILLON, Maurice",FRA,Men,Military Patrol,Bronze
-1924,Chamonix,Biathlon,Biathlon,"VANDELLE, Andrí©",FRA,Men,Military Patrol,Bronze
+1924,Chamonix,Biathlon,Biathlon,"VANDELLE, Andr’",FRA,Men,Military Patrol,Bronze
 1924,Chamonix,Biathlon,Biathlon,"AUFDENBLATTEN, Adolf",SUI,Men,Military Patrol,Gold
 1924,Chamonix,Biathlon,Biathlon,"JULEN, Alphonse",SUI,Men,Military Patrol,Gold
 1924,Chamonix,Biathlon,Biathlon,"JULEN, Ant.",SUI,Men,Military Patrol,Gold
@@ -11,15 +11,15 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Chamonix,Biathlon,Biathlon,"ESKELINEN, A.",FIN,Men,Military Patrol,Silver
 1924,Chamonix,Biathlon,Biathlon,"HIRVONEN, H.",FIN,Men,Military Patrol,Silver
 1924,Chamonix,Biathlon,Biathlon,"LAPPALAINEN, Martti",FIN,Men,Military Patrol,Silver
-1924,Chamonix,Bobsleigh,Bobsleigh,"MORTIAUX, Rení©",BEL,Men,Four-Man,Bronze
+1924,Chamonix,Bobsleigh,Bobsleigh,"MORTIAUX, Ren’",BEL,Men,Four-Man,Bronze
 1924,Chamonix,Bobsleigh,Bobsleigh,"MULDER, Charles",BEL,Men,Four-Man,Bronze
 1924,Chamonix,Bobsleigh,Bobsleigh,"VAN DEN BROECK, Paul",BEL,Men,Four-Man,Bronze
 1924,Chamonix,Bobsleigh,Bobsleigh,"VERSCHUEREN, Victor",BEL,Men,Four-Man,Bronze
 1924,Chamonix,Bobsleigh,Bobsleigh,"WILLIEMS, Henri",BEL,Men,Four-Man,Bronze
 1924,Chamonix,Bobsleigh,Bobsleigh,"NEVEU, Alfred",SUI,Men,Four-Man,Gold
 1924,Chamonix,Bobsleigh,Bobsleigh,"SCHERRER, Eduard",SUI,Men,Four-Man,Gold
-1924,Chamonix,Bobsleigh,Bobsleigh,"SCHLí‹PPI, Alfred",SUI,Men,Four-Man,Gold
-1924,Chamonix,Bobsleigh,Bobsleigh,"SCHLí‹PPI, Heinrich",SUI,Men,Four-Man,Gold
+1924,Chamonix,Bobsleigh,Bobsleigh,"SCHL’ÜPPI, Alfred",SUI,Men,Four-Man,Gold
+1924,Chamonix,Bobsleigh,Bobsleigh,"SCHL’ÜPPI, Heinrich",SUI,Men,Four-Man,Gold
 1924,Chamonix,Bobsleigh,Bobsleigh,"ARNOLD, Thomas",GBR,Men,Four-Man,Silver
 1924,Chamonix,Bobsleigh,Bobsleigh,"BROOME, Ralpf",GBR,Men,Four-Man,Silver
 1924,Chamonix,Bobsleigh,Bobsleigh,"RICHARDSON, Alexander",GBR,Men,Four-Man,Silver
@@ -78,12 +78,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Chamonix,Ice Hockey,Ice Hockey,"SMALL, Irving Wheeler",USA,Men,Ice Hockey,Silver
 1924,Chamonix,Ice Hockey,Ice Hockey,"SYNNOTT, Francis Allen",USA,Men,Ice Hockey,Silver
 1924,Chamonix,Skating,Figure skating,"GAUTSCHI, Georges",SUI,Men,Individual,Bronze
-1924,Chamonix,Skating,Figure skating,"GRAFSTRí_M, Gillis",SWE,Men,Individual,Gold
-1924,Chamonix,Skating,Figure skating,"Bí_CKL, Willy",AUT,Men,Individual,Silver
+1924,Chamonix,Skating,Figure skating,"GRAFSTR’_M, Gillis",SWE,Men,Individual,Gold
+1924,Chamonix,Skating,Figure skating,"B’_CKL, Willy",AUT,Men,Individual,Silver
 1924,Chamonix,Skating,Figure skating,"MUCKELT, Ethel",GBR,Women,Individual,Bronze
 1924,Chamonix,Skating,Figure skating,"SZABO-PLANK, Herma",AUT,Women,Individual,Gold
 1924,Chamonix,Skating,Figure skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Silver
-1924,Chamonix,Skating,Figure skating,"BRUNET, Andrí©e",FRA,Women,Pairs,Bronze
+1924,Chamonix,Skating,Figure skating,"BRUNET, Andr’e",FRA,Women,Pairs,Bronze
 1924,Chamonix,Skating,Figure skating,"BRUNET, Pierre",FRA,Men,Pairs,Bronze
 1924,Chamonix,Skating,Figure skating,"BERGER, Alfred",AUT,Men,Pairs,Gold
 1924,Chamonix,Skating,Figure skating,"ENGELMANN, Helene",AUT,Women,Pairs,Gold
@@ -110,10 +110,10 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1924,Chamonix,Skiing,Cross Country Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,18KM,Silver
 1924,Chamonix,Skiing,Cross Country Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,50KM,Bronze
 1924,Chamonix,Skiing,Cross Country Skiing,"HAUG, Thorleif",NOR,Men,50KM,Gold
-1924,Chamonix,Skiing,Cross Country Skiing,"STRí_MSTAD, Thoralf",NOR,Men,50KM,Silver
+1924,Chamonix,Skiing,Cross Country Skiing,"STR’_MSTAD, Thoralf",NOR,Men,50KM,Silver
 1924,Chamonix,Skiing,Nordic Combined,"GROTTUMSBRAATEN, Johan",NOR,Men,Individual,Bronze
 1924,Chamonix,Skiing,Nordic Combined,"HAUG, Thorleif",NOR,Men,Individual,Gold
-1924,Chamonix,Skiing,Nordic Combined,"STRí_MSTAD, Thoralf",NOR,Men,Individual,Silver
+1924,Chamonix,Skiing,Nordic Combined,"STR’_MSTAD, Thoralf",NOR,Men,Individual,Silver
 1924,Chamonix,Skiing,Ski Jumping,"HAUGEN, Anders",USA,Men,K90 Individual (70M),Bronze
 1924,Chamonix,Skiing,Ski Jumping,"THAMS, Jacob Tullin",NOR,Men,K90 Individual (70M),Gold
 1924,Chamonix,Skiing,Ski Jumping,"BONNA, Narve",NOR,Men,K90 Individual (70M),Silver
@@ -121,7 +121,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Bobsleigh,Bobsleigh,"HUBER, Sebastian",GER,Men,Five-Man,Bronze
 1928,St.Moritz,Bobsleigh,Bobsleigh,"KILIAN, Hanns",GER,Men,Five-Man,Bronze
 1928,St.Moritz,Bobsleigh,Bobsleigh,"KREMPL, Valentin",GER,Men,Five-Man,Bronze
-1928,St.Moritz,Bobsleigh,Bobsleigh,"Ní‹GLE, Hanns",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,Bobsleigh,"N’ÜGLE, Hanns",GER,Men,Five-Man,Bronze
 1928,St.Moritz,Bobsleigh,Bobsleigh,"FISKE, William",USA,Men,Five-Man,Gold
 1928,St.Moritz,Bobsleigh,Bobsleigh,"GRAY, Clifford Barton",USA,Men,Five-Man,Gold
 1928,St.Moritz,Bobsleigh,Bobsleigh,"MASON, Geoffrey Travers",USA,Men,Five-Man,Gold
@@ -145,7 +145,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Ice Hockey,Ice Hockey,"MARTIGNONI, Arnold",SUI,Men,Ice Hockey,Bronze
 1928,St.Moritz,Ice Hockey,Ice Hockey,"MENG, Heini",SUI,Men,Ice Hockey,Bronze
 1928,St.Moritz,Ice Hockey,Ice Hockey,"MOROSANI, Anton",SUI,Men,Ice Hockey,Bronze
-1928,St.Moritz,Ice Hockey,Ice Hockey,"RíìEDI, Luzius",SUI,Men,Ice Hockey,Bronze
+1928,St.Moritz,Ice Hockey,Ice Hockey,"R’“EDI, Luzius",SUI,Men,Ice Hockey,Bronze
 1928,St.Moritz,Ice Hockey,Ice Hockey,"TORRIANI, Richard",SUI,Men,Ice Hockey,Bronze
 1928,St.Moritz,Ice Hockey,Ice Hockey,"DELAHAY, Charles",CAN,Men,Ice Hockey,Gold
 1928,St.Moritz,Ice Hockey,Ice Hockey,"FISHER, Franlyn Wood",CAN,Men,Ice Hockey,Gold
@@ -168,18 +168,18 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Ice Hockey,Ice Hockey,"KARLBERG, Ernst",SWE,Men,Ice Hockey,Silver
 1928,St.Moritz,Ice Hockey,Ice Hockey,"LARSSON, Erik",SWE,Men,Ice Hockey,Silver
 1928,St.Moritz,Ice Hockey,Ice Hockey,"LINDE, Bertil",SWE,Men,Ice Hockey,Silver
-1928,St.Moritz,Ice Hockey,Ice Hockey,"í_BERG, Sigfrid",SWE,Men,Ice Hockey,Silver
+1928,St.Moritz,Ice Hockey,Ice Hockey,"’_BERG, Sigfrid",SWE,Men,Ice Hockey,Silver
 1928,St.Moritz,Ice Hockey,Ice Hockey,"PETERSEN, Wilhelm",SWE,Men,Ice Hockey,Silver
 1928,St.Moritz,Ice Hockey,Ice Hockey,"SUCKSDORFF, Kurt",SWE,Men,Ice Hockey,Silver
 1928,St.Moritz,Skating,Figure skating,"VAN ZEEBROECK, Robert",BEL,Men,Individual,Bronze
-1928,St.Moritz,Skating,Figure skating,"GRAFSTRí_M, Gillis",SWE,Men,Individual,Gold
-1928,St.Moritz,Skating,Figure skating,"Bí_CKL, Willy",AUT,Men,Individual,Silver
+1928,St.Moritz,Skating,Figure skating,"GRAFSTR’_M, Gillis",SWE,Men,Individual,Gold
+1928,St.Moritz,Skating,Figure skating,"B’_CKL, Willy",AUT,Men,Individual,Silver
 1928,St.Moritz,Skating,Figure skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Bronze
 1928,St.Moritz,Skating,Figure skating,"HENIE, Sonja",NOR,Women,Individual,Gold
 1928,St.Moritz,Skating,Figure skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
 1928,St.Moritz,Skating,Figure skating,"BRUNNER, Melitta",AUT,Women,Pairs,Bronze
 1928,St.Moritz,Skating,Figure skating,"WREDE, Ludwig",AUT,Men,Pairs,Bronze
-1928,St.Moritz,Skating,Figure skating,"BRUNET, Andrí©e",FRA,Women,Pairs,Gold
+1928,St.Moritz,Skating,Figure skating,"BRUNET, Andr’©e",FRA,Women,Pairs,Gold
 1928,St.Moritz,Skating,Figure skating,"BRUNET, Pierre",FRA,Men,Pairs,Gold
 1928,St.Moritz,Skating,Figure skating,"KAISER, Otto",AUT,Men,Pairs,Silver
 1928,St.Moritz,Skating,Figure skating,"SCHOLZ, Lilly",AUT,Women,Pairs,Silver
@@ -194,7 +194,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1928,St.Moritz,Skating,Speed skating,"FARRELL, John O",USA,Men,500M,Bronze
 1928,St.Moritz,Skating,Speed skating,"THUNBERG, Clas",FIN,Men,500M,Gold
 1928,St.Moritz,Skating,Speed skating,"EVENSEN, Bernt",NOR,Men,500M,Gold
-1928,St.Moritz,Skiing,Cross Country Skiing,"í_DEGAARD, Reidar",NOR,Men,18KM,Bronze
+1928,St.Moritz,Skiing,Cross Country Skiing,"’_DEGAARD, Reidar",NOR,Men,18KM,Bronze
 1928,St.Moritz,Skiing,Cross Country Skiing,"GROTTUMSBRAATEN, Johan",NOR,Men,18KM,Gold
 1928,St.Moritz,Skiing,Cross Country Skiing,"HEGGE, Ole",NOR,Men,18KM,Silver
 1928,St.Moritz,Skiing,Cross Country Skiing,"ANDERSSON, Volger",SWE,Men,50KM,Bronze
@@ -243,7 +243,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Lake Placid,Bobsleigh,Bobsleigh,"CAPADRUTT, Reto",SUI,Men,Two-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"FONJALLAZ, Gaston",SUI,Men,Two-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"FONJALLAZ, Gustave",SUI,Men,Two-Man,Silver
-1932,Lake Placid,Bobsleigh,Bobsleigh,"FONJALLAZ, Rení©",SUI,Men,Two-Man,Silver
+1932,Lake Placid,Bobsleigh,Bobsleigh,"FONJALLAZ, Ren’",SUI,Men,Two-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"GEIER, Oscar",SUI,Men,Two-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"JENNY, Charles",SUI,Men,Two-Man,Silver
 1932,Lake Placid,Bobsleigh,Bobsleigh,"KLOETTA, Antoine",SUI,Men,Two-Man,Silver
@@ -251,11 +251,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Lake Placid,Ice Hockey,Ice Hockey,"BALL, Rudolf",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"HEINRICH, Alfred",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"HERKER, Erich",GER,Men,Ice Hockey,Bronze
-1932,Lake Placid,Ice Hockey,Ice Hockey,"Jí‹NECKE, Gustav",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,Ice Hockey,"J’ÜNECKE, Gustav",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"KORFF, Werner",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"LEINWEBER, Walter",GER,Men,Ice Hockey,Bronze
-1932,Lake Placid,Ice Hockey,Ice Hockey,"Rí_MER, Erich",GER,Men,Ice Hockey,Bronze
-1932,Lake Placid,Ice Hockey,Ice Hockey,"SCHRí_TTLE, Martin",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,Ice Hockey,"R’_MER, Erich",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,Ice Hockey,"SCHR’_TTLE, Martin",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"SLEVOGT, Marquardt",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"STROBL, Georg",GER,Men,Ice Hockey,Bronze
 1932,Lake Placid,Ice Hockey,Ice Hockey,"COCKBURN, William George",CAN,Men,Ice Hockey,Gold
@@ -287,14 +287,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Lake Placid,Ice Hockey,Ice Hockey,"PALMER, Winthrop Hale",USA,Men,Ice Hockey,Silver
 1932,Lake Placid,Ice Hockey,Ice Hockey,"SMITH, Gordon",USA,Men,Ice Hockey,Silver
 1932,Lake Placid,Skating,Figure skating,"WILSON, Montgomery",CAN,Men,Individual,Bronze
-1932,Lake Placid,Skating,Figure skating,"SCHí‹FER, Karl",AUT,Men,Individual,Gold
-1932,Lake Placid,Skating,Figure skating,"GRAFSTRí_M, Gillis",SWE,Men,Individual,Silver
+1932,Lake Placid,Skating,Figure skating,"SCH’ÜFER, Karl",AUT,Men,Individual,Gold
+1932,Lake Placid,Skating,Figure skating,"GRAFSTR’_M, Gillis",SWE,Men,Individual,Silver
 1932,Lake Placid,Skating,Figure skating,"VINSON, Maribel",USA,Women,Individual,Bronze
 1932,Lake Placid,Skating,Figure skating,"HENIE, Sonja",NOR,Women,Individual,Gold
 1932,Lake Placid,Skating,Figure skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
 1932,Lake Placid,Skating,Figure skating,"ROTTER, Emilia",HUN,Women,Pairs,Bronze
 1932,Lake Placid,Skating,Figure skating,"SZOLLAS, Laszlo",HUN,Men,Pairs,Bronze
-1932,Lake Placid,Skating,Figure skating,"BRUNET, Andrí©e",FRA,Women,Pairs,Gold
+1932,Lake Placid,Skating,Figure skating,"BRUNET, Andr’e",FRA,Women,Pairs,Gold
 1932,Lake Placid,Skating,Figure skating,"BRUNET, Pierre",FRA,Men,Pairs,Gold
 1932,Lake Placid,Skating,Figure skating,"BADGER, Sherwin",USA,Men,Pairs,Silver
 1932,Lake Placid,Skating,Figure skating,"LOUGHRAN, Beatrix",USA,Women,Pairs,Silver
@@ -311,11 +311,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1932,Lake Placid,Skating,Speed skating,"SHEA, John A.",USA,Men,500M,Gold
 1932,Lake Placid,Skating,Speed skating,"EVENSEN, Bernt",NOR,Men,500M,Silver
 1932,Lake Placid,Skiing,Cross Country Skiing,"SAARINEN, Veli",FIN,Men,18KM,Bronze
-1932,Lake Placid,Skiing,Cross Country Skiing,"UTTERSTRí_M, Sven",SWE,Men,18KM,Gold
-1932,Lake Placid,Skiing,Cross Country Skiing,"WIKSTRí_M, Axel",SWE,Men,18KM,Silver
+1932,Lake Placid,Skiing,Cross Country Skiing,"UTTERSTR’_M, Sven",SWE,Men,18KM,Gold
+1932,Lake Placid,Skiing,Cross Country Skiing,"WIKSTR’_M, Axel",SWE,Men,18KM,Silver
 1932,Lake Placid,Skiing,Cross Country Skiing,"RUSTADSTUEN, Arne",NOR,Men,50KM,Bronze
 1932,Lake Placid,Skiing,Cross Country Skiing,"SAARINEN, Veli",FIN,Men,50KM,Gold
-1932,Lake Placid,Skiing,Cross Country Skiing,"LIIKKANEN, Ví_iní_",FIN,Men,50KM,Silver
+1932,Lake Placid,Skiing,Cross Country Skiing,"LIIKKANEN, V’_in’",FIN,Men,50KM,Silver
 1932,Lake Placid,Skiing,Nordic Combined,"VINJARENGEN, Hans",NOR,Men,Individual,Bronze
 1932,Lake Placid,Skiing,Nordic Combined,"GROTTUMSBRAATEN, Johan",NOR,Men,Individual,Gold
 1932,Lake Placid,Skiing,Nordic Combined,"STENEN, Ole",NOR,Men,Individual,Silver
@@ -331,7 +331,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"GARTMANN, Arnold",SUI,Men,Four-Man,Gold
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"MUSY, Pierre",SUI,Men,Four-Man,Gold
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"AICHELE, Hans",SUI,Men,Four-Man,Silver
-1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"BíìTIKOFER, Hans",SUI,Men,Four-Man,Silver
+1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"B’“TIKOFER, Hans",SUI,Men,Four-Man,Silver
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"CAPADRUTT, Reto",SUI,Men,Four-Man,Silver
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"FEIERABEND, Fritz",SUI,Men,Four-Man,Silver
 1936,Garmisch Partenkirchen,Bobsleigh,Bobsleigh,"COLGATE, Gilbert",USA,Men,Two-Man,Bronze
@@ -377,7 +377,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1936,Garmisch Partenkirchen,Ice Hockey,Ice Hockey,"ST.GERMAIN, Ralph",CAN,Men,Ice Hockey,Silver
 1936,Garmisch Partenkirchen,Ice Hockey,Ice Hockey,"THOMSON, William",CAN,Men,Ice Hockey,Silver
 1936,Garmisch Partenkirchen,Skating,Figure skating,"KASPAR, Felix",AUT,Men,Individual,Bronze
-1936,Garmisch Partenkirchen,Skating,Figure skating,"SCHí‹FER, Karl",AUT,Men,Individual,Gold
+1936,Garmisch Partenkirchen,Skating,Figure skating,"SCH’ÜFER, Karl",AUT,Men,Individual,Gold
 1936,Garmisch Partenkirchen,Skating,Figure skating,"BAIER, Ernst",GER,Men,Individual,Silver
 1936,Garmisch Partenkirchen,Skating,Figure skating,"HULTEN, Vivi-Anne",SWE,Women,Individual,Bronze
 1936,Garmisch Partenkirchen,Skating,Figure skating,"HENIE, Sonja",NOR,Women,Individual,Gold
@@ -401,21 +401,21 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1936,Garmisch Partenkirchen,Skating,Speed skating,"BALLANGRUD, Ivar",NOR,Men,500M,Gold
 1936,Garmisch Partenkirchen,Skating,Speed skating,"KROG, Georg",NOR,Men,500M,Silver
 1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"ALLAIS, Emile",FRA,Men,Alpine Combined,Bronze
-1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"PFNíìR, Franz",GER,Men,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"PFN’“R, Franz",GER,Men,Alpine Combined,Gold
 1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"LANTSCHNER, Gustav",GER,Men,Alpine Combined,Silver
 1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"SCHOU-NILSEN, Laila",NOR,Women,Alpine Combined,Bronze
 1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"CRANZ, Christel",GER,Women,Alpine Combined,Gold
-1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"GRASEGGER, Kí_the",GER,Women,Alpine Combined,Silver
+1936,Garmisch Partenkirchen,Skiing,Alpine Skiing,"GRASEGGER, K’_the",GER,Women,Alpine Combined,Silver
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"NIEMI, Pekka",FIN,Men,18KM,Bronze
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"LARSSON, Erik August",SWE,Men,18KM,Gold
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"HAGEN, Oddbjorn",NOR,Men,18KM,Silver
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"BERGER, John",SWE,Men,4X10KM Relay,Bronze
-1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"Hí‹GGBLAD, Artur",SWE,Men,4X10KM Relay,Bronze
+1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"H’ÜGGBLAD, Artur",SWE,Men,4X10KM Relay,Bronze
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"LARSSON, Erik August",SWE,Men,4X10KM Relay,Bronze
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"MATSBO, Martin",SWE,Men,4X10KM Relay,Bronze
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"JALKANEN, Kalle",FIN,Men,4X10KM Relay,Gold
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"KARPPINEN, Klaus",FIN,Men,4X10KM Relay,Gold
-1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"Lí‹HDE, Matti",FIN,Men,4X10KM Relay,Gold
+1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"L’ÜHDE, Matti",FIN,Men,4X10KM Relay,Gold
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"NURMELA, Sulo",FIN,Men,4X10KM Relay,Gold
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"BRODAHL, Sverre",NOR,Men,4X10KM Relay,Silver
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"HAGEN, Oddbjorn",NOR,Men,4X10KM Relay,Silver
@@ -423,7 +423,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"IVERSEN, Bjarne",NOR,Men,4X10KM Relay,Silver
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"ENGLUND, Nils-Joel",SWE,Men,50KM,Bronze
 1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"WIKLUND, Elis",SWE,Men,50KM,Gold
-1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"WIKSTRí_M, Axel",SWE,Men,50KM,Silver
+1936,Garmisch Partenkirchen,Skiing,Cross Country Skiing,"WIKSTR’_M, Axel",SWE,Men,50KM,Silver
 1936,Garmisch Partenkirchen,Skiing,Nordic Combined,"BRODAHL, Sverre",NOR,Men,Individual,Bronze
 1936,Garmisch Partenkirchen,Skiing,Nordic Combined,"HAGEN, Oddbjorn",NOR,Men,Individual,Gold
 1936,Garmisch Partenkirchen,Skiing,Nordic Combined,"HOFFSBAKKEN, Olaf",NOR,Men,Individual,Silver
@@ -451,20 +451,20 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Bobsleigh,Skeleton,"CRAMMOND, John",GBR,Men,Individual,Bronze
 1948,St.Moritz,Bobsleigh,Skeleton,"BIBBIA, Nino",ITA,Men,Individual,Gold
 1948,St.Moritz,Bobsleigh,Skeleton,"HEATON, John",USA,Men,Individual,Silver
-1948,St.Moritz,Ice Hockey,Ice Hockey,"Bí‹NNINGER, Hans",SUI,Men,Ice Hockey,Bronze
+1948,St.Moritz,Ice Hockey,Ice Hockey,"B’ÜNNINGER, Hans",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"BIELER, Alfred",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"BOLLER, Heinrich",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"CATTINI, Ferdinand",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"CATTINI, Hans",SUI,Men,Ice Hockey,Bronze
-1948,St.Moritz,Ice Hockey,Ice Hockey,"DíìRST, Hans",SUI,Men,Ice Hockey,Bronze
-1948,St.Moritz,Ice Hockey,Ice Hockey,"DíìRST, Walter Paul",SUI,Men,Ice Hockey,Bronze
+1948,St.Moritz,Ice Hockey,Ice Hockey,"D’“RST, Hans",SUI,Men,Ice Hockey,Bronze
+1948,St.Moritz,Ice Hockey,Ice Hockey,"D’“RST, Walter Paul",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"HANDSCHIN, Emil",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"LOHRER, Heini",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"LOHRER, Werner",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"PERL, Reto",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"POLTERA, Gebhard",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"POLTERA, Ulrich",SUI,Men,Ice Hockey,Bronze
-1948,St.Moritz,Ice Hockey,Ice Hockey,"RíìEDI, Beat",SUI,Men,Ice Hockey,Bronze
+1948,St.Moritz,Ice Hockey,Ice Hockey,"R’“EDI, Beat",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"SCHUBIGER, Otto",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"TORRIANI, Richard",SUI,Men,Ice Hockey,Bronze
 1948,St.Moritz,Ice Hockey,Ice Hockey,"TREPP, Hans",SUI,Men,Ice Hockey,Bronze
@@ -478,11 +478,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Ice Hockey,Ice Hockey,"HALDER, Walter Edwin",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"HIBBERD, Thomas Edward",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"KING, Ross",CAN,Men,Ice Hockey,Gold
-1948,St.Moritz,Ice Hockey,Ice Hockey,"LAPERRIERE, Henri-Andrí©",CAN,Men,Ice Hockey,Gold
+1948,St.Moritz,Ice Hockey,Ice Hockey,"LAPERRIERE, Henri-Andr’",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"LECOMPTE, John Howard",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"LEICHNITZ, J.",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"MARA, George Edward",CAN,Men,Ice Hockey,Gold
-1948,St.Moritz,Ice Hockey,Ice Hockey,"RENAUD, Albert Romí©o",CAN,Men,Ice Hockey,Gold
+1948,St.Moritz,Ice Hockey,Ice Hockey,"RENAUD, Albert Rom’o",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"SCHROETER, Reginald John",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"TAYLOR, Irving",CAN,Men,Ice Hockey,Gold
 1948,St.Moritz,Ice Hockey,Ice Hockey,"BOUZEK, Vladimir",TCH,Men,Ice Hockey,Silver
@@ -520,7 +520,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Skating,Speed skating,"LUNDBERG, Odd",NOR,Men,1500M,Bronze
 1948,St.Moritz,Skating,Speed skating,"FARSTAD, Sverre",NOR,Men,1500M,Gold
 1948,St.Moritz,Skating,Speed skating,"SEYFFARTH, Ake",SWE,Men,1500M,Silver
-1948,St.Moritz,Skating,Speed skating,"HEDLUND, Gí_the",SWE,Men,5000M,Bronze
+1948,St.Moritz,Skating,Speed skating,"HEDLUND, G’_the",SWE,Men,5000M,Bronze
 1948,St.Moritz,Skating,Speed skating,"LIAKLEV, Reidar",NOR,Men,5000M,Gold
 1948,St.Moritz,Skating,Speed skating,"LUNDBERG, Odd",NOR,Men,5000M,Silver
 1948,St.Moritz,Skating,Speed skating,"HELGESEN, Finn",NOR,Men,500M,Gold
@@ -547,16 +547,16 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Skiing,Alpine Skiing,"FRASER, Gretchen",USA,Women,Slalom,Gold
 1948,St.Moritz,Skiing,Alpine Skiing,"MEYER, Antoinette",SUI,Women,Slalom,Silver
 1948,St.Moritz,Skiing,Cross Country Skiing,"ERIKSSON, Gunnar",SWE,Men,18KM,Bronze
-1948,St.Moritz,Skiing,Cross Country Skiing,"LUNDSTRí_M, Martin",SWE,Men,18KM,Gold
-1948,St.Moritz,Skiing,Cross Country Skiing,"í_STENSSON, Nils",SWE,Men,18KM,Silver
+1948,St.Moritz,Skiing,Cross Country Skiing,"LUNDSTR’_M, Martin",SWE,Men,18KM,Gold
+1948,St.Moritz,Skiing,Cross Country Skiing,"’_STENSSON, Nils",SWE,Men,18KM,Silver
 1948,St.Moritz,Skiing,Cross Country Skiing,"EVENSEN, Erling",NOR,Men,4X10KM Relay,Bronze
 1948,St.Moritz,Skiing,Cross Country Skiing,"HAGEN, Olav I.",NOR,Men,4X10KM Relay,Bronze
 1948,St.Moritz,Skiing,Cross Country Skiing,"NYBORG, Reidar",NOR,Men,4X10KM Relay,Bronze
-1948,St.Moritz,Skiing,Cross Country Skiing,"í_KERN, Olav",NOR,Men,4X10KM Relay,Bronze
+1948,St.Moritz,Skiing,Cross Country Skiing,"’_KERN, Olav",NOR,Men,4X10KM Relay,Bronze
 1948,St.Moritz,Skiing,Cross Country Skiing,"ERIKSSON, Gunnar",SWE,Men,4X10KM Relay,Gold
-1948,St.Moritz,Skiing,Cross Country Skiing,"LUNDSTRí_M, Martin",SWE,Men,4X10KM Relay,Gold
-1948,St.Moritz,Skiing,Cross Country Skiing,"í_STENSSON, Nils",SWE,Men,4X10KM Relay,Gold
-1948,St.Moritz,Skiing,Cross Country Skiing,"Tí‹PP, Nils",SWE,Men,4X10KM Relay,Gold
+1948,St.Moritz,Skiing,Cross Country Skiing,"LUNDSTR’_M, Martin",SWE,Men,4X10KM Relay,Gold
+1948,St.Moritz,Skiing,Cross Country Skiing,"’_STENSSON, Nils",SWE,Men,4X10KM Relay,Gold
+1948,St.Moritz,Skiing,Cross Country Skiing,"T’ÜPP, Nils",SWE,Men,4X10KM Relay,Gold
 1948,St.Moritz,Skiing,Cross Country Skiing,"KIURU, August",FIN,Men,4X10KM Relay,Silver
 1948,St.Moritz,Skiing,Cross Country Skiing,"LAUKKANEN, Teuvo",FIN,Men,4X10KM Relay,Silver
 1948,St.Moritz,Skiing,Cross Country Skiing,"RYTKY, Sauli",FIN,Men,4X10KM Relay,Silver
@@ -571,8 +571,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1948,St.Moritz,Skiing,Ski Jumping,"HUGSTED, Petter",NOR,Men,K90 Individual (70M),Gold
 1948,St.Moritz,Skiing,Ski Jumping,"RUUD, Birger",NOR,Men,K90 Individual (70M),Silver
 1952,Oslo,Bobsleigh,Bobsleigh,"FEIERABEND, Fritz",SUI,Men,Four-Man,Bronze
-1952,Oslo,Bobsleigh,Bobsleigh,"FILIPPINI, Andrí©",SUI,Men,Four-Man,Bronze
-1952,Oslo,Bobsleigh,Bobsleigh,"MADí_RIN, Albert",SUI,Men,Four-Man,Bronze
+1952,Oslo,Bobsleigh,Bobsleigh,"FILIPPINI, Andr’",SUI,Men,Four-Man,Bronze
+1952,Oslo,Bobsleigh,Bobsleigh,"MAD’_RIN, Albert",SUI,Men,Four-Man,Bronze
 1952,Oslo,Bobsleigh,Bobsleigh,"WASER, Stephan",SUI,Men,Four-Man,Bronze
 1952,Oslo,Bobsleigh,Bobsleigh,"KEMSER, Franz",FRG,Men,Four-Man,Gold
 1952,Oslo,Bobsleigh,Bobsleigh,"KUHN, Friedrich",FRG,Men,Four-Man,Gold
@@ -588,20 +588,20 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Oslo,Bobsleigh,Bobsleigh,"OSTLER, Andreas",FRG,Men,Two-Man,Gold
 1952,Oslo,Bobsleigh,Bobsleigh,"BENHAM, Stanley Delong",USA,Men,Two-Man,Silver
 1952,Oslo,Bobsleigh,Bobsleigh,"MARTIN, Patrick Henry",USA,Men,Two-Man,Silver
-1952,Oslo,Ice Hockey,Ice Hockey,"ALMQVIST, Gí_te",SWE,Men,Ice Hockey,Bronze
+1952,Oslo,Ice Hockey,Ice Hockey,"ALMQVIST, G’_te",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"ANDERSSON, Ake",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"ANDERSSON-TVILLING, Hans Lennart",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"ANDERSSON-TVILLING, Stig Gunnar",SWE,Men,Ice Hockey,Bronze
-1952,Oslo,Ice Hockey,Ice Hockey,"BJí_RN, Lars Gunnar",SWE,Men,Ice Hockey,Bronze
-1952,Oslo,Ice Hockey,Ice Hockey,"BLOMQVIST, Gí€Œ_te",SWE,Men,Ice Hockey,Bronze
+1952,Oslo,Ice Hockey,Ice Hockey,"BJ’_RN, Lars Gunnar",SWE,Men,Ice Hockey,Bronze
+1952,Oslo,Ice Hockey,Ice Hockey,"BLOMQVIST, G’CC_te",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"FLODQVIST, Thord",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"JOHANSSON, Erik",SWE,Men,Ice Hockey,Bronze
-1952,Oslo,Ice Hockey,Ice Hockey,"JOHANSSON, Gí_sta",SWE,Men,Ice Hockey,Bronze
+1952,Oslo,Ice Hockey,Ice Hockey,"JOHANSSON, G’_sta",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"JOHANSSON, Rune",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"JOHANSSON-TUMBA, Sven Olof",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"LASSAS, Erik Ake",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"NURMELA, Holger",SWE,Men,Ice Hockey,Bronze
-1952,Oslo,Ice Hockey,Ice Hockey,"í_BERG, Hans Andreas",SWE,Men,Ice Hockey,Bronze
+1952,Oslo,Ice Hockey,Ice Hockey,"’_BERG, Hans Andreas",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"PETTERSSON, Lars",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"SVENSSON, Lars Ake",SWE,Men,Ice Hockey,Bronze
 1952,Oslo,Ice Hockey,Ice Hockey,"THUNMAN, Sven",SWE,Men,Ice Hockey,Bronze
@@ -625,7 +625,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Oslo,Ice Hockey,Ice Hockey,"CEGLARSKI, Leonard Stanley",USA,Men,Ice Hockey,Silver
 1952,Oslo,Ice Hockey,Ice Hockey,"CZARNOTA, Joseph John",USA,Men,Ice Hockey,Silver
 1952,Oslo,Ice Hockey,Ice Hockey,"DESMOND, Richard Joseph",USA,Men,Ice Hockey,Silver
-1952,Oslo,Ice Hockey,Ice Hockey,"GAMBUCCI, Andrí© Peter",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,Ice Hockey,"GAMBUCCI, Andr’ Peter",USA,Men,Ice Hockey,Silver
 1952,Oslo,Ice Hockey,Ice Hockey,"HARRISON, Clifford",USA,Men,Ice Hockey,Silver
 1952,Oslo,Ice Hockey,Ice Hockey,"KILMARTIN, Gerald Walsh",USA,Men,Ice Hockey,Silver
 1952,Oslo,Ice Hockey,Ice Hockey,"MULHERN, John Francis",USA,Men,Ice Hockey,Silver
@@ -684,15 +684,15 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Oslo,Skiing,Cross Country Skiing,"HIETAMIES, Mirja",FIN,Women,10KM,Silver
 1952,Oslo,Skiing,Cross Country Skiing,"LONKILA, Paavo",FIN,Men,18KM,Bronze
 1952,Oslo,Skiing,Cross Country Skiing,"BRENDEN, Hallgeir",NOR,Men,18KM,Gold
-1952,Oslo,Skiing,Cross Country Skiing,"Mí‹KELí‹, Tapio",FIN,Men,18KM,Silver
+1952,Oslo,Skiing,Cross Country Skiing,"M’ÜKEL’Ü, Tapio",FIN,Men,18KM,Silver
 1952,Oslo,Skiing,Cross Country Skiing,"ANDERSSON, Sigurd",SWE,Men,4X10KM Relay,Bronze
 1952,Oslo,Skiing,Cross Country Skiing,"JOSEFSSON, Enar",SWE,Men,4X10KM Relay,Bronze
-1952,Oslo,Skiing,Cross Country Skiing,"LUNDSTRí_M, Martin",SWE,Men,4X10KM Relay,Bronze
-1952,Oslo,Skiing,Cross Country Skiing,"Tí‹PP, Nils",SWE,Men,4X10KM Relay,Bronze
+1952,Oslo,Skiing,Cross Country Skiing,"LUNDSTR’_M, Martin",SWE,Men,4X10KM Relay,Bronze
+1952,Oslo,Skiing,Cross Country Skiing,"T’ÜPP, Nils",SWE,Men,4X10KM Relay,Bronze
 1952,Oslo,Skiing,Cross Country Skiing,"HASU, Heikki",FIN,Men,4X10KM Relay,Gold
 1952,Oslo,Skiing,Cross Country Skiing,"KORHONEN, Urpo",FIN,Men,4X10KM Relay,Gold
 1952,Oslo,Skiing,Cross Country Skiing,"LONKILA, Paavo",FIN,Men,4X10KM Relay,Gold
-1952,Oslo,Skiing,Cross Country Skiing,"Mí‹KELí‹, Tapio",FIN,Men,4X10KM Relay,Gold
+1952,Oslo,Skiing,Cross Country Skiing,"M’ÜKEL’Ü, Tapio",FIN,Men,4X10KM Relay,Gold
 1952,Oslo,Skiing,Cross Country Skiing,"BRENDEN, Hallgeir",NOR,Men,4X10KM Relay,Silver
 1952,Oslo,Skiing,Cross Country Skiing,"ESTENSTAD, Magnar",NOR,Men,4X10KM Relay,Silver
 1952,Oslo,Skiing,Cross Country Skiing,"KIRKHOLT, Mikal",NOR,Men,4X10KM Relay,Silver
@@ -703,7 +703,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1952,Oslo,Skiing,Nordic Combined,"STENERSEN, Sverre",NOR,Men,Individual,Bronze
 1952,Oslo,Skiing,Nordic Combined,"SLATTVIK, Simon",NOR,Men,Individual,Gold
 1952,Oslo,Skiing,Nordic Combined,"HASU, Heikki",FIN,Men,Individual,Silver
-1952,Oslo,Skiing,Ski Jumping,"HOLMSTRí_M, Karl",SWE,Men,K90 Individual (70M),Bronze
+1952,Oslo,Skiing,Ski Jumping,"HOLMSTR’_M, Karl",SWE,Men,K90 Individual (70M),Bronze
 1952,Oslo,Skiing,Ski Jumping,"BERGMANN, Arnfinn",NOR,Men,K90 Individual (70M),Gold
 1952,Oslo,Skiing,Ski Jumping,"FALKANGER, Torbjorn",NOR,Men,K90 Individual (70M),Silver
 1956,Cortina d'Ampezzo,Bobsleigh,Bobsleigh,"BUTLER, Charles",USA,Men,Four-Man,Bronze
@@ -744,17 +744,17 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BABICH, Evgeniy",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"BOBROV, Vsevolod",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"GURYSHEV, Aleksey",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KHLYSTOV, Nikolaí¿",URS,Men,Ice Hockey,Gold
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KHLYSTOV, Nikola’À",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KOUZINE, Valentin",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KRYLOV, Yuri",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"KUCHEVSKIY, Alfred",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"MKRTCHAN, Grigori",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"NIKIFOROV, Viktor",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PANTJUKHOV, Yuri",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PUCHKOV, Nikolaí¿",URS,Men,Ice Hockey,Gold
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"PUCHKOV, Nikola’",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SHUVALOV, Viktor",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SIDORENKOV, Genrikh",URS,Men,Ice Hockey,Gold
-1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikolaí¿",URS,Men,Ice Hockey,Gold
+1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikola’",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"TREGUBOV, Ivan",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"UKOLOV, Dimitri",URS,Men,Ice Hockey,Gold
 1956,Cortina d'Ampezzo,Ice Hockey,Ice Hockey,"UVAROV, Aleksandr",URS,Men,Ice Hockey,Gold
@@ -804,7 +804,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"FELLAY, Raymond",SUI,Men,Downhill,Silver
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"WHEELER, Lucile",CAN,Women,Downhill,Bronze
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"BERTHOD, Madeleine",SUI,Women,Downhill,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"Dí‹NZER, Frieda",SUI,Women,Downhill,Silver
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"D’ÜNZER, Frieda",SUI,Women,Downhill,Silver
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SCHUSTER, Walter",AUT,Men,Giant Slalom,Bronze
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Giant Slalom,Gold
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"MOLTERER, Andreas",AUT,Men,Giant Slalom,Silver
@@ -815,9 +815,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SAILER, Anton",AUT,Men,Slalom,Gold
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"IGAYA, Chiharu",JPN,Men,Slalom,Silver
 1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SIDOROVA, Yevgeniya",URS,Women,Slalom,Bronze
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"COLLIARD, Rení©e",SUI,Women,Slalom,Gold
-1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SCHí_PF, Regina",AUT,Women,Slalom,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTRí_M, Sonja",SWE,Women,10KM,Bronze
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"COLLIARD, Ren’e",SUI,Women,Slalom,Gold
+1956,Cortina d'Ampezzo,Skiing,Alpine Skiing,"SCH’_PF, Regina",AUT,Women,Slalom,Silver
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTR’_M, Sonja",SWE,Women,10KM,Bronze
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,10KM,Gold
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"YEROSHINA, Radya",URS,Women,10KM,Silver
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,15KM,Bronze
@@ -826,7 +826,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"KOLCHIN, Pavel",URS,Men,30KM Mass Start,Bronze
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,30KM Mass Start,Gold
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,30KM Mass Start,Silver
-1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTRí_M, Sonja",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"EDSTR’_M, Sonja",SWE,Women,3X5KM Relay,Bronze
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"ERIKSSON, Anna Lisa",SWE,Women,3X5KM Relay,Bronze
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Bronze
 1956,Cortina d'Ampezzo,Skiing,Cross Country Skiing,"HIETAMIES, Mirja",FIN,Women,3X5KM Relay,Gold
@@ -854,25 +854,25 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1956,Cortina d'Ampezzo,Skiing,Nordic Combined,"STENERSEN, Sverre",NOR,Men,Individual,Gold
 1956,Cortina d'Ampezzo,Skiing,Nordic Combined,"ERIKSSON, Bengt",SWE,Men,Individual,Silver
 1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"GLASS, Harry",EUA,Men,K90 Individual (70M),Bronze
-1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"HYVí‹RINEN, Antti",FIN,Men,K90 Individual (70M),Gold
+1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"HYV’ÜRINEN, Antti",FIN,Men,K90 Individual (70M),Gold
 1956,Cortina d'Ampezzo,Skiing,Ski Jumping,"KALLAKORPI, Aulis",FIN,Men,K90 Individual (70M),Silver
 1960,Squaw Valley,Biathlon,Biathlon,"PRIVALOV, Aleksandr",URS,Men,20KM,Bronze
 1960,Squaw Valley,Biathlon,Biathlon,"LESTANDER, Klas",SWE,Men,20KM,Gold
-1960,Squaw Valley,Biathlon,Biathlon,"TYRVí‹INEN, Antti",FIN,Men,20KM,Silver
+1960,Squaw Valley,Biathlon,Biathlon,"TYRV’ÜINEN, Antti",FIN,Men,20KM,Silver
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"ALEKSANDROV, Veniamin",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"ALMETOV, Aleksandr",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"BAULIN, Yuri",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"BYCHKOV, Mikhail",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"GREBENNIKOV, Vladimir",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"GROSHEV, Evgeni",URS,Men,Ice Hockey,Bronze
-1960,Squaw Valley,Ice Hockey,Ice Hockey,"KARPOV, Nikolaí¿",URS,Men,Ice Hockey,Bronze
+1960,Squaw Valley,Ice Hockey,Ice Hockey,"KARPOV, Nikola’",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"KUCHEVSKIY, Alfred",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"LOKTEV, Konstantin",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"PETUKHOV, Stanislav",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"PRYAZHNIKOV, Viktor",URS,Men,Ice Hockey,Bronze
-1960,Squaw Valley,Ice Hockey,Ice Hockey,"PUCHKOV, Nikolaí¿",URS,Men,Ice Hockey,Bronze
+1960,Squaw Valley,Ice Hockey,Ice Hockey,"PUCHKOV, Nikola’",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"SIDORENKOV, Genrikh",URS,Men,Ice Hockey,Bronze
-1960,Squaw Valley,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikolaí¿",URS,Men,Ice Hockey,Bronze
+1960,Squaw Valley,Ice Hockey,Ice Hockey,"SOLOGUBOV, Nikola’",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"TSITSINOV, Yuri",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"YAKUSHEV, Viktor",URS,Men,Ice Hockey,Bronze
 1960,Squaw Valley,Ice Hockey,Ice Hockey,"YERKIN, Evgeni",URS,Men,Ice Hockey,Bronze
@@ -920,9 +920,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Squaw Valley,Skating,Figure skating,"LUDINGTON, Ronald",USA,Men,Pairs,Bronze
 1960,Squaw Valley,Skating,Figure skating,"PAUL, Robert",CAN,Men,Pairs,Gold
 1960,Squaw Valley,Skating,Figure skating,"WAGNER, Barbara",CAN,Women,Pairs,Gold
-1960,Squaw Valley,Skating,Figure skating,"Bí‹UMLER, Hans Jí_rgen",EUA,Men,Pairs,Silver
+1960,Squaw Valley,Skating,Figure skating,"B’ÜUMLER, Hans J’_rgen",EUA,Men,Pairs,Silver
 1960,Squaw Valley,Skating,Figure skating,"KILIUS, Marika",EUA,Women,Pairs,Silver
-1960,Squaw Valley,Skating,Speed skating,"Bí‹CKMAN, Kjell",SWE,Men,10000M,Bronze
+1960,Squaw Valley,Skating,Speed skating,"B’ÜCKMAN, Kjell",SWE,Men,10000M,Bronze
 1960,Squaw Valley,Skating,Speed skating,"JOHANNESEN, Knut",NOR,Men,10000M,Gold
 1960,Squaw Valley,Skating,Speed skating,"KOSICHKIN, Viktor",URS,Men,10000M,Silver
 1960,Squaw Valley,Skating,Speed skating,"RYLOVA, Tamara",URS,Women,1000M,Bronze
@@ -946,7 +946,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Squaw Valley,Skating,Speed skating,"ASHWORTH, Jeanne",USA,Women,500M,Bronze
 1960,Squaw Valley,Skating,Speed skating,"HAASE, Helga",EUA,Women,500M,Gold
 1960,Squaw Valley,Skating,Speed skating,"DONCHENKO, Natalya",URS,Women,500M,Silver
-1960,Squaw Valley,Skiing,Alpine Skiing,"PíŠRILLAT, Guy",FRA,Men,Downhill,Bronze
+1960,Squaw Valley,Skiing,Alpine Skiing,"P’_RILLAT, Guy",FRA,Men,Downhill,Bronze
 1960,Squaw Valley,Skiing,Alpine Skiing,"VUARNET, Jean",FRA,Men,Downhill,Gold
 1960,Squaw Valley,Skiing,Alpine Skiing,"LANIG, Hanspeter",EUA,Men,Downhill,Silver
 1960,Squaw Valley,Skiing,Alpine Skiing,"HECHER, Traudl",AUT,Women,Downhill,Bronze
@@ -972,11 +972,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Squaw Valley,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,15KM,Silver
 1960,Squaw Valley,Skiing,Cross Country Skiing,"ANIKIN, Nikolay",URS,Men,30KM Mass Start,Bronze
 1960,Squaw Valley,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,30KM Mass Start,Gold
-1960,Squaw Valley,Skiing,Cross Country Skiing,"Rí‹MGARD, Rolf",SWE,Men,30KM Mass Start,Silver
-1960,Squaw Valley,Skiing,Cross Country Skiing,"Pí_YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing,"R’ÜMGARD, Rolf",SWE,Men,30KM Mass Start,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing,"P’_YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
 1960,Squaw Valley,Skiing,Cross Country Skiing,"RANTANEN, Siiri",FIN,Women,3X5KM Relay,Bronze
 1960,Squaw Valley,Skiing,Cross Country Skiing,"RUOPPA, Eeva",FIN,Women,3X5KM Relay,Bronze
-1960,Squaw Valley,Skiing,Cross Country Skiing,"EDSTRí_M, Sonja",SWE,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing,"EDSTR’_M, Sonja",SWE,Women,3X5KM Relay,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"STRANDBERG, Britt",SWE,Women,3X5KM Relay,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"BARANOVA, Lyubov",URS,Women,3X5KM Relay,Silver
@@ -988,14 +988,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1960,Squaw Valley,Skiing,Cross Country Skiing,"VAGANOV, Gennadi",URS,Men,4X10KM Relay,Bronze
 1960,Squaw Valley,Skiing,Cross Country Skiing,"ALATALO, Toimi",FIN,Men,4X10KM Relay,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,4X10KM Relay,Gold
-1960,Squaw Valley,Skiing,Cross Country Skiing,"HUHTALA, Ví_iní_ Veikko Sakari",FIN,Men,4X10KM Relay,Gold
-1960,Squaw Valley,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,4X10KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing,"HUHTALA, V’_in’_ Veikko Sakari",FIN,Men,4X10KM Relay,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,4X10KM Relay,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"BRENDEN, Hallgeir",NOR,Men,4X10KM Relay,Silver
 1960,Squaw Valley,Skiing,Cross Country Skiing,"BRUSVEEN, Haakon",NOR,Men,4X10KM Relay,Silver
-1960,Squaw Valley,Skiing,Cross Country Skiing,"GRí_NNINGEN, Harald",NOR,Men,4X10KM Relay,Silver
-1960,Squaw Valley,Skiing,Cross Country Skiing,"í_STBY, Einar",NOR,Men,4X10KM Relay,Silver
-1960,Squaw Valley,Skiing,Cross Country Skiing,"Rí‹MGARD, Rolf",SWE,Men,50KM,Bronze
-1960,Squaw Valley,Skiing,Cross Country Skiing,"Hí‹Mí‹Lí‹INEN, Kalevi",FIN,Men,50KM,Gold
+1960,Squaw Valley,Skiing,Cross Country Skiing,"GR’_NNINGEN, Harald",NOR,Men,4X10KM Relay,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing,"’_STBY, Einar",NOR,Men,4X10KM Relay,Silver
+1960,Squaw Valley,Skiing,Cross Country Skiing,"R’ÜMGARD, Rolf",SWE,Men,50KM,Bronze
+1960,Squaw Valley,Skiing,Cross Country Skiing,"H’ÜM’ÜL’ÜINEN, Kalevi",FIN,Men,50KM,Gold
 1960,Squaw Valley,Skiing,Cross Country Skiing,"HAKULINEN, Veikko",FIN,Men,50KM,Silver
 1960,Squaw Valley,Skiing,Nordic Combined,"GUSAKOV, Nikolay",URS,Men,Individual,Bronze
 1960,Squaw Valley,Skiing,Nordic Combined,"THOMA, Georg",EUA,Men,Individual,Gold
@@ -1059,17 +1059,17 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Ice Hockey,Ice Hockey,"ZAITZEV, Boris",URS,Men,Ice Hockey,Gold
 1964,Innsbruck,Ice Hockey,Ice Hockey,"ANDERSSON, Anders",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"BLOME, Gert",SWE,Men,Ice Hockey,Silver
-1964,Innsbruck,Ice Hockey,Ice Hockey,"Hí‹GGROTH, Lennart",SWE,Men,Ice Hockey,Silver
+1964,Innsbruck,Ice Hockey,Ice Hockey,"H’ÜGGROTH, Lennart",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"JOHANSSON, Lennart",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"JOHANSSON, Nils",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"JOHANSSON-TUMBA, Sven Olof",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"LUNDVALL, Lars Erik",SWE,Men,Ice Hockey,Silver
-1964,Innsbruck,Ice Hockey,Ice Hockey,"Mí‹í‹Tí‹í‹, Eilert",SWE,Men,Ice Hockey,Silver
+1964,Innsbruck,Ice Hockey,Ice Hockey,"M’Ü’ÜT’Ü’Ü, Eilert",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"MILD, Hans",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"NILSSON, Nils Erik",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"NORDLANDER, Bert-Ola",SWE,Men,Ice Hockey,Silver
-1964,Innsbruck,Ice Hockey,Ice Hockey,"í_BERG, Carl-Gí_ran",SWE,Men,Ice Hockey,Silver
-1964,Innsbruck,Ice Hockey,Ice Hockey,"í_HRLUND, Uno",SWE,Men,Ice Hockey,Silver
+1964,Innsbruck,Ice Hockey,Ice Hockey,"’_BERG, Carl-G’_ran",SWE,Men,Ice Hockey,Silver
+1964,Innsbruck,Ice Hockey,Ice Hockey,"’_HRLUND, Uno",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"PETTERSSON, Ronald Erik",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"STERNER, Ulf",SWE,Men,Ice Hockey,Silver
 1964,Innsbruck,Ice Hockey,Ice Hockey,"STOLTZ, Roland",SWE,Men,Ice Hockey,Silver
@@ -1081,7 +1081,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Luge,Luge,"SENN, Reinhold",AUT,Men,Doubles,Silver
 1964,Innsbruck,Luge,Luge,"THALER, Helmut",AUT,Men,Doubles,Silver
 1964,Innsbruck,Luge,Luge,"PLENK, Hans",EUA,Men,Singles,Bronze
-1964,Innsbruck,Luge,Luge,"Kí_HLER, Thomas",EUA,Men,Singles,Gold
+1964,Innsbruck,Luge,Luge,"K’_HLER, Thomas",EUA,Men,Singles,Gold
 1964,Innsbruck,Luge,Luge,"BONSACK, Klaus",EUA,Men,Singles,Silver
 1964,Innsbruck,Luge,Luge,"THURNER, Helene",AUT,Women,Singles,Bronze
 1964,Innsbruck,Luge,Luge,"ENDERLEIN, Ortrun",EUA,Women,Singles,Gold
@@ -1098,7 +1098,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Skating,Figure skating,"PROTOPOPOV, Oleg",URS,Men,Pairs,Gold
 1964,Innsbruck,Skating,Figure skating,"JOSEPH, Ronald",USA,Women,Pairs,Bronze
 1964,Innsbruck,Skating,Figure skating,"JOSEPH, Vivian",USA,Men,Pairs,Bronze
-1964,Innsbruck,Skating,Figure skating,"Bí‹UMLER, Hans Jí_rgen",EUA,Men,Pairs,Silver
+1964,Innsbruck,Skating,Figure skating,"B’ÜUMLER, Hans J’_rgen",EUA,Men,Pairs,Silver
 1964,Innsbruck,Skating,Figure skating,"KILIUS, Marika",EUA,Women,Pairs,Silver
 1964,Innsbruck,Skating,Speed skating,"JOHANNESEN, Knut",NOR,Men,10000M,Bronze
 1964,Innsbruck,Skating,Speed skating,"NILSSON, Jonny",SWE,Men,10000M,Gold
@@ -1127,12 +1127,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Skating,Speed skating,"YEGOROVA, Irina",URS,Women,500M,Silver
 1964,Innsbruck,Skiing,Alpine Skiing,"BARTELS, Wolfgang",EUA,Men,Downhill,Bronze
 1964,Innsbruck,Skiing,Alpine Skiing,"ZIMMERMANN, Egon",AUT,Men,Downhill,Gold
-1964,Innsbruck,Skiing,Alpine Skiing,"LACROIX, Lí©o",FRA,Men,Downhill,Silver
+1964,Innsbruck,Skiing,Alpine Skiing,"LACROIX, L’o",FRA,Men,Downhill,Silver
 1964,Innsbruck,Skiing,Alpine Skiing,"HECHER, Traudl",AUT,Women,Downhill,Bronze
 1964,Innsbruck,Skiing,Alpine Skiing,"HAAS, Christl",AUT,Women,Downhill,Gold
 1964,Innsbruck,Skiing,Alpine Skiing,"ZIMMERMANN, Edith",AUT,Women,Downhill,Silver
 1964,Innsbruck,Skiing,Alpine Skiing,"STIEGLER, Josef",AUT,Men,Giant Slalom,Bronze
-1964,Innsbruck,Skiing,Alpine Skiing,"BONLIEU, Franí_ois",FRA,Men,Giant Slalom,Gold
+1964,Innsbruck,Skiing,Alpine Skiing,"BONLIEU, Fran’_ois",FRA,Men,Giant Slalom,Gold
 1964,Innsbruck,Skiing,Alpine Skiing,"SCHRANZ, Karl",AUT,Men,Giant Slalom,Silver
 1964,Innsbruck,Skiing,Alpine Skiing,"GOITSCHEL, Marielle",FRA,Women,Giant Slalom,Gold
 1964,Innsbruck,Skiing,Alpine Skiing,"GOITSCHEL, Christine",FRA,Women,Giant Slalom,Silver
@@ -1147,13 +1147,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Skiing,Cross Country Skiing,"BOYARSKIKH, Klavdiya",URS,Women,10KM,Gold
 1964,Innsbruck,Skiing,Cross Country Skiing,"MEKSHILO, Yevdoyka",URS,Women,10KM,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,15KM,Bronze
-1964,Innsbruck,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,15KM,Gold
-1964,Innsbruck,Skiing,Cross Country Skiing,"GRí_NNINGEN, Harald",NOR,Men,15KM,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,15KM,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing,"GR’_NNINGEN, Harald",NOR,Men,15KM,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"VORONCHIKHIN, Igor",URS,Men,30KM Mass Start,Bronze
-1964,Innsbruck,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,30KM Mass Start,Gold
-1964,Innsbruck,Skiing,Cross Country Skiing,"GRí_NNINGEN, Harald",NOR,Men,30KM Mass Start,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,30KM Mass Start,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing,"GR’_NNINGEN, Harald",NOR,Men,30KM Mass Start,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"LEHTONEN, Mirja",FIN,Women,3X5KM Relay,Bronze
-1964,Innsbruck,Skiing,Cross Country Skiing,"Pí_YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,Cross Country Skiing,"P’_YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
 1964,Innsbruck,Skiing,Cross Country Skiing,"PUSULA, Senja",FIN,Women,3X5KM Relay,Bronze
 1964,Innsbruck,Skiing,Cross Country Skiing,"BOYARSKIKH, Klavdiya",URS,Women,3X5KM Relay,Gold
 1964,Innsbruck,Skiing,Cross Country Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Gold
@@ -1167,37 +1167,37 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1964,Innsbruck,Skiing,Cross Country Skiing,"VORONCHIKHIN, Igor",URS,Men,4X10KM Relay,Bronze
 1964,Innsbruck,Skiing,Cross Country Skiing,"ASPH, Karl-Ake",SWE,Men,4X10KM Relay,Gold
 1964,Innsbruck,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,4X10KM Relay,Gold
-1964,Innsbruck,Skiing,Cross Country Skiing,"Rí_NNLUND, Assar",SWE,Men,4X10KM Relay,Gold
+1964,Innsbruck,Skiing,Cross Country Skiing,"R’_NNLUND, Assar",SWE,Men,4X10KM Relay,Gold
 1964,Innsbruck,Skiing,Cross Country Skiing,"STEFANSSON, Janne",SWE,Men,4X10KM Relay,Gold
-1964,Innsbruck,Skiing,Cross Country Skiing,"HUHTALA, Ví_iní_ Veikko Sakari",FIN,Men,4X10KM Relay,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing,"HUHTALA, V’_in’_ Veikko Sakari",FIN,Men,4X10KM Relay,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"LAURILA, Kalevi",FIN,Men,4X10KM Relay,Silver
-1964,Innsbruck,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,4X10KM Relay,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,4X10KM Relay,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"TIAINEN, Arto",FIN,Men,4X10KM Relay,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"TIAINEN, Arto",FIN,Men,50KM,Bronze
 1964,Innsbruck,Skiing,Cross Country Skiing,"JERNBERG, Sixten",SWE,Men,50KM,Gold
-1964,Innsbruck,Skiing,Cross Country Skiing,"Rí_NNLUND, Assar",SWE,Men,50KM,Silver
+1964,Innsbruck,Skiing,Cross Country Skiing,"R’_NNLUND, Assar",SWE,Men,50KM,Silver
 1964,Innsbruck,Skiing,Cross Country Skiing,"KOLCHINA, Alevtina",URS,Women,5KM,Bronze
 1964,Innsbruck,Skiing,Cross Country Skiing,"BOYARSKIKH, Klavdiya",URS,Women,5KM,Gold
 1964,Innsbruck,Skiing,Cross Country Skiing,"LEHTONEN, Mirja",FIN,Women,5KM,Silver
 1964,Innsbruck,Skiing,Nordic Combined,"THOMA, Georg",EUA,Men,Individual,Bronze
 1964,Innsbruck,Skiing,Nordic Combined,"KNUTSEN, Tormod",NOR,Men,Individual,Gold
 1964,Innsbruck,Skiing,Nordic Combined,"KISELYOV, Nikolay",URS,Men,Individual,Silver
-1964,Innsbruck,Skiing,Ski Jumping,"BRANDTZí‹G, Torgeir",NOR,Men,K120 Individual (90M),Bronze
+1964,Innsbruck,Skiing,Ski Jumping,"BRANDTZ’ÜG, Torgeir",NOR,Men,K120 Individual (90M),Bronze
 1964,Innsbruck,Skiing,Ski Jumping,"ENGAN, Toralf",NOR,Men,K120 Individual (90M),Gold
 1964,Innsbruck,Skiing,Ski Jumping,"KANKKONEN, Veikko",FIN,Men,K120 Individual (90M),Silver
-1964,Innsbruck,Skiing,Ski Jumping,"BRANDTZí‹G, Torgeir",NOR,Men,K90 Individual (70M),Bronze
+1964,Innsbruck,Skiing,Ski Jumping,"BRANDTZ’ÜG, Torgeir",NOR,Men,K90 Individual (70M),Bronze
 1964,Innsbruck,Skiing,Ski Jumping,"KANKKONEN, Veikko",FIN,Men,K90 Individual (70M),Gold
 1964,Innsbruck,Skiing,Ski Jumping,"ENGAN, Toralf",NOR,Men,K90 Individual (70M),Silver
 1968,Grenoble,Biathlon,Biathlon,"GUNDARTSEV, Vladimir",URS,Men,20KM,Bronze
 1968,Grenoble,Biathlon,Biathlon,"SOLBERG, Magnar",NOR,Men,20KM,Gold
 1968,Grenoble,Biathlon,Biathlon,"TIKHONOV, Aleksandr",URS,Men,20KM,Silver
-1968,Grenoble,Biathlon,Biathlon,"ARWIDSON, Lars-Gí_ran",SWE,Men,4X7.5KM Relay,Bronze
+1968,Grenoble,Biathlon,Biathlon,"ARWIDSON, Lars-G’_ran",SWE,Men,4X7.5KM Relay,Bronze
 1968,Grenoble,Biathlon,Biathlon,"ERIKSSON, Tore",SWE,Men,4X7.5KM Relay,Bronze
 1968,Grenoble,Biathlon,Biathlon,"OLSSON, Holmfrid",SWE,Men,4X7.5KM Relay,Bronze
 1968,Grenoble,Biathlon,Biathlon,"PETRUSSON, Olle",SWE,Men,4X7.5KM Relay,Bronze
 1968,Grenoble,Biathlon,Biathlon,"GUNDARTSEV, Vladimir",URS,Men,4X7.5KM Relay,Gold
 1968,Grenoble,Biathlon,Biathlon,"MAMATOV, Viktor",URS,Men,4X7.5KM Relay,Gold
-1968,Grenoble,Biathlon,Biathlon,"PUSANOV, Nikolaí¿",URS,Men,4X7.5KM Relay,Gold
+1968,Grenoble,Biathlon,Biathlon,"PUSANOV, Nikola’",URS,Men,4X7.5KM Relay,Gold
 1968,Grenoble,Biathlon,Biathlon,"TIKHONOV, Aleksandr",URS,Men,4X7.5KM Relay,Gold
 1968,Grenoble,Biathlon,Biathlon,"ISTAD, Jon",NOR,Men,4X7.5KM Relay,Silver
 1968,Grenoble,Biathlon,Biathlon,"JORDET, Olav",NOR,Men,4X7.5KM Relay,Silver
@@ -1278,13 +1278,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Luge,Luge,"NACHMANN, Fritz",FRG,Men,Doubles,Bronze
 1968,Grenoble,Luge,Luge,"WINKLER, Wolfgang",FRG,Men,Doubles,Bronze
 1968,Grenoble,Luge,Luge,"BONSACK, Klaus",GDR,Men,Doubles,Gold
-1968,Grenoble,Luge,Luge,"Kí_HLER, Thomas",GDR,Men,Doubles,Gold
+1968,Grenoble,Luge,Luge,"K’_HLER, Thomas",GDR,Men,Doubles,Gold
 1968,Grenoble,Luge,Luge,"SCHMID, Manfred",AUT,Men,Doubles,Silver
 1968,Grenoble,Luge,Luge,"WALCH, Ewald",AUT,Men,Doubles,Silver
 1968,Grenoble,Luge,Luge,"BONSACK, Klaus",GDR,Men,Singles,Bronze
 1968,Grenoble,Luge,Luge,"SCHMID, Manfred",AUT,Men,Singles,Gold
-1968,Grenoble,Luge,Luge,"Kí_HLER, Thomas",GDR,Men,Singles,Silver
-1968,Grenoble,Luge,Luge,"DíìNHAUPT, Angelika",FRG,Women,Singles,Bronze
+1968,Grenoble,Luge,Luge,"K’_HLER, Thomas",GDR,Men,Singles,Silver
+1968,Grenoble,Luge,Luge,"D’“NHAUPT, Angelika",FRG,Women,Singles,Bronze
 1968,Grenoble,Luge,Luge,"LECHNER, Erica",ITA,Women,Singles,Gold
 1968,Grenoble,Luge,Luge,"SCHMUCK, Christa",FRG,Women,Singles,Silver
 1968,Grenoble,Skating,Figure skating,"PERA, Patrick",FRA,Men,Individual,Bronze
@@ -1299,8 +1299,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Skating,Figure skating,"PROTOPOPOV, Oleg",URS,Men,Pairs,Gold
 1968,Grenoble,Skating,Figure skating,"GORELIK, Aleksandr",URS,Men,Pairs,Silver
 1968,Grenoble,Skating,Figure skating,"ZHUK, Tatyana",URS,Women,Pairs,Silver
-1968,Grenoble,Skating,Speed skating,"SANDLER, í_rjan",SWE,Men,10000M,Bronze
-1968,Grenoble,Skating,Speed skating,"Hí_GLIN, Johnny",SWE,Men,10000M,Gold
+1968,Grenoble,Skating,Speed skating,"SANDLER, ’_rjan",SWE,Men,10000M,Bronze
+1968,Grenoble,Skating,Speed skating,"H’_GLIN, Johnny",SWE,Men,10000M,Gold
 1968,Grenoble,Skating,Speed skating,"MAIER, Fred Anton",NOR,Men,10000M,Silver
 1968,Grenoble,Skating,Speed skating,"HOLUM, Dianne",USA,Women,1000M,Bronze
 1968,Grenoble,Skating,Speed skating,"GEIJSSEN, Carolina",NED,Women,1000M,Gold
@@ -1324,9 +1324,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Skating,Speed skating,"FISH, Jennifer",USA,Women,500M,Silver
 1968,Grenoble,Skating,Speed skating,"HOLUM, Dianne",USA,Women,500M,Silver
 1968,Grenoble,Skating,Speed skating,"MEYERS, Mary",USA,Women,500M,Silver
-1968,Grenoble,Skiing,Alpine Skiing,"Dí‹TWYLER, Jean-Daniel",SUI,Men,Downhill,Bronze
+1968,Grenoble,Skiing,Alpine Skiing,"D’ÜTWYLER, Jean-Daniel",SUI,Men,Downhill,Bronze
 1968,Grenoble,Skiing,Alpine Skiing,"KILLY, Jean-Claude",FRA,Men,Downhill,Gold
-1968,Grenoble,Skiing,Alpine Skiing,"PíŠRILLAT, Guy",FRA,Men,Downhill,Silver
+1968,Grenoble,Skiing,Alpine Skiing,"P’SRILLAT, Guy",FRA,Men,Downhill,Silver
 1968,Grenoble,Skiing,Alpine Skiing,"HAAS, Christl",AUT,Women,Downhill,Bronze
 1968,Grenoble,Skiing,Alpine Skiing,"PALL, Olga",AUT,Women,Downhill,Gold
 1968,Grenoble,Skiing,Alpine Skiing,"MIR, Isabelle",FRA,Women,Downhill,Silver
@@ -1344,11 +1344,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Skiing,Alpine Skiing,"GREENE, Nancy",CAN,Women,Slalom,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"AUFLES, Inger",NOR,Women,10KM,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"GUSTAFSSON, Toini",SWE,Women,10KM,Gold
-1968,Grenoble,Skiing,Cross Country Skiing,"Mí_RDRE, Berit",NOR,Women,10KM,Silver
+1968,Grenoble,Skiing,Cross Country Skiing,"M’_RDRE, Berit",NOR,Women,10KM,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"LARSSON, Gunnar",SWE,Men,15KM,Bronze
-1968,Grenoble,Skiing,Cross Country Skiing,"GRí_NNINGEN, Harald",NOR,Men,15KM,Gold
-1968,Grenoble,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,15KM,Silver
-1968,Grenoble,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,30KM Mass Start,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing,"GR’_NNINGEN, Harald",NOR,Men,15KM,Gold
+1968,Grenoble,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,15KM,Silver
+1968,Grenoble,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,30KM Mass Start,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"NONES, Franco",ITA,Men,30KM Mass Start,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"MARTINSEN, Odd",NOR,Men,30KM Mass Start,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"ACHKINA, Rita",URS,Women,3X5KM Relay,Bronze
@@ -1356,22 +1356,22 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Skiing,Cross Country Skiing,"KULAKOVA, Galina",URS,Women,3X5KM Relay,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"AUFLES, Inger",NOR,Women,3X5KM Relay,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"ENGER, Babben",NOR,Women,3X5KM Relay,Gold
-1968,Grenoble,Skiing,Cross Country Skiing,"Mí_RDRE, Berit",NOR,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,Cross Country Skiing,"M’_RDRE, Berit",NOR,Women,3X5KM Relay,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"GUSTAFSSON, Toini",SWE,Women,3X5KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"MARTINSSON, Barbro",SWE,Women,3X5KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"STRANDBERG, Britt",SWE,Women,3X5KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"LAURILA, Kalevi",FIN,Men,4X10KM Relay,Bronze
-1968,Grenoble,Skiing,Cross Country Skiing,"Mí‹NTYRANTA, Eero",FIN,Men,4X10KM Relay,Bronze
+1968,Grenoble,Skiing,Cross Country Skiing,"M’ÜNTYRANTA, Eero",FIN,Men,4X10KM Relay,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"OIKARAINEN, Kalevi",FIN,Men,4X10KM Relay,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"TAIPALE, Hannu",FIN,Men,4X10KM Relay,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"ELLEFSAETER, Ole",NOR,Men,4X10KM Relay,Gold
-1968,Grenoble,Skiing,Cross Country Skiing,"GRí_NNINGEN, Harald",NOR,Men,4X10KM Relay,Gold
+1968,Grenoble,Skiing,Cross Country Skiing,"GR’_NNINGEN, Harald",NOR,Men,4X10KM Relay,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"MARTINSEN, Odd",NOR,Men,4X10KM Relay,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"TYLDUM, Paal",NOR,Men,4X10KM Relay,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"ANDERSSON, Bjarne",SWE,Men,4X10KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"HALVARSSON, Jan",SWE,Men,4X10KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"LARSSON, Gunnar",SWE,Men,4X10KM Relay,Silver
-1968,Grenoble,Skiing,Cross Country Skiing,"Rí_NNLUND, Assar",SWE,Men,4X10KM Relay,Silver
+1968,Grenoble,Skiing,Cross Country Skiing,"R’_NNLUND, Assar",SWE,Men,4X10KM Relay,Silver
 1968,Grenoble,Skiing,Cross Country Skiing,"HAAS, Joseph",SUI,Men,50KM,Bronze
 1968,Grenoble,Skiing,Cross Country Skiing,"ELLEFSAETER, Ole",NOR,Men,50KM,Gold
 1968,Grenoble,Skiing,Cross Country Skiing,"VEDENIN, Vyacheslav",URS,Men,50KM,Silver
@@ -1380,14 +1380,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1968,Grenoble,Skiing,Cross Country Skiing,"KULAKOVA, Galina",URS,Women,5KM,Silver
 1968,Grenoble,Skiing,Nordic Combined,"KUNZ, Andreas",GDR,Men,Individual,Bronze
 1968,Grenoble,Skiing,Nordic Combined,"KELLER, Franz",FRG,Men,Individual,Gold
-1968,Grenoble,Skiing,Nordic Combined,"Kí‹LIN, Alois",SUI,Men,Individual,Silver
+1968,Grenoble,Skiing,Nordic Combined,"K’ÜLIN, Alois",SUI,Men,Individual,Silver
 1968,Grenoble,Skiing,Ski Jumping,"GRINI, Lars",NOR,Men,K120 Individual (90M),Bronze
 1968,Grenoble,Skiing,Ski Jumping,"BELOUSOV, Vladimir",URS,Men,K120 Individual (90M),Gold
 1968,Grenoble,Skiing,Ski Jumping,"RASKA, Jiri",TCH,Men,K120 Individual (90M),Silver
 1968,Grenoble,Skiing,Ski Jumping,"PREIML, Baldur",AUT,Men,K90 Individual (70M),Bronze
 1968,Grenoble,Skiing,Ski Jumping,"RASKA, Jiri",TCH,Men,K90 Individual (70M),Gold
 1968,Grenoble,Skiing,Ski Jumping,"BACHLER, Reinhold",AUT,Men,K90 Individual (70M),Silver
-1972,Sapporo,Biathlon,Biathlon,"ARWIDSON, Lars-Gí_ran",SWE,Men,20KM,Bronze
+1972,Sapporo,Biathlon,Biathlon,"ARWIDSON, Lars-G’_ran",SWE,Men,20KM,Bronze
 1972,Sapporo,Biathlon,Biathlon,"SOLBERG, Magnar",NOR,Men,20KM,Gold
 1972,Sapporo,Biathlon,Biathlon,"KNAUTHE, H-Joerg",GDR,Men,20KM,Silver
 1972,Sapporo,Biathlon,Biathlon,"KNAUTHE, H-Joerg",GDR,Men,4X7.5KM Relay,Bronze
@@ -1399,7 +1399,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Biathlon,Biathlon,"SAFINE, Rinnat",URS,Men,4X7.5KM Relay,Gold
 1972,Sapporo,Biathlon,Biathlon,"TIKHONOV, Aleksandr",URS,Men,4X7.5KM Relay,Gold
 1972,Sapporo,Biathlon,Biathlon,"IKOLA, Heikki",FIN,Men,4X7.5KM Relay,Silver
-1972,Sapporo,Biathlon,Biathlon,"Rí_PPí‹NEN, Mauri",FIN,Men,4X7.5KM Relay,Silver
+1972,Sapporo,Biathlon,Biathlon,"R’_PP’ÜNEN, Mauri",FIN,Men,4X7.5KM Relay,Silver
 1972,Sapporo,Biathlon,Biathlon,"SAIRA, Esko",FIN,Men,4X7.5KM Relay,Silver
 1972,Sapporo,Biathlon,Biathlon,"SUUTARINEN, Juhani",FIN,Men,4X7.5KM Relay,Silver
 1972,Sapporo,Bobsleigh,Bobsleigh,"GAISREITER, Stefan",FRG,Men,Four-Man,Bronze
@@ -1470,7 +1470,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Ice Hockey,Ice Hockey,"MCELMURY, James",USA,Men,Ice Hockey,Silver
 1972,Sapporo,Ice Hockey,Ice Hockey,"MCGLYNN, Richard",USA,Men,Ice Hockey,Silver
 1972,Sapporo,Ice Hockey,Ice Hockey,"MELLOR, Thomas",USA,Men,Ice Hockey,Silver
-1972,Sapporo,Ice Hockey,Ice Hockey,"Ní‹SLUND, Ronald",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,Ice Hockey,"N’ÜSLUND, Ronald",USA,Men,Ice Hockey,Silver
 1972,Sapporo,Ice Hockey,Ice Hockey,"OLDS, Walter",USA,Men,Ice Hockey,Silver
 1972,Sapporo,Ice Hockey,Ice Hockey,"SANDERS, Franklynn",USA,Men,Ice Hockey,Silver
 1972,Sapporo,Ice Hockey,Ice Hockey,"SARNER, Craig",USA,Men,Ice Hockey,Silver
@@ -1479,15 +1479,15 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Luge,Luge,"BONSACK, Klaus",GDR,Men,Doubles,Bronze
 1972,Sapporo,Luge,Luge,"FIEDLER, Wolfram",GDR,Men,Doubles,Bronze
 1972,Sapporo,Luge,Luge,"BREDOW, Reinhard",GDR,Men,Doubles,Gold
-1972,Sapporo,Luge,Luge,"Hí_RNLEIN, Horst",GDR,Men,Doubles,Gold
+1972,Sapporo,Luge,Luge,"H’_RNLEIN, Horst",GDR,Men,Doubles,Gold
 1972,Sapporo,Luge,Luge,"HILDGARTNER, Paul",ITA,Men,Doubles,Gold
 1972,Sapporo,Luge,Luge,"PLAIKNER, Walter",ITA,Men,Doubles,Gold
 1972,Sapporo,Luge,Luge,"FIEDLER, Wolfram",GDR,Men,Singles,Bronze
 1972,Sapporo,Luge,Luge,"SCHEIDEL, Wolfgang",GDR,Men,Singles,Gold
 1972,Sapporo,Luge,Luge,"EHRIG, Harald",GDR,Men,Singles,Silver
 1972,Sapporo,Luge,Luge,"SCHUMANN, Margit",GDR,Women,Singles,Bronze
-1972,Sapporo,Luge,Luge,"MíìLLER, Anna-Maria",GDR,Women,Singles,Gold
-1972,Sapporo,Luge,Luge,"RíìHROLD, Ute",GDR,Women,Singles,Silver
+1972,Sapporo,Luge,Luge,"M’“LLER, Anna-Maria",GDR,Women,Singles,Gold
+1972,Sapporo,Luge,Luge,"R’“HROLD, Ute",GDR,Women,Singles,Silver
 1972,Sapporo,Skating,Figure skating,"PERA, Patrick",FRA,Men,Individual,Bronze
 1972,Sapporo,Skating,Figure skating,"NEPELA, Ondrej",TCH,Men,Individual,Gold
 1972,Sapporo,Skating,Figure skating,"CHETVERUKHIN, Sergey",URS,Men,Individual,Silver
@@ -1506,9 +1506,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Skating,Speed skating,"HENNING, Anne",USA,Women,1000M,Bronze
 1972,Sapporo,Skating,Speed skating,"HOLZNER-GAWENUS, Monika",FRG,Women,1000M,Gold
 1972,Sapporo,Skating,Speed skating,"DEELSTRA, Atje",NED,Women,1000M,Silver
-1972,Sapporo,Skating,Speed skating,"CLAESSON, Gí_ran",SWE,Men,1500M,Bronze
+1972,Sapporo,Skating,Speed skating,"CLAESSON, G’_ran",SWE,Men,1500M,Bronze
 1972,Sapporo,Skating,Speed skating,"SCHENK, Ard",NED,Men,1500M,Gold
-1972,Sapporo,Skating,Speed skating,"GRí_NVOLD, Roar",NOR,Men,1500M,Silver
+1972,Sapporo,Skating,Speed skating,"GR’_NVOLD, Roar",NOR,Men,1500M,Silver
 1972,Sapporo,Skating,Speed skating,"DEELSTRA, Atje",NED,Women,1500M,Bronze
 1972,Sapporo,Skating,Speed skating,"HOLUM, Dianne",USA,Women,1500M,Gold
 1972,Sapporo,Skating,Speed skating,"KAISER, Christina",NED,Women,1500M,Silver
@@ -1517,10 +1517,10 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Skating,Speed skating,"HOLUM, Dianne",USA,Women,3000M,Silver
 1972,Sapporo,Skating,Speed skating,"STENSEN, Sten",NOR,Men,5000M,Bronze
 1972,Sapporo,Skating,Speed skating,"SCHENK, Ard",NED,Men,5000M,Gold
-1972,Sapporo,Skating,Speed skating,"GRí_NVOLD, Roar",NOR,Men,5000M,Silver
+1972,Sapporo,Skating,Speed skating,"GR’_NVOLD, Roar",NOR,Men,5000M,Silver
 1972,Sapporo,Skating,Speed skating,"MURATOV, Valery",URS,Men,500M,Bronze
 1972,Sapporo,Skating,Speed skating,"KELLER, Erhard",FRG,Men,500M,Gold
-1972,Sapporo,Skating,Speed skating,"Bí_RJES, Hasse",SWE,Men,500M,Silver
+1972,Sapporo,Skating,Speed skating,"B’_RJES, Hasse",SWE,Men,500M,Silver
 1972,Sapporo,Skating,Speed skating,"TITOVA, Lyudmila",URS,Women,500M,Bronze
 1972,Sapporo,Skating,Speed skating,"HENNING, Anne",USA,Women,500M,Gold
 1972,Sapporo,Skating,Speed skating,"KRASNOVA, Vera",URS,Women,500M,Silver
@@ -1531,29 +1531,29 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Skiing,Alpine Skiing,"NADIG, Marie-Theres",SUI,Women,Downhill,Gold
 1972,Sapporo,Skiing,Alpine Skiing,"MOSER-PROLL, Annemarie",AUT,Women,Downhill,Silver
 1972,Sapporo,Skiing,Alpine Skiing,"MATTLE, Werner",SUI,Men,Giant Slalom,Bronze
-1972,Sapporo,Skiing,Alpine Skiing,"THí_NI, Gustavo",ITA,Men,Giant Slalom,Gold
+1972,Sapporo,Skiing,Alpine Skiing,"TH’_NI, Gustavo",ITA,Men,Giant Slalom,Gold
 1972,Sapporo,Skiing,Alpine Skiing,"BRUGGMANN, Edmund",SUI,Men,Giant Slalom,Silver
 1972,Sapporo,Skiing,Alpine Skiing,"DREXEL, Wiltrud",AUT,Women,Giant Slalom,Bronze
 1972,Sapporo,Skiing,Alpine Skiing,"NADIG, Marie-Theres",SUI,Women,Giant Slalom,Gold
 1972,Sapporo,Skiing,Alpine Skiing,"MOSER-PROLL, Annemarie",AUT,Women,Giant Slalom,Silver
-1972,Sapporo,Skiing,Alpine Skiing,"THí_NI, Rolando",ITA,Men,Slalom,Bronze
+1972,Sapporo,Skiing,Alpine Skiing,"TH’_NI, Rolando",ITA,Men,Slalom,Bronze
 1972,Sapporo,Skiing,Alpine Skiing,"FERNANDEZ OCHOA, Francisco",ESP,Men,Slalom,Gold
-1972,Sapporo,Skiing,Alpine Skiing,"THí_NI, Gustavo",ITA,Men,Slalom,Silver
+1972,Sapporo,Skiing,Alpine Skiing,"TH’_NI, Gustavo",ITA,Men,Slalom,Silver
 1972,Sapporo,Skiing,Alpine Skiing,"STEURER, Florence",FRA,Women,Slalom,Bronze
 1972,Sapporo,Skiing,Alpine Skiing,"COCHRAN, Barbara",USA,Women,Slalom,Gold
-1972,Sapporo,Skiing,Alpine Skiing,"DEBERNARD, DaniíÂle",FRA,Women,Slalom,Silver
+1972,Sapporo,Skiing,Alpine Skiing,"DEBERNARD, Dani’åle",FRA,Women,Slalom,Silver
 1972,Sapporo,Skiing,Cross Country Skiing,"KAJOSMAA, Marjatta",FIN,Women,10KM,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"KULAKOVA, Galina",URS,Women,10KM,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"OLYUNINA, Alevtina",URS,Women,10KM,Silver
 1972,Sapporo,Skiing,Cross Country Skiing,"FORMO, Ivar",NOR,Men,15KM,Bronze
-1972,Sapporo,Skiing,Cross Country Skiing,"LUNDBí‹CK, Sven-Aake",SWE,Men,15KM,Gold
+1972,Sapporo,Skiing,Cross Country Skiing,"LUNDB’ÜCK, Sven-Aake",SWE,Men,15KM,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"SIMASHEV, Fyodor",URS,Men,15KM,Silver
 1972,Sapporo,Skiing,Cross Country Skiing,"HARVIKEN, Johs",NOR,Men,30KM Mass Start,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"VEDENIN, Vyacheslav",URS,Men,30KM Mass Start,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"TYLDUM, Paal",NOR,Men,30KM Mass Start,Silver
 1972,Sapporo,Skiing,Cross Country Skiing,"AUFLES, Inger",NOR,Women,3X5KM Relay,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"DAHL, Aslaug",NOR,Women,3X5KM Relay,Bronze
-1972,Sapporo,Skiing,Cross Country Skiing,"Mí_RDRE, Berit",NOR,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing,"M’_RDRE, Berit",NOR,Women,3X5KM Relay,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"KULAKOVA, Galina",URS,Women,3X5KM Relay,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"MUKHACHEVA, Lubov",URS,Women,3X5KM Relay,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"OLYUNINA, Alevtina",URS,Women,3X5KM Relay,Gold
@@ -1562,8 +1562,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1972,Sapporo,Skiing,Cross Country Skiing,"TAKALO, Helena",FIN,Women,3X5KM Relay,Silver
 1972,Sapporo,Skiing,Cross Country Skiing,"GIGER, Albert",SUI,Men,4X10KM Relay,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"HAUSER, Eduard",SUI,Men,4X10KM Relay,Bronze
-1972,Sapporo,Skiing,Cross Country Skiing,"Kí‹LIN, Alfred",SUI,Men,4X10KM Relay,Bronze
-1972,Sapporo,Skiing,Cross Country Skiing,"Kí‹LIN, Alois",SUI,Men,4X10KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing,"K’ÜLIN, Alfred",SUI,Men,4X10KM Relay,Bronze
+1972,Sapporo,Skiing,Cross Country Skiing,"K’ÜLIN, Alois",SUI,Men,4X10KM Relay,Bronze
 1972,Sapporo,Skiing,Cross Country Skiing,"SIMASHEV, Fyodor",URS,Men,4X10KM Relay,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"SKOBOV, Yuri",URS,Men,4X10KM Relay,Gold
 1972,Sapporo,Skiing,Cross Country Skiing,"VEDENIN, Vyacheslav",URS,Men,4X10KM Relay,Gold
@@ -1598,7 +1598,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Biathlon,Biathlon,"KRUGLOV, Nikolay",URS,Men,4X7.5KM Relay,Gold
 1976,Innsbruck,Biathlon,Biathlon,"TIKHONOV, Aleksandr",URS,Men,4X7.5KM Relay,Gold
 1976,Innsbruck,Biathlon,Biathlon,"YELIZAROV, Aleksandr",URS,Men,4X7.5KM Relay,Gold
-1976,Innsbruck,Biathlon,Biathlon,"FLí_JT, Henrik",FIN,Men,4X7.5KM Relay,Silver
+1976,Innsbruck,Biathlon,Biathlon,"FL’_JT, Henrik",FIN,Men,4X7.5KM Relay,Silver
 1976,Innsbruck,Biathlon,Biathlon,"IKOLA, Heikki",FIN,Men,4X7.5KM Relay,Silver
 1976,Innsbruck,Biathlon,Biathlon,"SAIRA, Esko",FIN,Men,4X7.5KM Relay,Silver
 1976,Innsbruck,Biathlon,Biathlon,"SUUTARINEN, Juhani",FIN,Men,4X7.5KM Relay,Silver
@@ -1610,12 +1610,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Bobsleigh,Bobsleigh,"GERMESHAUSEN, Bernhard",GDR,Men,Four-Man,Gold
 1976,Innsbruck,Bobsleigh,Bobsleigh,"LEHMANN, Bernhard",GDR,Men,Four-Man,Gold
 1976,Innsbruck,Bobsleigh,Bobsleigh,"NEHMER, Meinhard",GDR,Men,Four-Man,Gold
-1976,Innsbruck,Bobsleigh,Bobsleigh,"Bí‹CHLI, Ulrich",SUI,Men,Four-Man,Silver
+1976,Innsbruck,Bobsleigh,Bobsleigh,"B’ÜCHLI, Ulrich",SUI,Men,Four-Man,Silver
 1976,Innsbruck,Bobsleigh,Bobsleigh,"BENZ, Joseph",SUI,Men,Four-Man,Silver
 1976,Innsbruck,Bobsleigh,Bobsleigh,"MARTI, Rudolf",SUI,Men,Four-Man,Silver
-1976,Innsbruck,Bobsleigh,Bobsleigh,"SCHí‹RER, Erich",SUI,Men,Four-Man,Silver
+1976,Innsbruck,Bobsleigh,Bobsleigh,"SCH’ÜRER, Erich",SUI,Men,Four-Man,Silver
 1976,Innsbruck,Bobsleigh,Bobsleigh,"BENZ, Joseph",SUI,Men,Two-Man,Bronze
-1976,Innsbruck,Bobsleigh,Bobsleigh,"SCHí‹RER, Erich",SUI,Men,Two-Man,Bronze
+1976,Innsbruck,Bobsleigh,Bobsleigh,"SCH’ÜRER, Erich",SUI,Men,Two-Man,Bronze
 1976,Innsbruck,Bobsleigh,Bobsleigh,"GERMESHAUSEN, Bernhard",GDR,Men,Two-Man,Gold
 1976,Innsbruck,Bobsleigh,Bobsleigh,"NEHMER, Meinhard",GDR,Men,Two-Man,Gold
 1976,Innsbruck,Bobsleigh,Bobsleigh,"SCHUMANN, Manfred",FRG,Men,Two-Man,Silver
@@ -1627,15 +1627,15 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Ice Hockey,Ice Hockey,"HINTERSTOCKER, Martin",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"KEHLE, Anton",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"KIESSLING, Udo",FRG,Men,Ice Hockey,Bronze
-1976,Innsbruck,Ice Hockey,Ice Hockey,"Kí_BERLE, Walter",FRG,Men,Ice Hockey,Bronze
-1976,Innsbruck,Ice Hockey,Ice Hockey,"Kí_PF, Ernst I",FRG,Men,Ice Hockey,Bronze
-1976,Innsbruck,Ice Hockey,Ice Hockey,"KíìHNHACKL, Erich",FRG,Men,Ice Hockey,Bronze
+1976,Innsbruck,Ice Hockey,Ice Hockey,"K’_BERLE, Walter",FRG,Men,Ice Hockey,Bronze
+1976,Innsbruck,Ice Hockey,Ice Hockey,"K’_PF, Ernst I",FRG,Men,Ice Hockey,Bronze
+1976,Innsbruck,Ice Hockey,Ice Hockey,"K’“HNHACKL, Erich",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"METZ, Stefan",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"PHILIPP, Rainer",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"REINDL, Franz",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"SCHLODER, Alois",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"THANNER, Rudolf",FRG,Men,Ice Hockey,Bronze
-1976,Innsbruck,Ice Hockey,Ice Hockey,"Ví_LK, Josef",FRG,Men,Ice Hockey,Bronze
+1976,Innsbruck,Ice Hockey,Ice Hockey,"V’_LK, Josef",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"VOZAR, Ferenc",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"WEISHAUPT, Erich",FRG,Men,Ice Hockey,Bronze
 1976,Innsbruck,Ice Hockey,Ice Hockey,"ALEKSANDROV, Boris",URS,Men,Ice Hockey,Gold
@@ -1681,11 +1681,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Luge,Luge,"BRANDNER, Hans",FRG,Men,Doubles,Silver
 1976,Innsbruck,Luge,Luge,"SCHWARM, Balthasar",FRG,Men,Doubles,Silver
 1976,Innsbruck,Luge,Luge,"RINN, Hans",GDR,Men,Singles,Bronze
-1976,Innsbruck,Luge,Luge,"GíìNTHER, Detlef",GDR,Men,Singles,Gold
+1976,Innsbruck,Luge,Luge,"G’“NTHER, Detlef",GDR,Men,Singles,Gold
 1976,Innsbruck,Luge,Luge,"FENDT, Josef",FRG,Men,Singles,Silver
 1976,Innsbruck,Luge,Luge,"DEMLEITNER, Elisabeth",FRG,Women,Singles,Bronze
 1976,Innsbruck,Luge,Luge,"SCHUMANN, Margit",GDR,Women,Singles,Gold
-1976,Innsbruck,Luge,Luge,"RíìHROLD, Ute",GDR,Women,Singles,Silver
+1976,Innsbruck,Luge,Luge,"R’“HROLD, Ute",GDR,Women,Singles,Silver
 1976,Innsbruck,Skating,Figure skating,"MILLNS, James",USA,Men,Ice Dancing,Bronze
 1976,Innsbruck,Skating,Figure skating,"O'CONNOR, Colleen",USA,Women,Ice Dancing,Bronze
 1976,Innsbruck,Skating,Figure skating,"GORSHKOV, Aleksandr",URS,Men,Ice Dancing,Gold
@@ -1703,13 +1703,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Skating,Figure skating,"RODNINA, Irina",URS,Women,Pairs,Gold
 1976,Innsbruck,Skating,Figure skating,"ZAYTSEV, Aleksandr",URS,Men,Pairs,Gold
 1976,Innsbruck,Skating,Figure skating,"KERMER, Romy",GDR,Women,Pairs,Silver
-1976,Innsbruck,Skating,Figure skating,"í_STERREICH, Rolf",GDR,Men,Pairs,Silver
+1976,Innsbruck,Skating,Figure skating,"’_STERREICH, Rolf",GDR,Men,Pairs,Silver
 1976,Innsbruck,Skating,Speed skating,"VAN HELDEN, Hans",NED,Men,10000M,Bronze
 1976,Innsbruck,Skating,Speed skating,"KLEINE, Piet",NED,Men,10000M,Gold
 1976,Innsbruck,Skating,Speed skating,"STENSEN, Sten",NOR,Men,10000M,Silver
 1976,Innsbruck,Skating,Speed skating,"MURATOV, Valery",URS,Men,1000M,Bronze
 1976,Innsbruck,Skating,Speed skating,"MUELLER, Peter",USA,Men,1000M,Gold
-1976,Innsbruck,Skating,Speed skating,"DIDRIKSEN, Jí_rn",NOR,Men,1000M,Silver
+1976,Innsbruck,Skating,Speed skating,"DIDRIKSEN, J’_rn",NOR,Men,1000M,Silver
 1976,Innsbruck,Skating,Speed skating,"YOUNG, Sheila",USA,Women,1000M,Bronze
 1976,Innsbruck,Skating,Speed skating,"AVERINA, Tatyana",URS,Women,1000M,Gold
 1976,Innsbruck,Skating,Speed skating,"MUELLER, Leah",USA,Women,1000M,Silver
@@ -1740,12 +1740,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Skiing,Alpine Skiing,"STENMARK, Ingemar",SWE,Men,Giant Slalom,Bronze
 1976,Innsbruck,Skiing,Alpine Skiing,"HEMMI, Heini",SUI,Men,Giant Slalom,Gold
 1976,Innsbruck,Skiing,Alpine Skiing,"GOOD, Ernst",SUI,Men,Giant Slalom,Silver
-1976,Innsbruck,Skiing,Alpine Skiing,"DEBERNARD, DaniíÂle",FRA,Women,Giant Slalom,Bronze
+1976,Innsbruck,Skiing,Alpine Skiing,"DEBERNARD, Dani’åle",FRA,Women,Giant Slalom,Bronze
 1976,Innsbruck,Skiing,Alpine Skiing,"KREINER, Kathy",CAN,Women,Giant Slalom,Gold
 1976,Innsbruck,Skiing,Alpine Skiing,"MITTERMAIER, Rosi",FRG,Women,Giant Slalom,Silver
 1976,Innsbruck,Skiing,Alpine Skiing,"FROMMELT, Willy",LIE,Men,Slalom,Bronze
 1976,Innsbruck,Skiing,Alpine Skiing,"GROS, Piero",ITA,Men,Slalom,Gold
-1976,Innsbruck,Skiing,Alpine Skiing,"THí_NI, Gustavo",ITA,Men,Slalom,Silver
+1976,Innsbruck,Skiing,Alpine Skiing,"TH’_NI, Gustavo",ITA,Men,Slalom,Silver
 1976,Innsbruck,Skiing,Alpine Skiing,"WENZEL, Hanni",LIE,Women,Slalom,Bronze
 1976,Innsbruck,Skiing,Alpine Skiing,"MITTERMAIER, Rosi",FRG,Women,Slalom,Gold
 1976,Innsbruck,Skiing,Alpine Skiing,"GIORDANI, Claudia",ITA,Women,Slalom,Silver
@@ -1764,13 +1764,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Skiing,Cross Country Skiing,"SAVELYEV, Sergey",URS,Men,4X10KM Relay,Bronze
 1976,Innsbruck,Skiing,Cross Country Skiing,"KOIVISTO, Arto",FIN,Men,4X10KM Relay,Gold
 1976,Innsbruck,Skiing,Cross Country Skiing,"MIETO, Juha",FIN,Men,4X10KM Relay,Gold
-1976,Innsbruck,Skiing,Cross Country Skiing,"PITKí‹NEN, Matti",FIN,Men,4X10KM Relay,Gold
-1976,Innsbruck,Skiing,Cross Country Skiing,"TEURAJí‹RVI, Pertti",FIN,Men,4X10KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing,"PITK’ÜNEN, Matti",FIN,Men,4X10KM Relay,Gold
+1976,Innsbruck,Skiing,Cross Country Skiing,"TEURAJ’ÜRVI, Pertti",FIN,Men,4X10KM Relay,Gold
 1976,Innsbruck,Skiing,Cross Country Skiing,"FORMO, Ivar",NOR,Men,4X10KM Relay,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"MARTINSEN, Odd",NOR,Men,4X10KM Relay,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"SAGSTUEN, Einar",NOR,Men,4X10KM Relay,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"TYLDUM, Paal",NOR,Men,4X10KM Relay,Silver
-1976,Innsbruck,Skiing,Cross Country Skiing,"DEBERTSHí‹USER, Monika",GDR,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing,"DEBERTSH’ÜUSER, Monika",GDR,Women,4X5KM Relay,Bronze
 1976,Innsbruck,Skiing,Cross Country Skiing,"KRAUSE, Sigrun",GDR,Women,4X5KM Relay,Bronze
 1976,Innsbruck,Skiing,Cross Country Skiing,"PETZOLD, Barbara",GDR,Women,4X5KM Relay,Bronze
 1976,Innsbruck,Skiing,Cross Country Skiing,"SCHMIDT, Veronika",GDR,Women,4X5KM Relay,Bronze
@@ -1782,7 +1782,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1976,Innsbruck,Skiing,Cross Country Skiing,"RIIHIVUORI, Hilkka",FIN,Women,4X5KM Relay,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"SUIKHONEN, Liisa",FIN,Women,4X5KM Relay,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"TAKALO, Helena",FIN,Women,4X5KM Relay,Silver
-1976,Innsbruck,Skiing,Cross Country Skiing,"Sí_DERGREN, Benny",SWE,Men,50KM,Bronze
+1976,Innsbruck,Skiing,Cross Country Skiing,"S’_DERGREN, Benny",SWE,Men,50KM,Bronze
 1976,Innsbruck,Skiing,Cross Country Skiing,"FORMO, Ivar",NOR,Men,50KM,Gold
 1976,Innsbruck,Skiing,Cross Country Skiing,"KLAUSE, Gerd-Dietmar",GDR,Men,50KM,Silver
 1976,Innsbruck,Skiing,Cross Country Skiing,"BALDYCHEVA, Nina",URS,Women,5KM,Bronze
@@ -1817,21 +1817,21 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Biathlon,Biathlon,"ULLRICH, Frank",GDR,Men,4X7.5KM Relay,Silver
 1980,Lake Placid,Bobsleigh,Bobsleigh,"KIRCHNER, Andreas",GDR,Men,Four-Man,Bronze
 1980,Lake Placid,Bobsleigh,Bobsleigh,"RICHTER, Detlef",GDR,Men,Four-Man,Bronze
-1980,Lake Placid,Bobsleigh,Bobsleigh,"SCHí_NAU, Horst",GDR,Men,Four-Man,Bronze
+1980,Lake Placid,Bobsleigh,Bobsleigh,"SCH’_NAU, Horst",GDR,Men,Four-Man,Bronze
 1980,Lake Placid,Bobsleigh,Bobsleigh,"WETZIG, Roland",GDR,Men,Four-Man,Bronze
-1980,Lake Placid,Bobsleigh,Bobsleigh,"GERHARDT, Hans Jí_rgen",GDR,Men,Four-Man,Gold
+1980,Lake Placid,Bobsleigh,Bobsleigh,"GERHARDT, Hans J’_rgen",GDR,Men,Four-Man,Gold
 1980,Lake Placid,Bobsleigh,Bobsleigh,"GERMESHAUSEN, Bernhard",GDR,Men,Four-Man,Gold
 1980,Lake Placid,Bobsleigh,Bobsleigh,"MUSIOL, Bogdan",GDR,Men,Four-Man,Gold
 1980,Lake Placid,Bobsleigh,Bobsleigh,"NEHMER, Meinhard",GDR,Men,Four-Man,Gold
-1980,Lake Placid,Bobsleigh,Bobsleigh,"Bí‹CHLI, Ulrich",SUI,Men,Four-Man,Silver
+1980,Lake Placid,Bobsleigh,Bobsleigh,"B’ÜCHLI, Ulrich",SUI,Men,Four-Man,Silver
 1980,Lake Placid,Bobsleigh,Bobsleigh,"BENZ, Joseph",SUI,Men,Four-Man,Silver
 1980,Lake Placid,Bobsleigh,Bobsleigh,"MARTI, Rudolf",SUI,Men,Four-Man,Silver
-1980,Lake Placid,Bobsleigh,Bobsleigh,"SCHí‹RER, Erich",SUI,Men,Four-Man,Silver
+1980,Lake Placid,Bobsleigh,Bobsleigh,"SCH’ÜRER, Erich",SUI,Men,Four-Man,Silver
 1980,Lake Placid,Bobsleigh,Bobsleigh,"MUSIOL, Bogdan",GDR,Men,Two-Man,Bronze
 1980,Lake Placid,Bobsleigh,Bobsleigh,"NEHMER, Meinhard",GDR,Men,Two-Man,Bronze
 1980,Lake Placid,Bobsleigh,Bobsleigh,"BENZ, Joseph",SUI,Men,Two-Man,Gold
-1980,Lake Placid,Bobsleigh,Bobsleigh,"SCHí‹RER, Erich",SUI,Men,Two-Man,Gold
-1980,Lake Placid,Bobsleigh,Bobsleigh,"GERHARDT, Hans Jí_rgen",GDR,Men,Two-Man,Silver
+1980,Lake Placid,Bobsleigh,Bobsleigh,"SCH’ÜRER, Erich",SUI,Men,Two-Man,Gold
+1980,Lake Placid,Bobsleigh,Bobsleigh,"GERHARDT, Hans J’_rgen",GDR,Men,Two-Man,Silver
 1980,Lake Placid,Bobsleigh,Bobsleigh,"GERMESHAUSEN, Bernhard",GDR,Men,Two-Man,Silver
 1980,Lake Placid,Ice Hockey,Ice Hockey,"AAHLBERG, Mats",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"ANDERSSON, Sture",SWE,Men,Ice Hockey,Bronze
@@ -1842,14 +1842,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Ice Hockey,Ice Hockey,"HOLMGREN, Leif",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"JONSSON, Tomas",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"LINDBERGH, Per-Eric",SWE,Men,Ice Hockey,Bronze
-1980,Lake Placid,Ice Hockey,Ice Hockey,"Lí_FQVIST, William",SWE,Men,Ice Hockey,Bronze
+1980,Lake Placid,Ice Hockey,Ice Hockey,"L’_FQVIST, William",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"LUNDHOLM, Bengt",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"LUNDQVIST, Per",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"MOLIN, Lars",SWE,Men,Ice Hockey,Bronze
-1980,Lake Placid,Ice Hockey,Ice Hockey,"Ní‹SLUND, Mats",SWE,Men,Ice Hockey,Bronze
+1980,Lake Placid,Ice Hockey,Ice Hockey,"N’ÜSLUND, Mats",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"NORBERG, Lennart",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"SAMUELSSON, Tommy",SWE,Men,Ice Hockey,Bronze
-1980,Lake Placid,Ice Hockey,Ice Hockey,"Sí_DERSTRí_M, Dan",SWE,Men,Ice Hockey,Bronze
+1980,Lake Placid,Ice Hockey,Ice Hockey,"S’_DERSTR’_M, Dan",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"WALTIN, Mats",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"WEINSTOCK, Ulf",SWE,Men,Ice Hockey,Bronze
 1980,Lake Placid,Ice Hockey,Ice Hockey,"BAKER, William",USA,Men,Ice Hockey,Gold
@@ -1907,13 +1907,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skating,Figure skating,"MOISEYEVA, Irina",URS,Women,Ice Dancing,Bronze
 1980,Lake Placid,Skating,Figure skating,"KARPONOSOV, Gennady",URS,Men,Ice Dancing,Gold
 1980,Lake Placid,Skating,Figure skating,"LINICHUK, Natalya",URS,Women,Ice Dancing,Gold
-1980,Lake Placid,Skating,Figure skating,"REGí_CZY, Krisztina",HUN,Women,Ice Dancing,Silver
+1980,Lake Placid,Skating,Figure skating,"REG’_CZY, Krisztina",HUN,Women,Ice Dancing,Silver
 1980,Lake Placid,Skating,Figure skating,"SALLAY, Andras",HUN,Men,Ice Dancing,Silver
 1980,Lake Placid,Skating,Figure skating,"TICKNER, Charles",USA,Men,Individual,Bronze
 1980,Lake Placid,Skating,Figure skating,"COUSINS, Robin",GBR,Men,Individual,Gold
 1980,Lake Placid,Skating,Figure skating,"HOFFMANN, Jan",GDR,Men,Individual,Silver
 1980,Lake Placid,Skating,Figure skating,"LURZ, Dagmar",FRG,Women,Individual,Bronze
-1980,Lake Placid,Skating,Figure skating,"Pí_TZSCH, Anett",GDR,Women,Individual,Gold
+1980,Lake Placid,Skating,Figure skating,"P’_TZSCH, Anett",GDR,Women,Individual,Gold
 1980,Lake Placid,Skating,Figure skating,"FRATIANNE, Linda",USA,Women,Individual,Silver
 1980,Lake Placid,Skating,Figure skating,"BEWERSDORFF, Uwe",GDR,Men,Pairs,Bronze
 1980,Lake Placid,Skating,Figure skating,"MAGER, Manuela",GDR,Women,Pairs,Bronze
@@ -1924,7 +1924,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skating,Speed skating,"OXHOLM, Tom Erik",NOR,Men,10000M,Bronze
 1980,Lake Placid,Skating,Speed skating,"HEIDEN, Eric",USA,Men,10000M,Gold
 1980,Lake Placid,Skating,Speed skating,"KLEINE, Piet",NED,Men,10000M,Silver
-1980,Lake Placid,Skating,Speed skating,"Rí_NNING, Frode",NOR,Men,1000M,Bronze
+1980,Lake Placid,Skating,Speed skating,"R’_NNING, Frode",NOR,Men,1000M,Bronze
 1980,Lake Placid,Skating,Speed skating,"LOBANOV, Vladimir",URS,Men,1000M,Bronze
 1980,Lake Placid,Skating,Speed skating,"HEIDEN, Eric",USA,Men,1000M,Gold
 1980,Lake Placid,Skating,Speed skating,"BOUCHER, Gaetan",CAN,Men,1000M,Silver
@@ -1938,7 +1938,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skating,Speed skating,"BORCKINK, Annie",NED,Women,1500M,Gold
 1980,Lake Placid,Skating,Speed skating,"VISSER, Adriana",NED,Women,1500M,Silver
 1980,Lake Placid,Skating,Speed skating,"HEIDEN, Beth",USA,Women,3000M,Bronze
-1980,Lake Placid,Skating,Speed skating,"JENSEN, Bjí_rg Eva",NOR,Women,3000M,Gold
+1980,Lake Placid,Skating,Speed skating,"JENSEN, Bj’_rg Eva",NOR,Women,3000M,Gold
 1980,Lake Placid,Skating,Speed skating,"BECKER, Sabine",GDR,Women,3000M,Silver
 1980,Lake Placid,Skating,Speed skating,"OXHOLM, Tom Erik",NOR,Men,5000M,Bronze
 1980,Lake Placid,Skating,Speed skating,"HEIDEN, Eric",USA,Men,5000M,Gold
@@ -1961,7 +1961,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skiing,Alpine Skiing,"PELEN, Perrine",FRA,Women,Giant Slalom,Bronze
 1980,Lake Placid,Skiing,Alpine Skiing,"WENZEL, Hanni",LIE,Women,Giant Slalom,Gold
 1980,Lake Placid,Skiing,Alpine Skiing,"EPPLE, Irene",FRG,Women,Giant Slalom,Silver
-1980,Lake Placid,Skiing,Alpine Skiing,"LíìTHY, Jacques",SUI,Men,Slalom,Bronze
+1980,Lake Placid,Skiing,Alpine Skiing,"L’“THY, Jacques",SUI,Men,Slalom,Bronze
 1980,Lake Placid,Skiing,Alpine Skiing,"STENMARK, Ingemar",SWE,Men,Slalom,Gold
 1980,Lake Placid,Skiing,Alpine Skiing,"MAHRE, Phillip",USA,Men,Slalom,Silver
 1980,Lake Placid,Skiing,Alpine Skiing,"HESS, Erika",SUI,Women,Slalom,Bronze
@@ -1978,8 +1978,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skiing,Cross Country Skiing,"ROCHEV, Vasily",URS,Men,30KM Mass Start,Silver
 1980,Lake Placid,Skiing,Cross Country Skiing,"KIRVESNIEMI, Harri",FIN,Men,4X10KM Relay,Bronze
 1980,Lake Placid,Skiing,Cross Country Skiing,"MIETO, Juha",FIN,Men,4X10KM Relay,Bronze
-1980,Lake Placid,Skiing,Cross Country Skiing,"PITKí‹NEN, Matti",FIN,Men,4X10KM Relay,Bronze
-1980,Lake Placid,Skiing,Cross Country Skiing,"TEURAJí‹RVI, Pertti",FIN,Men,4X10KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing,"PITK’ÜNEN, Matti",FIN,Men,4X10KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing,"TEURAJ’ÜRVI, Pertti",FIN,Men,4X10KM Relay,Bronze
 1980,Lake Placid,Skiing,Cross Country Skiing,"BAZHUKOV, Nikolay",URS,Men,4X10KM Relay,Gold
 1980,Lake Placid,Skiing,Cross Country Skiing,"BELYAEV, Yevgeny",URS,Men,4X10KM Relay,Gold
 1980,Lake Placid,Skiing,Cross Country Skiing,"ROCHEV, Vasily",URS,Men,4X10KM Relay,Gold
@@ -1989,7 +1989,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skiing,Cross Country Skiing,"BRAA, Oddvar",NOR,Men,4X10KM Relay,Silver
 1980,Lake Placid,Skiing,Cross Country Skiing,"ERIKSEN, Lars Erik",NOR,Men,4X10KM Relay,Silver
 1980,Lake Placid,Skiing,Cross Country Skiing,"AUNLI, Berit",NOR,Women,4X5KM Relay,Bronze
-1980,Lake Placid,Skiing,Cross Country Skiing,"Bí_E, Anette",NOR,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,Cross Country Skiing,"B’_E, Anette",NOR,Women,4X5KM Relay,Bronze
 1980,Lake Placid,Skiing,Cross Country Skiing,"MYRMAEL, Marit",NOR,Women,4X5KM Relay,Bronze
 1980,Lake Placid,Skiing,Cross Country Skiing,"PETTERSEN, Brit",NOR,Women,4X5KM Relay,Bronze
 1980,Lake Placid,Skiing,Cross Country Skiing,"ANDING, Carola",GDR,Women,4X5KM Relay,Gold
@@ -2010,7 +2010,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1980,Lake Placid,Skiing,Nordic Combined,"WEHLING, Ulrich",GDR,Men,Individual,Gold
 1980,Lake Placid,Skiing,Nordic Combined,"KARJALAINEN, Jouko",FIN,Men,Individual,Silver
 1980,Lake Placid,Skiing,Ski Jumping,"PUIKKONEN, Jari",FIN,Men,K120 Individual (90M),Bronze
-1980,Lake Placid,Skiing,Ski Jumping,"Tí_RMí‹NEN, Jouko",FIN,Men,K120 Individual (90M),Gold
+1980,Lake Placid,Skiing,Ski Jumping,"T’_RM’ÜNEN, Jouko",FIN,Men,K120 Individual (90M),Gold
 1980,Lake Placid,Skiing,Ski Jumping,"NEUPER, Hubert",AUT,Men,K120 Individual (90M),Silver
 1980,Lake Placid,Skiing,Ski Jumping,"INNAUER, Anton",AUT,Men,K90 Individual (70M),Gold
 1980,Lake Placid,Skiing,Ski Jumping,"DECKERT, Manfred",GDR,Men,K90 Individual (70M),Silver
@@ -2031,7 +2031,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Biathlon,Biathlon,"VASSILIEV, Dmitri",URS,Men,4X7.5KM Relay,Gold
 1984,Sarajevo,Biathlon,Biathlon,"KVALFOSS, Eirik",NOR,Men,4X7.5KM Relay,Silver
 1984,Sarajevo,Biathlon,Biathlon,"LIRHUS, Odd",NOR,Men,4X7.5KM Relay,Silver
-1984,Sarajevo,Biathlon,Biathlon,"Sí_BAK, Kjell",NOR,Men,4X7.5KM Relay,Silver
+1984,Sarajevo,Biathlon,Biathlon,"S’_BAK, Kjell",NOR,Men,4X7.5KM Relay,Silver
 1984,Sarajevo,Biathlon,Biathlon,"STORSVEEN, Rolf",NOR,Men,4X7.5KM Relay,Silver
 1984,Sarajevo,Bobsleigh,Bobsleigh,"FREIERMUTH, Rico",SUI,Men,Four-Man,Bronze
 1984,Sarajevo,Bobsleigh,Bobsleigh,"GIOBELLINA, Silvio",SUI,Men,Four-Man,Bronze
@@ -2058,18 +2058,18 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Ice Hockey,Ice Hockey,"ERIKSSON, Lars Haakan",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"GRADIN, Peter",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"HESSEL, Mats",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"HJí‹LM, Peter Michael",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"LINDBLOM, Gí_ran",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"Mí_RTH, Tommy",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"HJ’ÜLM, Peter Michael",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"LINDBLOM, G’_ran",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"M’_RTH, Tommy",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"NORDIN, Leif Haakan",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"í_HLING, Jens",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"’_HLING, Jens",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"RIDDERVALL, Rolf-Lennart",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"RUNDQVIST, Thomas",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"SANDSTROEM, Thomas",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"Sí_DERGREN, Karl Haakan",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"S’_DERGREN, Karl Haakan",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"THELIN, Mats",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"THELVEN, Arne Michael",SWE,Men,Ice Hockey,Bronze
-1984,Sarajevo,Ice Hockey,Ice Hockey,"Wí‹LITALO, Gí_te",SWE,Men,Ice Hockey,Bronze
+1984,Sarajevo,Ice Hockey,Ice Hockey,"W’ÜLITALO, G’_te",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"WALTIN, Mats",SWE,Men,Ice Hockey,Bronze
 1984,Sarajevo,Ice Hockey,Ice Hockey,"BILJALETDINOV, Zinetula",URS,Men,Ice Hockey,Gold
 1984,Sarajevo,Ice Hockey,Ice Hockey,"CHEPELEV, Sergei",URS,Men,Ice Hockey,Gold
@@ -2111,7 +2111,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Ice Hockey,Ice Hockey,"SINDEL, Jaromir",TCH,Men,Ice Hockey,Silver
 1984,Sarajevo,Ice Hockey,Ice Hockey,"SVOBODA, Radoslav",TCH,Men,Ice Hockey,Silver
 1984,Sarajevo,Ice Hockey,Ice Hockey,"UVIRA, Eduard",TCH,Men,Ice Hockey,Silver
-1984,Sarajevo,Luge,Luge,"HOFFMANN, Jí_rg",GDR,Men,Doubles,Bronze
+1984,Sarajevo,Luge,Luge,"HOFFMANN, J’_rg",GDR,Men,Doubles,Bronze
 1984,Sarajevo,Luge,Luge,"PIETZSCH, Jochen",GDR,Men,Doubles,Bronze
 1984,Sarajevo,Luge,Luge,"STANGASSINGER, Hans",FRG,Men,Doubles,Gold
 1984,Sarajevo,Luge,Luge,"WEMBACHER, Franz",FRG,Men,Doubles,Gold
@@ -2141,7 +2141,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Skating,Figure skating,"VASILYEV, Oleg",URS,Men,Pairs,Gold
 1984,Sarajevo,Skating,Figure skating,"CARRUTHERS, Kitty",USA,Women,Pairs,Silver
 1984,Sarajevo,Skating,Figure skating,"CARRUTHERS, Peter",USA,Men,Pairs,Silver
-1984,Sarajevo,Skating,Speed skating,"SCHí_FISCH, Rení©",GDR,Men,10000M,Bronze
+1984,Sarajevo,Skating,Speed skating,"SCH’_FISCH, Ren’©",GDR,Men,10000M,Bronze
 1984,Sarajevo,Skating,Speed skating,"MALKOV, Igor",URS,Men,10000M,Gold
 1984,Sarajevo,Skating,Speed skating,"GUSTAFSON, Tomas",SWE,Men,10000M,Silver
 1984,Sarajevo,Skating,Speed skating,"ENGELSTAD, Kai Arne",NOR,Men,1000M,Bronze
@@ -2159,7 +2159,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Skating,Speed skating,"ZANGE, Gabi",GDR,Women,3000M,Bronze
 1984,Sarajevo,Skating,Speed skating,"EHRIG, Andrea",GDR,Women,3000M,Gold
 1984,Sarajevo,Skating,Speed skating,"KANIA, Karin",GDR,Women,3000M,Silver
-1984,Sarajevo,Skating,Speed skating,"SCHí_FISCH, Rení©",GDR,Men,5000M,Bronze
+1984,Sarajevo,Skating,Speed skating,"SCH’_FISCH, Ren’©",GDR,Men,5000M,Bronze
 1984,Sarajevo,Skating,Speed skating,"GUSTAFSON, Tomas",SWE,Men,5000M,Gold
 1984,Sarajevo,Skating,Speed skating,"MALKOV, Igor",URS,Men,5000M,Silver
 1984,Sarajevo,Skating,Speed skating,"BOUCHER, Gaetan",CAN,Men,500M,Bronze
@@ -2170,7 +2170,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Skating,Speed skating,"KANIA, Karin",GDR,Women,500M,Silver
 1984,Sarajevo,Skiing,Alpine Skiing,"STEINER, Anton",AUT,Men,Downhill,Bronze
 1984,Sarajevo,Skiing,Alpine Skiing,"JOHNSON, William",USA,Men,Downhill,Gold
-1984,Sarajevo,Skiing,Alpine Skiing,"MíìLLER, Peter",SUI,Men,Downhill,Silver
+1984,Sarajevo,Skiing,Alpine Skiing,"M’“LLER, Peter",SUI,Men,Downhill,Silver
 1984,Sarajevo,Skiing,Alpine Skiing,"CHARVATOVA, Olga",TCH,Women,Downhill,Bronze
 1984,Sarajevo,Skiing,Alpine Skiing,"FIGINI, Michela",SUI,Women,Downhill,Gold
 1984,Sarajevo,Skiing,Alpine Skiing,"WALLISER, Maria",SUI,Women,Downhill,Silver
@@ -2212,7 +2212,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1984,Sarajevo,Skiing,Cross Country Skiing,"ZIMYATOV, Nikolay",URS,Men,4X10KM Relay,Silver
 1984,Sarajevo,Skiing,Cross Country Skiing,"HYYTIAINEN, Eija",FIN,Women,4X5KM Relay,Bronze
 1984,Sarajevo,Skiing,Cross Country Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,4X5KM Relay,Bronze
-1984,Sarajevo,Skiing,Cross Country Skiing,"Mí‹í‹TTí‹, Pirkko",FIN,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,Cross Country Skiing,"M’Ü’ÜTT’Ü, Pirkko",FIN,Women,4X5KM Relay,Bronze
 1984,Sarajevo,Skiing,Cross Country Skiing,"MATIKAINEN, Marjo",FIN,Women,4X5KM Relay,Bronze
 1984,Sarajevo,Skiing,Cross Country Skiing,"AUNLI, Berit",NOR,Women,4X5KM Relay,Gold
 1984,Sarajevo,Skiing,Cross Country Skiing,"JAHREN, Anne",NOR,Women,4X5KM Relay,Gold
@@ -2253,14 +2253,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Biathlon,Biathlon,"VASSILIEV, Dmitri",URS,Men,4X7.5KM Relay,Gold
 1988,Calgary,Biathlon,Biathlon,"ANGERER, Peter",FRG,Men,4X7.5KM Relay,Silver
 1988,Calgary,Biathlon,Biathlon,"FISCHER, Fritz",FRG,Men,4X7.5KM Relay,Silver
-1988,Calgary,Biathlon,Biathlon,"Hí_CK, Stefan",FRG,Men,4X7.5KM Relay,Silver
+1988,Calgary,Biathlon,Biathlon,"H’_CK, Stefan",FRG,Men,4X7.5KM Relay,Silver
 1988,Calgary,Biathlon,Biathlon,"REITER, Ernst",FRG,Men,4X7.5KM Relay,Silver
 1988,Calgary,Bobsleigh,Bobsleigh,"KIPURS, Yanis",URS,Men,Four-Man,Bronze
 1988,Calgary,Bobsleigh,Bobsleigh,"KOSLOV, Vladimir",URS,Men,Four-Man,Bronze
 1988,Calgary,Bobsleigh,Bobsleigh,"OSSIS, Gountis",URS,Men,Four-Man,Bronze
 1988,Calgary,Bobsleigh,Bobsleigh,"TONE, Juris",URS,Men,Four-Man,Bronze
 1988,Calgary,Bobsleigh,Bobsleigh,"FASSER, Ekkehard",SUI,Men,Four-Man,Gold
-1988,Calgary,Bobsleigh,Bobsleigh,"Fí‹SSLER, Marcel",SUI,Men,Four-Man,Gold
+1988,Calgary,Bobsleigh,Bobsleigh,"F’ÜSSLER, Marcel",SUI,Men,Four-Man,Gold
 1988,Calgary,Bobsleigh,Bobsleigh,"MEIER, Kurt",SUI,Men,Four-Man,Gold
 1988,Calgary,Bobsleigh,Bobsleigh,"STOCKER, Werner",SUI,Men,Four-Man,Gold
 1988,Calgary,Bobsleigh,Bobsleigh,"HOPPE, Wolfgang",GDR,Men,Four-Man,Silver
@@ -2282,19 +2282,19 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Ice Hockey,Ice Hockey,"ELDEBRINK, Anders",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"ERIKSSON, Peter",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"ERIKSSON, Thomas",SWE,Men,Ice Hockey,Bronze
-1988,Calgary,Ice Hockey,Ice Hockey,"HJí‹LM, Peter Michael",SWE,Men,Ice Hockey,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,"HJ’ÜLM, Peter Michael",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"IVARSSON, Lars",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"JOHANSSON, Mikael",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"KARLSSON, Lars",SWE,Men,Ice Hockey,Bronze
-1988,Calgary,Ice Hockey,Ice Hockey,"KIHLSTRí_M, Mats",SWE,Men,Ice Hockey,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,"KIHLSTR’_M, Mats",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"LINDMARK, Peter",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"MOLIN, Lars",SWE,Men,Ice Hockey,Bronze
-1988,Calgary,Ice Hockey,Ice Hockey,"í_HLING, Jens",SWE,Men,Ice Hockey,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,"’_HLING, Jens",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"PETTERSSON, Lars-Gunnar",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"RUNDQVIST, Thomas",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"SAMUELSSON, Tommy",SWE,Men,Ice Hockey,Bronze
-1988,Calgary,Ice Hockey,Ice Hockey,"SANDSTRí_M, Ulf",SWE,Men,Ice Hockey,Bronze
-1988,Calgary,Ice Hockey,Ice Hockey,"Sí_DERGREN, Karl Haakan",SWE,Men,Ice Hockey,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,"SANDSTR’_M, Ulf",SWE,Men,Ice Hockey,Bronze
+1988,Calgary,Ice Hockey,Ice Hockey,"S’_DERGREN, Karl Haakan",SWE,Men,Ice Hockey,Bronze
 1988,Calgary,Ice Hockey,Ice Hockey,"BIAKIN, Ilja",URS,Men,Ice Hockey,Gold
 1988,Calgary,Ice Hockey,Ice Hockey,"BYKOV, Viacheslav",URS,Men,Ice Hockey,Gold
 1988,Calgary,Ice Hockey,Ice Hockey,"FETISOV, Viacheslav",URS,Men,Ice Hockey,Gold
@@ -2320,7 +2320,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Ice Hockey,Ice Hockey,"BLOMQVIST, Timo",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Ice Hockey,Ice Hockey,"ELORANTA, Kari",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Ice Hockey,Ice Hockey,"HELMINEN, Raimo",FIN,Men,Ice Hockey,Silver
-1988,Calgary,Ice Hockey,Ice Hockey,"Jí‹RVI, Jiro",FIN,Men,Ice Hockey,Silver
+1988,Calgary,Ice Hockey,Ice Hockey,"J’ÜRVI, Jiro",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Ice Hockey,Ice Hockey,"KESKINEN, Esa",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Ice Hockey,Ice Hockey,"LAINE, Erkki",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Ice Hockey,Ice Hockey,"LAITINEN, Kari",FIN,Men,Ice Hockey,Silver
@@ -2341,7 +2341,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Ice Hockey,Ice Hockey,"VIRTANEN, Jukka",FIN,Men,Ice Hockey,Silver
 1988,Calgary,Luge,Luge,"SCHWAB, Thomas",FRG,Men,Doubles,Bronze
 1988,Calgary,Luge,Luge,"STAUDINGER, Wolfgang",FRG,Men,Doubles,Bronze
-1988,Calgary,Luge,Luge,"HOFFMANN, Jí_rg",GDR,Men,Doubles,Gold
+1988,Calgary,Luge,Luge,"HOFFMANN, J’_rg",GDR,Men,Doubles,Gold
 1988,Calgary,Luge,Luge,"PIETZSCH, Jochen",GDR,Men,Doubles,Gold
 1988,Calgary,Luge,Luge,"BEHRENDT, Jan",GDR,Men,Doubles,Silver
 1988,Calgary,Luge,Luge,"KRAUSSE, Stefan",GDR,Men,Doubles,Silver
@@ -2407,7 +2407,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Alpine Skiing,"OERTLI, Brigitte",SUI,Women,Alpine Combined,Silver
 1988,Calgary,Skiing,Alpine Skiing,"PICCARD, Franck",FRA,Men,Downhill,Bronze
 1988,Calgary,Skiing,Alpine Skiing,"ZURBRIGGEN, Pirmin",SUI,Men,Downhill,Gold
-1988,Calgary,Skiing,Alpine Skiing,"MíìLLER, Peter",SUI,Men,Downhill,Silver
+1988,Calgary,Skiing,Alpine Skiing,"M’“LLER, Peter",SUI,Men,Downhill,Silver
 1988,Calgary,Skiing,Alpine Skiing,"PERCY, Karen",CAN,Women,Downhill,Bronze
 1988,Calgary,Skiing,Alpine Skiing,"KIEHL, Marina",FRG,Women,Downhill,Gold
 1988,Calgary,Skiing,Alpine Skiing,"OERTLI, Brigitte",SUI,Women,Downhill,Silver
@@ -2419,11 +2419,11 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Alpine Skiing,"KINSHOFER GUETHLEIN, Christa",FRG,Women,Giant Slalom,Silver
 1988,Calgary,Skiing,Alpine Skiing,"FROMMELT, Paul",LIE,Men,Slalom,Bronze
 1988,Calgary,Skiing,Alpine Skiing,"TOMBA, Alberto",ITA,Men,Slalom,Gold
-1988,Calgary,Skiing,Alpine Skiing,"Wí_RNDL, Frank",FRG,Men,Slalom,Silver
+1988,Calgary,Skiing,Alpine Skiing,"W’_RNDL, Frank",FRG,Men,Slalom,Silver
 1988,Calgary,Skiing,Alpine Skiing,"KINSHOFER GUETHLEIN, Christa",FRG,Women,Slalom,Bronze
 1988,Calgary,Skiing,Alpine Skiing,"SCHNEIDER, Vreni",SUI,Women,Slalom,Gold
 1988,Calgary,Skiing,Alpine Skiing,"SVET, Mateja",YUG,Women,Slalom,Silver
-1988,Calgary,Skiing,Alpine Skiing,"ERIKSSON, Lars-Bí_rje",SWE,Men,Super-G,Bronze
+1988,Calgary,Skiing,Alpine Skiing,"ERIKSSON, Lars-B’_rje",SWE,Men,Super-G,Bronze
 1988,Calgary,Skiing,Alpine Skiing,"PICCARD, Franck",FRA,Men,Super-G,Gold
 1988,Calgary,Skiing,Alpine Skiing,"MAYER, Helmut",AUT,Men,Super-G,Silver
 1988,Calgary,Skiing,Alpine Skiing,"PERCY, Karen",CAN,Women,Super-G,Bronze
@@ -2454,7 +2454,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Cross Country Skiing,"SAKHNOV, Vladimir",URS,Men,4X10KM Relay,Silver
 1988,Calgary,Skiing,Cross Country Skiing,"SMIRNOV, Vladimir",URS,Men,4X10KM Relay,Silver
 1988,Calgary,Skiing,Cross Country Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,4X5KM Relay,Bronze
-1988,Calgary,Skiing,Cross Country Skiing,"Mí‹í‹TTí‹, Pirkko",FIN,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,Cross Country Skiing,"M’Ü’ÜTT’Ü, Pirkko",FIN,Women,4X5KM Relay,Bronze
 1988,Calgary,Skiing,Cross Country Skiing,"MATIKAINEN, Marjo",FIN,Women,4X5KM Relay,Bronze
 1988,Calgary,Skiing,Cross Country Skiing,"SAVOLAINEN, Jaana",FIN,Women,4X5KM Relay,Bronze
 1988,Calgary,Skiing,Cross Country Skiing,"GAVRILJUK, Nina",URS,Women,4X5KM Relay,Gold
@@ -2465,7 +2465,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Cross Country Skiing,"DYBENDAHL HARTZ, Trude",NOR,Women,4X5KM Relay,Silver
 1988,Calgary,Skiing,Cross Country Skiing,"JAHREN, Anne",NOR,Women,4X5KM Relay,Silver
 1988,Calgary,Skiing,Cross Country Skiing,"MIKKELSPLASS, Marit",NOR,Women,4X5KM Relay,Silver
-1988,Calgary,Skiing,Cross Country Skiing,"GRíìNENFELDER, Andi",SUI,Men,50KM,Bronze
+1988,Calgary,Skiing,Cross Country Skiing,"GR’“NENFELDER, Andi",SUI,Men,50KM,Bronze
 1988,Calgary,Skiing,Cross Country Skiing,"SVAN, Gunde Anders",SWE,Men,50KM,Gold
 1988,Calgary,Skiing,Cross Country Skiing,"DE ZOLT, Maurilio",ITA,Men,50KM,Silver
 1988,Calgary,Skiing,Cross Country Skiing,"VENCIENE, Vida",URS,Women,5KM,Bronze
@@ -2474,10 +2474,10 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Nordic Combined,"LEVANDI, Allar",URS,Men,Individual,Bronze
 1988,Calgary,Skiing,Nordic Combined,"KEMPF, Hippolyt",SUI,Men,Individual,Gold
 1988,Calgary,Skiing,Nordic Combined,"SULZENBACHER, Klaus",AUT,Men,Individual,Silver
-1988,Calgary,Skiing,Nordic Combined,"ASCHENWALD, Hansjí_rg",AUT,Men,Team,Bronze
-1988,Calgary,Skiing,Nordic Combined,"CSAR, Gí_nther",AUT,Men,Team,Bronze
+1988,Calgary,Skiing,Nordic Combined,"ASCHENWALD, Hansj’_rg",AUT,Men,Team,Bronze
+1988,Calgary,Skiing,Nordic Combined,"CSAR, G’_nther",AUT,Men,Team,Bronze
 1988,Calgary,Skiing,Nordic Combined,"SULZENBACHER, Klaus",AUT,Men,Team,Bronze
-1988,Calgary,Skiing,Nordic Combined,"MíìLLER, Thomas",FRG,Men,Team,Gold
+1988,Calgary,Skiing,Nordic Combined,"M’“LLER, Thomas",FRG,Men,Team,Gold
 1988,Calgary,Skiing,Nordic Combined,"POHL, Hans-Peter",FRG,Men,Team,Gold
 1988,Calgary,Skiing,Nordic Combined,"SCHWARZ, Hubert",FRG,Men,Team,Gold
 1988,Calgary,Skiing,Nordic Combined,"GLANZMANN, Fredy",SUI,Men,Team,Silver
@@ -2487,9 +2487,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1988,Calgary,Skiing,Ski Jumping,"NYKANEN, Matti",FIN,Men,K120 Individual (90M),Gold
 1988,Calgary,Skiing,Ski Jumping,"JOHNSEN, Erik",NOR,Men,K120 Individual (90M),Silver
 1988,Calgary,Skiing,Ski Jumping,"EIDHAMMER, Ole C.",NOR,Men,K120 Team (90M),Bronze
-1988,Calgary,Skiing,Ski Jumping,"FIDJESTí_L, Ole Gunnar",NOR,Men,K120 Team (90M),Bronze
+1988,Calgary,Skiing,Ski Jumping,"FIDJEST’_L, Ole Gunnar",NOR,Men,K120 Team (90M),Bronze
 1988,Calgary,Skiing,Ski Jumping,"JOHNSEN, Erik",NOR,Men,K120 Team (90M),Bronze
-1988,Calgary,Skiing,Ski Jumping,"KJí_RUM, Jon",NOR,Men,K120 Team (90M),Bronze
+1988,Calgary,Skiing,Ski Jumping,"KJ’_RUM, Jon",NOR,Men,K120 Team (90M),Bronze
 1988,Calgary,Skiing,Ski Jumping,"NIKKOLA, Ari-Pekka",FIN,Men,K120 Team (90M),Gold
 1988,Calgary,Skiing,Ski Jumping,"NYKANEN, Matti",FIN,Men,K120 Team (90M),Gold
 1988,Calgary,Skiing,Ski Jumping,"PUIKKONEN, Jari",FIN,Men,K120 Team (90M),Gold
@@ -2507,21 +2507,21 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Biathlon,Biathlon,"BEDARD, Myriam",CAN,Women,15KM,Bronze
 1992,Albertville,Biathlon,Biathlon,"HARVEY, Antje",GER,Women,15KM,Gold
 1992,Albertville,Biathlon,Biathlon,"PECHERSKAYA, Svetlana",EUN,Women,15KM,Silver
-1992,Albertville,Biathlon,Biathlon,"Lí_FGREN, Mikael",SWE,Men,20KM,Bronze
+1992,Albertville,Biathlon,Biathlon,"L’_FGREN, Mikael",SWE,Men,20KM,Bronze
 1992,Albertville,Biathlon,Biathlon,"REDKIN, Yevgeny",EUN,Men,20KM,Gold
 1992,Albertville,Biathlon,Biathlon,"KIRCHNER, Mark",GER,Men,20KM,Silver
 1992,Albertville,Biathlon,Biathlon,"BELOVA, Yelena",EUN,Women,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"MELNIKOVA, Elena",EUN,Women,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"REZTSOVA, Anfisa",EUN,Women,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"BRIAND BOUTHIAUX, Anne",FRA,Women,4X7.5KM Relay,Gold
-1992,Albertville,Biathlon,Biathlon,"CLAUDEL, Ví©ronique",FRA,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,Biathlon,"CLAUDEL, V’©ronique",FRA,Women,4X7.5KM Relay,Gold
 1992,Albertville,Biathlon,Biathlon,"NIOGRET, Corinne",FRA,Women,4X7.5KM Relay,Gold
 1992,Albertville,Biathlon,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
 1992,Albertville,Biathlon,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
 1992,Albertville,Biathlon,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
 1992,Albertville,Biathlon,Biathlon,"ANDERSSON, Leif",SWE,Men,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"JOHANSSON, Ulf",SWE,Men,4X7.5KM Relay,Bronze
-1992,Albertville,Biathlon,Biathlon,"Lí_FGREN, Mikael",SWE,Men,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,Biathlon,"L’_FGREN, Mikael",SWE,Men,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"WIKSTEN, Tord",SWE,Men,4X7.5KM Relay,Bronze
 1992,Albertville,Biathlon,Biathlon,"FISCHER, Fritz",GER,Men,4X7.5KM Relay,Gold
 1992,Albertville,Biathlon,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
@@ -2544,9 +2544,9 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Bobsleigh,Bobsleigh,"WINKLER, Harald",AUT,Men,Four-Man,Gold
 1992,Albertville,Bobsleigh,Bobsleigh,"HANNEMANN, Rene",GER,Men,Four-Man,Silver
 1992,Albertville,Bobsleigh,Bobsleigh,"HOPPE, Wolfgang",GER,Men,Four-Man,Silver
-1992,Albertville,Bobsleigh,Bobsleigh,"KíìHN, Axel",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,Bobsleigh,"K’“HN, Axel",GER,Men,Four-Man,Silver
 1992,Albertville,Bobsleigh,Bobsleigh,"MUSIOL, Bogdan",GER,Men,Four-Man,Silver
-1992,Albertville,Bobsleigh,Bobsleigh,"EGER, Gí_nther",GER,Men,Two-Man,Bronze
+1992,Albertville,Bobsleigh,Bobsleigh,"EGER, G’_nther",GER,Men,Two-Man,Bronze
 1992,Albertville,Bobsleigh,Bobsleigh,"LANGEN, Christoph",GER,Men,Two-Man,Bronze
 1992,Albertville,Bobsleigh,Bobsleigh,"ACKLIN, Donat",SUI,Men,Two-Man,Gold
 1992,Albertville,Bobsleigh,Bobsleigh,"WEDER, Gustav",SUI,Men,Two-Man,Gold
@@ -2622,7 +2622,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Ice Hockey,Ice Hockey,"TUTT, Brian",CAN,Men,Ice Hockey,Silver
 1992,Albertville,Ice Hockey,Ice Hockey,"WOOLLEY, Jason",CAN,Men,Ice Hockey,Silver
 1992,Albertville,Luge,Luge,"HUBER, Norbert",ITA,Men,Doubles,Bronze
-1992,Albertville,Luge,Luge,"RAFFL, Hansjí_rg",ITA,Men,Doubles,Bronze
+1992,Albertville,Luge,Luge,"RAFFL, Hansj’_rg",ITA,Men,Doubles,Bronze
 1992,Albertville,Luge,Luge,"BEHRENDT, Jan",GER,Men,Doubles,Gold
 1992,Albertville,Luge,Luge,"KRAUSSE, Stefan",GER,Men,Doubles,Gold
 1992,Albertville,Luge,Luge,"MANKEL, Yves",GER,Men,Doubles,Silver
@@ -2653,7 +2653,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skating,Figure skating,"PETROV, Denis",EUN,Men,Pairs,Silver
 1992,Albertville,Skating,Short Track Speed Skating,"LEE, Jun-Ho",KOR,Men,1000M,Bronze
 1992,Albertville,Skating,Short Track Speed Skating,"KIM, Ki-Hoon",KOR,Men,1000M,Gold
-1992,Albertville,Skating,Short Track Speed Skating,"BLACKBURN, Frí©dí©ric",CAN,Men,1000M,Silver
+1992,Albertville,Skating,Short Track Speed Skating,"BLACKBURN, Fr’©d’©ric",CAN,Men,1000M,Silver
 1992,Albertville,Skating,Short Track Speed Skating,"ALAGULOVA, Yulia",EUN,Women,3000M Relay,Bronze
 1992,Albertville,Skating,Short Track Speed Skating,"ISSAKOVA, Natalia",EUN,Women,3000M Relay,Bronze
 1992,Albertville,Skating,Short Track Speed Skating,"TROITSKAYA, Viktoria",EUN,Women,3000M Relay,Bronze
@@ -2674,7 +2674,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skating,Short Track Speed Skating,"LEE, Jun-Ho",KOR,Men,5000M Relay,Gold
 1992,Albertville,Skating,Short Track Speed Skating,"MO, Ji-Soo",KOR,Men,5000M Relay,Gold
 1992,Albertville,Skating,Short Track Speed Skating,"SONG, Jae-Kun",KOR,Men,5000M Relay,Gold
-1992,Albertville,Skating,Short Track Speed Skating,"BLACKBURN, Frí©dí©ric",CAN,Men,5000M Relay,Silver
+1992,Albertville,Skating,Short Track Speed Skating,"BLACKBURN, Fr’©d’©ric",CAN,Men,5000M Relay,Silver
 1992,Albertville,Skating,Short Track Speed Skating,"DAIGNAULT, Laurent",CAN,Men,5000M Relay,Silver
 1992,Albertville,Skating,Short Track Speed Skating,"DAIGNAULT, Michel",CAN,Men,5000M Relay,Silver
 1992,Albertville,Skating,Short Track Speed Skating,"GAGNON, Sylvain",CAN,Men,5000M Relay,Silver
@@ -2695,7 +2695,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skating,Speed skating,"KOSS, Johann Olav",NOR,Men,1500M,Gold
 1992,Albertville,Skating,Speed skating,"SONDRAL, Adne",NOR,Men,1500M,Silver
 1992,Albertville,Skating,Speed skating,"HASHIMOTO, Seiko",JPN,Women,1500M,Bronze
-1992,Albertville,Skating,Speed skating,"Bí_RNER, Jacqueline",GER,Women,1500M,Gold
+1992,Albertville,Skating,Speed skating,"B’_RNER, Jacqueline",GER,Women,1500M,Gold
 1992,Albertville,Skating,Speed skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
 1992,Albertville,Skating,Speed skating,"HUNYADY, Emese",AUT,Women,3000M,Bronze
 1992,Albertville,Skating,Speed skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,3000M,Gold
@@ -2718,7 +2718,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skiing,Alpine Skiing,"MASNADA, Florence",FRA,Women,Alpine Combined,Bronze
 1992,Albertville,Skiing,Alpine Skiing,"KRONBERGER, Petra",AUT,Women,Alpine Combined,Gold
 1992,Albertville,Skiing,Alpine Skiing,"WACHTER, Anita",AUT,Women,Alpine Combined,Silver
-1992,Albertville,Skiing,Alpine Skiing,"MADER, Gí_nther",AUT,Men,Downhill,Bronze
+1992,Albertville,Skiing,Alpine Skiing,"MADER, G’_nther",AUT,Men,Downhill,Bronze
 1992,Albertville,Skiing,Alpine Skiing,"ORTLIEB, Patrick",AUT,Men,Downhill,Gold
 1992,Albertville,Skiing,Alpine Skiing,"PICCARD, Franck",FRA,Men,Downhill,Silver
 1992,Albertville,Skiing,Alpine Skiing,"STALLMAIER, Veronika",AUT,Women,Downhill,Bronze
@@ -2742,7 +2742,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skiing,Alpine Skiing,"SEIZINGER, Katja",GER,Women,Super-G,Bronze
 1992,Albertville,Skiing,Alpine Skiing,"COMPAGNONI, Deborah",ITA,Women,Super-G,Gold
 1992,Albertville,Skiing,Alpine Skiing,"MERLE, Carole",FRA,Women,Super-G,Silver
-1992,Albertville,Skiing,Cross Country Skiing,"MAJBí‹CK, Christer",SWE,Men,10KM Pursuit,Bronze
+1992,Albertville,Skiing,Cross Country Skiing,"MAJB’ÜCK, Christer",SWE,Men,10KM Pursuit,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"ULVANG, Vegard",NOR,Men,10KM Pursuit,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"ALBARELLO, Marco",ITA,Men,10KM Pursuit,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"VAELBE, Elena",EUN,Women,15KM Mass Start,Bronze
@@ -2753,12 +2753,12 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skiing,Cross Country Skiing,"EGOROVA, Ljubov",EUN,Women,30KM,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"LANGLI, Terje",NOR,Men,30KM Mass Start,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"ULVANG, Vegard",NOR,Men,30KM Mass Start,Gold
-1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,30KM Mass Start,Silver
+1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,30KM Mass Start,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"ISOMETSA, Jari",FIN,Men,4X10KM Relay,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"KIRVESNIEMI, Harri",FIN,Men,4X10KM Relay,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"KUUSISTO, Mika",FIN,Men,4X10KM Relay,Bronze
-1992,Albertville,Skiing,Cross Country Skiing,"Rí‹Sí‹NEN, Jari",FIN,Men,4X10KM Relay,Bronze
-1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,4X10KM Relay,Gold
+1992,Albertville,Skiing,Cross Country Skiing,"R’ÜS’ÜNEN, Jari",FIN,Men,4X10KM Relay,Bronze
+1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,4X10KM Relay,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"LANGLI, Terje",NOR,Men,4X10KM Relay,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"SKJELDAL, Kristen",NOR,Men,4X10KM Relay,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"ULVANG, Vegard",NOR,Men,4X10KM Relay,Gold
@@ -2779,13 +2779,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1992,Albertville,Skiing,Cross Country Skiing,"NYBRAATEN, Inger Helene",NOR,Women,4X5KM Relay,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"PEDERSEN, Solveig",NOR,Women,4X5KM Relay,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"VANZETTA, Giorgio",ITA,Men,50KM,Bronze
-1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,50KM,Gold
+1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,50KM,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"DE ZOLT, Maurilio",ITA,Men,50KM,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"VAELBE, Elena",EUN,Women,5KM,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"ROLIG, Marjut",FIN,Women,5KM,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"EGOROVA, Ljubov",EUN,Women,5KM,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"VANZETTA, Giorgio",ITA,Men,Combined 10KM + 15KM Pursuit,Bronze
-1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Gold
+1992,Albertville,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Gold
 1992,Albertville,Skiing,Cross Country Skiing,"ULVANG, Vegard",NOR,Men,Combined 10KM + 15KM Pursuit,Silver
 1992,Albertville,Skiing,Cross Country Skiing,"VAELBE, Elena",EUN,Women,Combined 5KM + 10KM Pursuit,Bronze
 1992,Albertville,Skiing,Cross Country Skiing,"EGOROVA, Ljubov",EUN,Women,Combined 5KM + 10KM Pursuit,Gold
@@ -2837,7 +2837,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Biathlon,Biathlon,"LUCK, Frank",GER,Men,20KM,Silver
 1994,Lillehammer,Biathlon,Biathlon,"BAILLY-SALINS, Patrice",FRA,Men,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"DUSSERRE, Thierry",FRA,Men,4X7.5KM Relay,Bronze
-1994,Lillehammer,Biathlon,Biathlon,"FLANDIN, Herví©",FRA,Men,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon,"FLANDIN, Herv’©",FRA,Men,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"LAURENT, Lionel",FRA,Men,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Gold
 1994,Lillehammer,Biathlon,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
@@ -2849,7 +2849,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Biathlon,Biathlon,"TCHEPIKOV, Sergei",RUS,Men,4X7.5KM Relay,Silver
 1994,Lillehammer,Biathlon,Biathlon,"BRIAND BOUTHIAUX, Anne",FRA,Women,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"BURLET, Delphyne",FRA,Women,4X7.5KM Relay,Bronze
-1994,Lillehammer,Biathlon,Biathlon,"CLAUDEL, Ví©ronique",FRA,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,Biathlon,"CLAUDEL, V’©ronique",FRA,Women,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"NIOGRET, Corinne",FRA,Women,4X7.5KM Relay,Bronze
 1994,Lillehammer,Biathlon,Biathlon,"NOSKOVA, Louiza",RUS,Women,4X7.5KM Relay,Gold
 1994,Lillehammer,Biathlon,Biathlon,"REZTSOVA, Anfisa",RUS,Women,4X7.5KM Relay,Gold
@@ -2881,7 +2881,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Bobsleigh,Bobsleigh,"ACKLIN, Guido",SUI,Men,Two-Man,Silver
 1994,Lillehammer,Bobsleigh,Bobsleigh,"GOETSCHI, Reto",SUI,Men,Two-Man,Silver
 1994,Lillehammer,Ice Hockey,Ice Hockey,"ALATALO, Mika",FIN,Men,Ice Hockey,Bronze
-1994,Lillehammer,Ice Hockey,Ice Hockey,"Hí‹Mí‹Lí‹INEN, Vesa Erik",FIN,Men,Ice Hockey,Bronze
+1994,Lillehammer,Ice Hockey,Ice Hockey,"H’ÜM’ÜL’ÜINEN, Vesa Erik",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"HELMINEN, Raimo",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"JUTILA, Timo",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"KAPANEN, Sami",FIN,Men,Ice Hockey,Bronze
@@ -2892,7 +2892,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Ice Hockey,Ice Hockey,"LAUKKANEN, Janne",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"LEHTERAE, Tero",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"LEHTINEN, Jere",FIN,Men,Ice Hockey,Bronze
-1994,Lillehammer,Ice Hockey,Ice Hockey,"Mí‹KELí‹, Mikko",FIN,Men,Ice Hockey,Bronze
+1994,Lillehammer,Ice Hockey,Ice Hockey,"M’ÜKEL’Ü, Mikko",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"MYLLYS, Jarmo",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"NIEMINEN, Mika",FIN,Men,Ice Hockey,Bronze
 1994,Lillehammer,Ice Hockey,Ice Hockey,"OJANEN, Janne",FIN,Men,Ice Hockey,Bronze
@@ -2918,8 +2918,8 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Ice Hockey,Ice Hockey,"JUHLIN, Patrik",SWE,Men,Ice Hockey,Gold
 1994,Lillehammer,Ice Hockey,Ice Hockey,"KJELLBERG, Patric",SWE,Men,Ice Hockey,Gold
 1994,Lillehammer,Ice Hockey,Ice Hockey,"LOOB, Haakan",SWE,Men,Ice Hockey,Gold
-1994,Lillehammer,Ice Hockey,Ice Hockey,"Ní‹SLUND, Mats",SWE,Men,Ice Hockey,Gold
-1994,Lillehammer,Ice Hockey,Ice Hockey,"í_RNSKOG, Stefan",SWE,Men,Ice Hockey,Gold
+1994,Lillehammer,Ice Hockey,Ice Hockey,"N’ÜSLUND, Mats",SWE,Men,Ice Hockey,Gold
+1994,Lillehammer,Ice Hockey,Ice Hockey,"’_RNSKOG, Stefan",SWE,Men,Ice Hockey,Gold
 1994,Lillehammer,Ice Hockey,Ice Hockey,"ROHLIN, Leif",SWE,Men,Ice Hockey,Gold
 1994,Lillehammer,Ice Hockey,Ice Hockey,"RYDMARK, Daniel",SWE,Men,Ice Hockey,Gold
 1994,Lillehammer,Ice Hockey,Ice Hockey,"SALO, Tommy",SWE,Men,Ice Hockey,Gold
@@ -2953,7 +2953,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Luge,Luge,"BRUGGER, Kurt",ITA,Men,Doubles,Gold
 1994,Lillehammer,Luge,Luge,"HUBER, Wilfried",ITA,Men,Doubles,Gold
 1994,Lillehammer,Luge,Luge,"HUBER, Norbert",ITA,Men,Doubles,Silver
-1994,Lillehammer,Luge,Luge,"RAFFL, Hansjí_rg",ITA,Men,Doubles,Silver
+1994,Lillehammer,Luge,Luge,"RAFFL, Hansj’_rg",ITA,Men,Doubles,Silver
 1994,Lillehammer,Luge,Luge,"ZOEGGELER, Armin",ITA,Men,Singles,Bronze
 1994,Lillehammer,Luge,Luge,"HACKL, Georg",GER,Men,Singles,Gold
 1994,Lillehammer,Luge,Luge,"PROCK, Markus",AUT,Men,Singles,Silver
@@ -3080,7 +3080,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Skiing,Alpine Skiing,"ROFFE, Diann",USA,Women,Super-G,Gold
 1994,Lillehammer,Skiing,Alpine Skiing,"GLADISHEVA, Svetlana",RUS,Women,Super-G,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"ALBARELLO, Marco",ITA,Men,10KM Pursuit,Bronze
-1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,10KM Pursuit,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,10KM Pursuit,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"SMIRNOV, Vladimir",KAZ,Men,10KM Pursuit,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"GAVRILJUK, Nina",RUS,Women,15KM Mass Start,Bronze
 1994,Lillehammer,Skiing,Cross Country Skiing,"DI CENTA, Manuela",ITA,Women,15KM Mass Start,Gold
@@ -3090,7 +3090,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Skiing,Cross Country Skiing,"MIKKELSPLASS, Marit",NOR,Women,30KM,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"MYLLYLAE, Mika",FIN,Men,30KM Mass Start,Bronze
 1994,Lillehammer,Skiing,Cross Country Skiing,"ALSGAARD, Thomas",NOR,Men,30KM Mass Start,Gold
-1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,30KM Mass Start,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,30KM Mass Start,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"ISOMETSA, Jari",FIN,Men,4X10KM Relay,Bronze
 1994,Lillehammer,Skiing,Cross Country Skiing,"KIRVESNIEMI, Harri",FIN,Men,4X10KM Relay,Bronze
 1994,Lillehammer,Skiing,Cross Country Skiing,"MYLLYLAE, Mika",FIN,Men,4X10KM Relay,Bronze
@@ -3100,7 +3100,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Skiing,Cross Country Skiing,"FAUNER, Silvio",ITA,Men,4X10KM Relay,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"VANZETTA, Giorgio",ITA,Men,4X10KM Relay,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"ALSGAARD, Thomas",NOR,Men,4X10KM Relay,Silver
-1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,4X10KM Relay,Silver
+1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,4X10KM Relay,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"SIVERTSEN, Sture",NOR,Men,4X10KM Relay,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"ULVANG, Vegard",NOR,Men,4X10KM Relay,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"BELMONDO, Stefania",ITA,Women,4X5KM Relay,Bronze
@@ -3122,13 +3122,13 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1994,Lillehammer,Skiing,Cross Country Skiing,"EGOROVA, Ljubov",RUS,Women,5KM,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"DI CENTA, Manuela",ITA,Women,5KM,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"FAUNER, Silvio",ITA,Men,Combined 10KM + 15KM Pursuit,Bronze
-1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Gold
+1994,Lillehammer,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"SMIRNOV, Vladimir",KAZ,Men,Combined 10KM + 15KM Pursuit,Silver
 1994,Lillehammer,Skiing,Cross Country Skiing,"BELMONDO, Stefania",ITA,Women,Combined 5KM + 10KM Pursuit,Bronze
 1994,Lillehammer,Skiing,Cross Country Skiing,"EGOROVA, Ljubov",RUS,Women,Combined 5KM + 10KM Pursuit,Gold
 1994,Lillehammer,Skiing,Cross Country Skiing,"DI CENTA, Manuela",ITA,Women,Combined 5KM + 10KM Pursuit,Silver
 1994,Lillehammer,Skiing,Freestyle Skiing,"LANGLOIS, Lloyd",CAN,Men,Aerials,Bronze
-1994,Lillehammer,Skiing,Freestyle Skiing,"SCHí_NBí‹CHLER, Andreas",SUI,Men,Aerials,Gold
+1994,Lillehammer,Skiing,Freestyle Skiing,"SCH’_NB’ÜCHLER, Andreas",SUI,Men,Aerials,Gold
 1994,Lillehammer,Skiing,Freestyle Skiing,"LAROCHE, Philippe",CAN,Men,Aerials,Silver
 1994,Lillehammer,Skiing,Freestyle Skiing,"LID, Hilde Synnove",NOR,Women,Aerials,Bronze
 1994,Lillehammer,Skiing,Freestyle Skiing,"CHERYAZOVA, Lina",UZB,Women,Aerials,Gold
@@ -3512,7 +3512,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1998,Nagano,Skiing,Alpine Skiing,"STREET, Picabo",USA,Women,Super-G,Gold
 1998,Nagano,Skiing,Alpine Skiing,"DORFMEISTER, Michaela",AUT,Women,Super-G,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"MYLLYLAE, Mika",FIN,Men,10KM Pursuit,Bronze
-1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,10KM Pursuit,Gold
+1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,10KM Pursuit,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"GANDLER, Markus",AUT,Men,10KM Pursuit,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"MOEN, Anita",NOR,Women,15KM Mass Start,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"DANILOVA, Olga",RUS,Women,15KM Mass Start,Gold
@@ -3528,7 +3528,7 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1998,Nagano,Skiing,Cross Country Skiing,"MYLLYLAE, Mika",FIN,Men,4X10KM Relay,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"REPO, Sami",FIN,Men,4X10KM Relay,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"ALSGAARD, Thomas",NOR,Men,4X10KM Relay,Gold
-1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,4X10KM Relay,Gold
+1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,4X10KM Relay,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"JEVNE, Erling",NOR,Men,4X10KM Relay,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"SIVERTSEN, Sture",NOR,Men,4X10KM Relay,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"ALBARELLO, Marco",ITA,Men,4X10KM Relay,Silver
@@ -3548,14 +3548,14 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 1998,Nagano,Skiing,Cross Country Skiing,"NILSEN, Elin",NOR,Women,4X5KM Relay,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"SKARI, Bente",NOR,Women,4X5KM Relay,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"HOFFMANN, Christian",AUT,Men,50KM,Bronze
-1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,50KM,Gold
+1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,50KM,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"JONSSON, Niklas",SWE,Men,50KM,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"SKARI, Bente",NOR,Women,5KM,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"LAZUTINA, Larissa",RUS,Women,5KM,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"NEUMANNOVA, Katerina",CZE,Women,5KM,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"SMIRNOV, Vladimir",KAZ,Men,Combined 10KM + 15KM Pursuit,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"ALSGAARD, Thomas",NOR,Men,Combined 10KM + 15KM Pursuit,Gold
-1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bjí_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Silver
+1998,Nagano,Skiing,Cross Country Skiing,"DAEHLIE, Bj’_rn",NOR,Men,Combined 10KM + 15KM Pursuit,Silver
 1998,Nagano,Skiing,Cross Country Skiing,"NEUMANNOVA, Katerina",CZE,Women,Combined 5KM + 10KM Pursuit,Bronze
 1998,Nagano,Skiing,Cross Country Skiing,"LAZUTINA, Larissa",RUS,Women,Combined 5KM + 10KM Pursuit,Gold
 1998,Nagano,Skiing,Cross Country Skiing,"DANILOVA, Olga",RUS,Women,Combined 5KM + 10KM Pursuit,Silver
@@ -5554,23 +5554,23 @@ Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
 2014,Sochi,Skating,Speed skating,"SZYMANSKI, Jan",POL,Men,Team Pursuit,Bronze
 2014,Sochi,Skating,Speed skating,"ZHANG, Hong",CHN,Women,1000M,Gold
 2014,Sochi,Skating,Speed skating,"BOER, Margot",NED,Women,1000M,Bronze
-2014,Sochi,Skating,Speed skating,"WíìST, Ireen",NED,Women,1000M,Silver
+2014,Sochi,Skating,Speed skating,"W’“ST, Ireen",NED,Women,1000M,Silver
 2014,Sochi,Skating,Speed skating,"TER MORS, Jorien",NED,Women,1500M,Gold
 2014,Sochi,Skating,Speed skating,"van BEEK, Lotte",NED,Women,1500M,Bronze
-2014,Sochi,Skating,Speed skating,"WíìST, Ireen",NED,Women,1500M,Silver
+2014,Sochi,Skating,Speed skating,"W’“ST, Ireen",NED,Women,1500M,Silver
 2014,Sochi,Skating,Speed skating,"SABLIKOVA, Martina",CZE,Women,3000M,Silver
-2014,Sochi,Skating,Speed skating,"WíìST, Ireen",NED,Women,3000M,Gold
+2014,Sochi,Skating,Speed skating,"W’“ST, Ireen",NED,Women,3000M,Gold
 2014,Sochi,Skating,Speed skating,"GRAF, Olga",RUS,Women,3000M,Bronze
 2014,Sochi,Skating,Speed skating,"SABLIKOVA, Martina",CZE,Women,5000M,Gold
 2014,Sochi,Skating,Speed skating,"KLEIBEUKER, Carien",NED,Women,5000M,Bronze
-2014,Sochi,Skating,Speed skating,"WíìST, Ireen",NED,Women,5000M,Silver
+2014,Sochi,Skating,Speed skating,"W’“ST, Ireen",NED,Women,5000M,Silver
 2014,Sochi,Skating,Speed skating,"LEE, Sang Hwa",KOR,Women,500M,Gold
 2014,Sochi,Skating,Speed skating,"BOER, Margot",NED,Women,500M,Bronze
 2014,Sochi,Skating,Speed skating,"FATKULINA, Olga",RUS,Women,500M,Silver
 2014,Sochi,Skating,Speed skating,"LEENSTRA, Marrit",NED,Women,Team Pursuit,Gold
 2014,Sochi,Skating,Speed skating,"TER MORS, Jorien",NED,Women,Team Pursuit,Gold
 2014,Sochi,Skating,Speed skating,"van BEEK, Lotte",NED,Women,Team Pursuit,Gold
-2014,Sochi,Skating,Speed skating,"WíìST, Ireen",NED,Women,Team Pursuit,Gold
+2014,Sochi,Skating,Speed skating,"W’“ST, Ireen",NED,Women,Team Pursuit,Gold
 2014,Sochi,Skating,Speed skating,"BACHLEDA-CURUS, Katarzyna",POL,Women,Team Pursuit,Silver
 2014,Sochi,Skating,Speed skating,"CZERWONKA, Natalia",POL,Women,Team Pursuit,Silver
 2014,Sochi,Skating,Speed skating,"WOZNIAK, Katarzyna",POL,Women,Team Pursuit,Silver

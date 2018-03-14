@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249ac5b2-a245-4c18-a6ab-b9490992e143" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/cleandata.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/datamerge.py" afterPath="$PROJECT_DIR$/datamerge.py" />
+      <change beforePath="$PROJECT_DIR$/input_data/summer.csv" afterPath="$PROJECT_DIR$/input_data/summer.csv" />
+      <change beforePath="$PROJECT_DIR$/input_data/winter.csv" afterPath="$PROJECT_DIR$/input_data/winter.csv" />
+      <change beforePath="$PROJECT_DIR$/input_data/winter2018.csv" afterPath="$PROJECT_DIR$/input_data/winter2018.csv" />
+      <change beforePath="$PROJECT_DIR$/output_data/totalresults.csv" afterPath="$PROJECT_DIR$/output_data/totalresults.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="datamerge.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datamerge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -31,8 +33,8 @@
       <file leaf-file-name="cleandata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cleandata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+            <state relative-caret-position="330">
+              <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -201,16 +203,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cleandata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        <state relative-caret-position="330">
+          <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datamerge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

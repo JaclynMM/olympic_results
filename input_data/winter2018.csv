@@ -1,665 +1,663 @@
-Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Arnd Peiffer,GER,Men,10KM,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Michal Krcmar,CZE,Men,10KM,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dominik Windisch,ITA,Men,10KM,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Martin Fourcade,FRA,Men,12.5Km Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Sebastian Samuelsson,SWE,Men,12.5Km Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Benedikt Doll,GER,Men,12.5Km Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes Boe,NOR,Men,15KM Mass Start,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Jakov Fak,SLO,Men,15KM Mass Start,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dominik Landertinger,AUT,Men,15KM Mass Start,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes Boe,NOR,Men,20KM,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Jakov Fak,SLO,Men,20KM,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dominik Landertinger,AUT,Men,20KM,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Peppe FEMLING,SWE,Men,4X7.5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Jesper NELIN,SWE,Men,4X7.5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Sebastian SAMUELSSON,SWE,Men,4X7.5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Fredrik LINDSTROEM,SWE,Men,4X7.5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Lars Helge BIRKELAND,NOR,Men,4X7.5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Tarjei BOE,NOR,Men,4X7.5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes BOE,NOR,Men,4X7.5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Emil Hegle SVENDSEN,NOR,Men,4X7.5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Erik LESSER,GER,Men,4X7.5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Benedikt DOLL,GER,Men,4X7.5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Arnd PEIFFER,GER,Men,4X7.5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Simon SCHEMPP,GER,Men,4X7.5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Simon DESTHIEUX,FRA,Men,Relay Mix,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Martin FOURCADE,FRA,Men,Relay Mix,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes BOE,NOR,Men,Relay Mix,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Emil Hegle SVENDSEN,NOR,Men,Relay Mix,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Lukas HOFER,ITA,Men,Relay Mix,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dominik WINDISCH,ITA,Men,Relay Mix,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,10KM Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,10KM Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anais Bescond,FRA,Women,10KM Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,12.5KM Mass Start,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Darya Domracheva,BLR,Women,12.5KM Mass Start,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Tiril Eckhoff,NOR,Women,12.5KM Mass Start,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Hanna Oeberg,SWE,Women,15KM,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,15KM,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,15KM,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Nadezhda SKARDINO,BLR,Women,4X6KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Iryna KRYUKO,BLR,Women,4X6KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dzinara ALIMBEKAVA,BLR,Women,4X6KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Darya DOMRACHEVA,BLR,Women,4X6KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Linn PERSSON,SWE,Women,4X6KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Mona BRORSSON,SWE,Women,4X6KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anna MAGNUSSON,SWE,Women,4X6KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Hanna OEBERG,SWE,Women,4X6KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anais CHEVALIER,FRA,Women,4X6KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Marie DORIN HABERT,FRA,Women,4X6KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Justine BRAISAZ,FRA,Women,4X6KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anais BESCOND,FRA,Women,4X6KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,7.5KM,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Marte Olsbu,NOR,Women,7.5KM,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Veronika Vitkova,CZE,Women,7.5KM,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Marie DORIN HABERT,FRA,Women,Relay Mix,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Anais BESCOND,FRA,Women,Relay Mix,Gold,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Marte OLSBU,NOR,Women,Relay Mix,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Tiril ECKHOFF,NOR,Women,Relay Mix,Silver,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Lisa VITTOZZI,ITA,Women,Relay Mix,Bronze,,,,,,,,
-2018,Peyongchang,Biathlon,Biathlon,Dorothea WIERER,ITA,Women,Relay Mix,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Francisco Friedrich,GER,Men,Four-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Candy BAUER,GER,Men,Four-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Martin GROTHKOPP,GER,Men,Four-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Thorsten MARGIS,GER,Men,Four-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Won Junyong,KOR,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,JUN Junglin,KOR,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,SEO Youngwoo,KOR,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,KIM Donghyun,KOR,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Nico Walther,GER,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Kevin KUSKE,GER,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Alexander ROEDIGER,GER,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Eric FRANKE,GER,Men,Four-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Justin Kripps,CAN,Men,Two-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Alexander Kopacz,CAN,Men,Two-Man,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Francesco Friedrich,GER,Men,Two-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Thorsten Margis,GER,Men,Two-Man,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Oskars Melbardis,LAT,Men,Two-Man,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Janis Strenga,LAT,Men,Two-Man,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Mariama Jamanka,GER,Women,Two-Woman,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Lisa Buckwitz,GER,Women,Two-Woman,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Elana Meyers Taylor,USA,Women,Two-Woman,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Lauren Gibbs,USA,Women,Two-Woman,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Kaillie Humphries,CAN,Women,Two-Woman,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Bobsleigh,Phylicia George,CAN,Women,Two-Woman,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Yun Sungbin,KOR,Men,Individual,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Nikita Tregubov,RUS,Men,Individual,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Dom Parsons,GBR,Men,Individual,Bronze,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Lizzy Yarnold,GBR,Women,Individual,Gold,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Jacqueline Loelling,GER,Women,Individual,Silver,,,,,,,,
-2018,Peyongchang,Bobsleigh,Skeleton,Laura Deas,GBR,Women,Individual,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,John SHUSTER,USA,Men,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Tyler GEORGE,USA,Men,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Matt HAMILTON,USA,Men,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,John LANDSTEINER,USA,Men,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Joe POLO,USA,Men,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Niklas EDIN,SWE,Men,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Oskar ERIKSSON,SWE,Men,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Rasmus WRANAA,SWE,Men,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Christoffer SUNDGREN,SWE,Men,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Henrik LEEK,SWE,Men,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Benoit SCHWARZ,SUI,Men,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Claudio PAETZ,SUI,Men,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Peter DE CRUZ,SUI,Men,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Valentin TANNER,SUI,Men,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Dominik MAERKI,SUI,Men,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Anna HASSELBORG,SWE,Women,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Sara MCMANUS,SWE,Women,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Agnes KNOCHENHAUER,SWE,Women,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Sofia MABERGS,SWE,Women,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Jennie WAAHLIN,SWE,Women,Curling,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,KIM EunJung,KOR,Women,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,KIM KyeongAe,KOR,Women,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,KIM SeonYeong,KOR,Women,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,KIM YeongMi,KOR,Women,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,KIM Chohi,KOR,Women,Curling,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Satsuki FUJISAWA,JPN,Women,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Chinami YOSHIDA,JPN,Women,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Yumi SUZUKI,JPN,Women,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Yurika YOSHIDA,JPN,Women,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Mari MOTOHASHI,JPN,Women,Curling,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Artyom ZUB,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Vladislav GAVRIKOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ivan TELEGIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei MOZYAKIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei ANDRONOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Pavel DATSYUK,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei KALININ,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Mikhail GRIGORENKO,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Vyacheslav VOINOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Andrei ZUBAREV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya KABLUKOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Igor SHESTYORKIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya SOROKIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Yegor YAKOVLEV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei SHIROKOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Alexei MARCHENKO,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Bogdan KISELEVICH,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya KOVALCHUK,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Nikolai PROKHORKIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kirill KAPRIZOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Vasili KOSHECHKIN,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Vadim SHIPACHYOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Nikita NESTEROV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Alexander BARABANOV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Nikita GUSEV,RUS,Men,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Daryl BOYLE,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Christian EHRHOFF,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Brooks MACEK,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Marcus KINK,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Matthias PLACHTA,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Frank MAUER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Danny AUS DEN BIRKEN,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Yannic SEIDENBERG,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Patrick REIMER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Bjorn KRUPP,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jonas MULLER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Yasin EHLIZ,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Gerrit FAUSER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Dennis ENDRAS,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Frank HORDLER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Patrick HAGER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Timo PIELMEIER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Felix SCHUTZ,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Marcel GOC,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Dominik KAHUN,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sinan AKDAG,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Leonhard PFODERL,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,David WOLF,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Moritz MULLER,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Marcel NOEBELS,GER,Men,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Karl STOLLERY,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Chris LEE,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Chay GENOWAY,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Gilbert BRULE,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Wojtek WOLSKI,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Derek ROY,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Chris KELLY,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Rob KLINKHAMMER,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Brandon KOZUN,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Quinton HOWDEN,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Rene BOURQUE,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Marc-Andre GRAGNANI,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Andrew EBBETT,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Mason RAYMOND,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Eric O'DELL,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Stefan ELLIOTT,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Cody GOLOUBEF,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ben SCRIVENS,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kevin POULIN,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Justin PETERS,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Mat ROBINSON,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Maxim LAPIERRE,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Maxim NOREAU,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Linden VEY,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Christian THOMAS,CAN,Men,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Lee STECKLEIN,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Cayla BARNES,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Megan KELLER,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kali FLANAGAN,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Monique LAMOUREUX-MORANDO,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Emily PFALZER,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Meghan DUGGAN,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Haley SKARUPA,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kelly PANNEK,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Brianna DECKER,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jocelyne LAMOUREUX-DAVIDSON,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Gigi MARVIN,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Hannah BRANDT,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Hilary KNIGHT,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kacey BELLAMY,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sidney MORIN,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Dani CAMERANESI,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Kendall COYNE,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Amanda KESSEL,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Nicole HENSLEY,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Alex RIGSBY,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Maddie ROONEY,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Amanda PELKEY,USA,Women,Ice Hockey,Gold,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Shannon SZABADOS,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Meghan AGOSTA,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jocelyne LAROCQUE,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Brigette LACQUETTE,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Lauriane ROUGEAU,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Rebecca JOHNSTON,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Laura STACEY,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Laura FORTINO,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jennifer WAKEFIELD,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jillian SAULNIER,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Meaghan MIKKELSON,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Renata FAST,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Melodie DAOUST,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Bailey BRAM,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Brianne JENNER,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sarah NURSE,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Haley IRWIN,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Natalie SPOONER,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Emily CLARK,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Marie-Philip POULIN,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Genevieve LACASSE,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ann-Renee DESBIENS,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Blayre TURNBULL,CAN,Women,Ice Hockey,Silver,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Eveliina SUONPAA,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Isa RAHUNEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Rosa LINDSTEDT,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Jenni HIIRIKOSKI,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Mira JALOSUO,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ella VIITASUO,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Venla HOVI,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Linda VALIMAKI,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Annina RAJAHUHTA,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Riikka VALILA,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Minnamari TUOMINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Meeri RAISANEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Petra NIEMINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Emma NUUTINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sanni HAKALA,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Noora TULUS,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Sara SAKKINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Saila SAARI,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Michelle KARVINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Noora RATY,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Tanja NISKANEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Susanna TAPANI,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Ice Hockey,Ice Hockey,Ronja SAVOLAINEN,FIN,Women,Ice Hockey,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Tobias Wendl,GER,Men,Doubles,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Tobias Arlt,GER,Men,Doubles,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Peter Penz,AUT,Men,Doubles,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Georg Fischler,AUT,Men,Doubles,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Toni Eggert,GER,Men,Doubles,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Sascha Benecken,GER,Men,Doubles,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Johannes LUDWIG,GER,Men,Mixed Relay,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Tobias WENDL,GER,Men,Mixed Relay,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Tobias ARLT,GER,Men,Mixed Relay,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Sam EDNEY,CAN,Men,Mixed Relay,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Tristan WALKER,CAN,Men,Mixed Relay,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Justin SNITH,CAN,Men,Mixed Relay,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,David GLEIRSCHER,AUT,Men,Mixed Relay,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Peter PENZ,AUT,Men,Mixed Relay,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Georg FISCHLER,AUT,Men,Mixed Relay,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,David Gleirscher,AUT,Men,Singles,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Chris Mazdzer,USA,Men,Singles,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Johannes Ludwig,GER,Men,Singles,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Natalie GEISENBERGER,GER,Men,Mixed Relay,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Alex GOUGH,CAN,Men,Mixed Relay,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Madeleine EGLE,AUT,Men,Mixed Relay,Bronze,,,,,,,,
-2018,Peyongchang,Luge,Luge,Natalie Geisenberger,GER,Women,Singles,Gold,,,,,,,,
-2018,Peyongchang,Luge,Luge,Dajana Eitberger,GER,Women,Singles,Silver,,,,,,,,
-2018,Peyongchang,Luge,Luge,Alex Gough,CAN,Women,Singles,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Scott Moir,CAN,Men,Ice Dancing,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Guillaume Cizeron,FRA,Men,Ice Dancing,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alex Shibutani,USA,Men,Ice Dancing,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Yuzuru Hanyu,JPN,Men,Individual,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Shoma Uno,JPN,Men,Individual,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Javier Fernandez,SPA,Men,Individual,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Bruno Massot,GER,Men,Pairs,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Cong Han,CHN,Men,Pairs,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Eric Radford,CAN,Men,Pairs,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Patrick CHAN,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Andrew POJE,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Charlie BILODEAU,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Eric RADFORD,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Keegan MESSING,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Michael MARINARO,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Paul POIRIER,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Scott MOIR,CAN,Men,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Dmitri ALIEV,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alexander ENBERT,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alexei ROGONOV,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Dmitri SOLOVIEV,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Jonathan GUERREIRO,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Mikhail KOLYADA,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Vladimir MOROZOV,RUS,Men,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Nathan CHEN,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Adam RIPPON,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alex SHIBUTANI,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Chris KNIERIM,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Evan BATES,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Zachary DONOHUE,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Vincent ZHOU,USA,Men,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Tessa Virtue,CAN,Women,Ice Dancing,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Gabriella Papadakis,FRA,Women,Ice Dancing,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Maia Shibutani,USA,Women,Ice Dancing,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alina Zagitova,RUS,Women,Individual,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Evgenia Medvedeva,RUS,Women,Individual,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Kaetlyn Osmond,CAN,Women,Individual,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Aljona Savchenko,GER,Women,Pairs,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Wenjing Sui,CHN,Women,Pairs,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Meagan Duhamel,CAN,Women,Pairs,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Julianne SEGUIN,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Kaitlyn WEAVER,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Kirsten MOORE-TOWERS,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Meagan DUHAMEL,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Piper GILLES,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Tessa VIRTUE,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Larkyn AUSTMAN,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Gabrielle DALEMAN,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Kaetlyn OSMOND,CAN,Women,Team,Gold,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Ekaterina BOBROVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Evgenia TARASOVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Kristina ASTAKHOVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Natalia ZABIIAKO,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Tiffani ZAGORSKI,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Evgenia MEDVEDEVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Maria SOTSKOVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alina ZAGITOVA,RUS,Women,Team,Silver,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Alexa SCIMECA KNIERIM,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Madison CHOCK,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Madison HUBBELL,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Maia SHIBUTANI,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Karen CHEN,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Mirai NAGASU,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,Bradie TENNELL,USA,Women,Team,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Figure skating,,,Women,Team,,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Samuel Girard,CAN,Men,1000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,John-Henry Krueger,USA,Men,1000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Yira Seo,KOR,Men,1000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Lim Hyojun,KOR,Men,1500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Sjinkie Knegt,NED,Men,1500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Semen Elistratov,RUS,Men,1500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Bence OLAH,HUN,Men,5000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Csaba BURJAN,HUN,Men,5000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Shaoang LIU,HUN,Men,5000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Shaolin Sandor LIU,HUN,Men,5000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Viktor KNOCH,HUN,Men,5000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,CHEN Dequan,CHN,Men,5000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,HAN Tianyu,CHN,Men,5000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,REN Ziwei,CHN,Men,5000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,WU Dajing,CHN,Men,5000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,XU Hongzhi,CHN,Men,5000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Charle COURNOYER,CAN,Men,5000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Charles HAMELIN,CAN,Men,5000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Francois HAMELIN,CAN,Men,5000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Pascal DION,CAN,Men,5000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Samuel GIRARD,CAN,Men,5000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Wu Dajing,CHN,Men,500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Hwang Daeheon,KOR,Men,500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Lim Hyojun,KOR,Men,500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Suzanne Schulting,NED,Women,1000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,1000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Arianna Fontana,ITA,Women,1000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Choi Minjeong,KOR,Women,1500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Li Jinyu,CHN,Women,1500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,1500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,CHOI Minjeong,KOR,Women,3000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,KIM Alang,KOR,Women,3000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,KIM Yejin,KOR,Women,3000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,LEE Yubin,KOR,Women,3000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,SHIM Sukhee,KOR,Women,3000M Relay,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Arianna FONTANA,ITA,Women,3000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Cecilia MAFFEI,ITA,Women,3000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Cynthia MASCITTO,ITA,Women,3000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Lucia PERETTI,ITA,Women,3000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Martina VALCEPINA,ITA,Women,3000M Relay,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Jorien TER MORS,NED,Women,3000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Jorien TER MORS,NED,Women,3000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Rianne DE VRIES,NED,Women,3000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Suzanne SCHULTING,NED,Women,3000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Yara VAN KERKHOF,NED,Women,3000M Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Arianna Fontana,ITA,Women,500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Yara van Kerkhof,NED,Women,500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ted-Jan Bloemen,CAN,Men,10000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Jorrit Bergsma,NED,Men,10000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Nicola Tumolero,ITA,Men,10000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Kjeld Nuis,NED,Men,1000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Havard Lorentzen,NOR,Men,1000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Kim Tae-Yun,KOR,Men,1000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Kjeld Nuis,NED,Men,1500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Patrick Roest,NED,Men,1500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Kim Min Seok,KOR,Men,1500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Sven Kramer,NED,Men,5000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ted-Jan Bloemen,CAN,Men,5000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Sverre Lunde Pedersen,NOR,Men,5000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Havard Lorentzen,NOR,Men,500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Min Kyu Cha,KOR,Men,500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Tingyu Gao,CHN,Men,500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Havard BOKKO,NOR,Men,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Sindre HENRIKSEN,NOR,Men,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Sverre Lunde PEDERSEN,NOR,Men,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Simen Spieler NILSEN,NOR,Men,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,LEE Seung-Hoon,KOR,Men,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,CHUNG Jaewon,KOR,Men,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,KIM Min Seok,KOR,Men,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,JOO Hyong-Jun,KOR,Men,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Koen VERWEIJ,NLD,Men,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Patrick ROEST,NLD,Men,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Sven KRAMER,NLD,Men,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Jan BLOKHUIJSEN,NLD,Men,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Jorien Ter Mors,NED,Women,1000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Nao Kodaira,JPN,Women,1000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Miho Takagi,JPN,Women,1000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ireen Wust,NED,Women,1500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Miho Takagi,JPN,Women,1500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Marrit Leenstra,NED,Women,1500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Carlijn Achtereekte,NED,Women,3000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ireen Wust,NED,Women,3000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Antoinette de Jong,NED,Women,3000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Esmee Visser,NED,Women,5000M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Martina Sablikova,CZE,Women,5000M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Natalia Voronina,RUS,Women,5000M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Nao Kodaira,JPN,Women,500M,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Lee Sang-Hwa,KOR,Women,500M,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Karolina Erbanova,CZE,Women,500M,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Miho TAKAGI,JPN,Women,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ayaka KIKUCHI,JPN,Women,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ayano SATO,JPN,Women,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Nana TAKAGI,JPN,Women,Team Pursuit,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Marrit LEENSTRA,NED,Women,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Jorien TER MORS,NED,Women,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Lotte VAN BEEK,NED,Women,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Ireen WUST,NED,Women,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Antoinette DE JONG,NED,Women,Team Pursuit,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Heather BERGSMA,USA,Women,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Brittany BOWE,USA,Women,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Mia MANGANELLO,USA,Women,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Carlijn SCHOUTENS,USA,Women,Team Pursuit,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Aksel Lund Svindal,NOR,Men,Downhill,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Kjetil Jansrud,NOR,Men,Downhill,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Beat Feuz,SUI,Men,Downhill,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Marcel Hirscher,AUT,Men,Giant Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Henrik Kristoffersen,NOR,Men,Giant Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Alexis Pinturault,FRA,Men,Giant Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Andre Myhrer,SWE,Men,Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Ramon Zenhaeusern,SUI,Men,Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Michael Matt,AUT,Men,Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Marcel Hirscher,AUT,Men,Super Combined,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Alexis Pinturault,FRA,Men,Super Combined,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Victor Muffat-Jeandet,FRA,Men,Super Combined,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Matthias Mayer,AUT,Men,Super-G,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Beat Feuz,SUI,Men,Super-G,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Kjetil Jansrud,NOR,Men,Super-G,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,,,,Super-G,,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Sofia Goggia,ITA,Women,Downhill,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Ragnhild Mowinckel,NOR,Women,Downhill,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Lindsey Vonn,USA,Women,Downhill,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Mikaela Shiffrin,USA,Women,Giant Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Ragnhild Mowinckel,NOR,Women,Giant Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Federica Brignone,ITA,Women,Giant Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Frida Hansdotter,SWE,Women,Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Wendy Holdener,SUI,Women,Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Katharina Gallhuber,AUT,Women,Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Michelle Gisin,SUI,Women,Super Combined,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Mikaela Shiffrin,USA,Women,Super Combined,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Wendy Holdener,SUI,Women,Super Combined,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Ester Ledecka,CZE,Women,Super-G,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Anna Veith,AUT,Women,Super-G,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Alpine Skiing,Tina Weirather,LIE,Women,Super-G,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,DarioæCologna,SUI,Men,15KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Simen HegstadæKrueger,NOR,Men,15KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Denis Spitsov,RUS,Men,15KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Didrik TOENSETH,NOR,Men,4X10KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud SUNDBY,NOR,Men,4X10KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Simen Hegstad KRUEGER,NOR,Men,4X10KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot KLAEBO,NOR,Men,4X10KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Andrey LARKOV,RUS,Men,4X10KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Alexander BOLSHUNOV,RUS,Men,4X10KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Alexey CHERVOTKIN,RUS,Men,4X10KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Denis SPITSOV,RUS,Men,4X10KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Jean Marc GAILLARD,FRA,Men,4X10KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Maurice MANIFICAT,FRA,Men,4X10KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Clement PARISSE,FRA,Men,4X10KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Adrien BACKSCHEIDER,FRA,Men,4X10KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Iivo Niskanen,FIN,Men,50KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,50KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Andrey Larkov,RUS,Men,50KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Simen Hegstad Krueger,NOR,Men,Combined 15+15K,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud Sundby,NOR,Men,Combined 15+15K,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Hans Christer Holund,NOR,Men,Combined 15+15K,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot Klaebo,NOR,Men,Sprint 1.5KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Federico Pellegrino,ITA,Men,Sprint 1.5KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,Sprint 1.5KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud Sundby,NOR,Men,Team Sprint,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot Klaebo,NOR,Men,Team Sprint,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Denis Spitsov,RUS,Men,Team Sprint,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,Team Sprint,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Maurice Manificat,FRA,Men,Team Sprint,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Richard Jouve,FRA,Men,Team Sprint,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Ragnhild Haga,NOR,Women,10KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,10KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,10KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjorgen,NOR,Women,30KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Krista Parmakoski,FIN,Women,30KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,30KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Ingvild Flugstad OESTBERG,NOR,Women,4X5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Astrid Uhrenholdt JACOBSEN,NOR,Women,4X5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Ragnhild HAGA,NOR,Women,4X5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Marit BJOERGEN,NOR,Women,4X5KM Relay,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Anna HAAG,SWE,Women,4X5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte KALLA,SWE,Women,4X5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Ebba ANDERSSON,SWE,Women,4X5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Stina NILSSON,SWE,Women,4X5KM Relay,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Natalia NEPRYAEVA,RUS,Women,4X5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Yulia BELORUKOVA,RUS,Women,4X5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Anastasia SEDOVA,RUS,Women,4X5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Anna NECHAEVSKAYA,RUS,Women,4X5KM Relay,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,Combined7.5+7.5,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,Combined7.5+7.5,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Krista Parmakoski,FIN,Women,Combined7.5+7.5,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,Sprint 1.5KM,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Maiken Caspersen Falla,NOR,Women,Sprint 1.5KM,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Yulia Beloruko,RUS,Women,Sprint 1.5KM,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Kikkan Randall,USA,Women,Team Sprint,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Jessica Diggins,USA,Women,Team Sprint,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,Team Sprint,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,Team Sprint,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,Team Sprint,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Cross Country Skiing,Maiken Caspersen Falla,NOR,Women,Team Sprint,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Oleksandr Abramenko,UKR,Men,Aerials,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Jia Zongyang,CHN,Men,Aerials,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Ilia Burov,RUS,Men,Aerials,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Mikael Kingsbury,CAN,Men,Moguls,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Matt Graham,AUS,Men,Moguls,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Daichi Hara,JPN,Men,Moguls,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Brady Leman,CAN,Men,Ski Cross,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Marc Bischofberger,SUI,Men,Ski Cross,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Sergey Ridzik,RUS,Men,Ski Cross,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,David Wise,USA,Men,Ski Halfpipe,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Alex Ferreira,USA,Men,Ski Halfpipe,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Nico Porteous,NZL,Men,Ski Halfpipe,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Oystein Braaten,NOR,Men,Ski Slopestyle,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Nick Goepper,USA,Men,Ski Slopestyle,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Alex Beaulieu-Marchand,CAN,Men,Ski Slopestyle,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Hanna Huskova,BLR,Women,Aerials,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Zhang Xin,CHN,Women,Aerials,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Kong Fanyu,CHN,Women,Aerials,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Perrine Laffont,FRA,Women,Moguls,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Justine Dufour-Lapointe,CAN,Women,Moguls,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Yulia Galysheva,KAZ,Women,Moguls,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Kelsey Serwa,CAN,Women,Ski Cross,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Brittany Phelan,CAN,Women,Ski Cross,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Fanny Smith,SUI,Women,Ski Cross,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Cassie Sharpe,CAN,Women,Ski Halfpipe,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Marie Martinod,FRA,Women,Ski Halfpipe,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Brita Sigourney,USA,Women,Ski Halfpipe,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Sarah Hoefflin,SUI,Women,Ski Slopestyle,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Mathilde Gremaud,SUI,Women,Ski Slopestyle,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Freestyle Skiing,Isabel Atkin,GBR,Women,Ski Slopestyle,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Eric Frenzel,GER,Men,Ind. K90 (70M),Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Akito Watabe,JPN,Men,Ind. K90 (70M),Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Lukas Klapfer,AUT,Men,Ind. K90 (70M),Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Johannes Rydzek,GER,Men,Sprint K120,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Fabian Riessle,GER,Men,Sprint K120,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Eric Frenzel,GER,Men,Sprint K120,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Eric FRENZEL,GER,Men,"Team, 4X5 KM",Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Vinzenz GEIGER,GER,Men,"Team, 4X5 KM",Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Fabian RIESSLE,GER,Men,"Team, 4X5 KM",Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Johannes RYDZEK,GER,Men,"Team, 4X5 KM",Gold,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Joergen GRAABAK,NOR,Men,"Team, 4X5 KM",Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Jarl Magnus RIIBER,NOR,Men,"Team, 4X5 KM",Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Espen ANDERSEN,NOR,Men,"Team, 4X5 KM",Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Jan SCHMID,NOR,Men,"Team, 4X5 KM",Silver,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Mario SEIDL,AUT,Men,"Team, 4X5 KM",Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Bernhard GRUBER,AUT,Men,"Team, 4X5 KM",Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Lukas KLAPFER,AUT,Men,"Team, 4X5 KM",Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Nordic Combined,Wilhelm DENIFL,AUT,Men,"Team, 4X5 KM",Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Kamil Stoch,POL,Men,Large Hill,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Andreas Wellinger,GER,Men,Large Hill,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Robert Johansson,NOR,Men,Large Hill,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Andreas Wellinger,GER,Men,Normal Hill,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Johann Andre Forfang,NOR,Men,Normal Hill,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Robert Johansson,NOR,Men,Normal Hill,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Johann Andre FORFANG,NOR,Men,Teams,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Robert JOHANSSON,NOR,Men,Teams,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Andreas STJERNEN,NOR,Men,Teams,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Daniel Andre TANDE,NOR,Men,Teams,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Richard FREITAG,GER,Men,Teams,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Karl GEIGER,GER,Men,Teams,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Stephan LEYHE,GER,Men,Teams,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Andreas WELLINGER,GER,Men,Teams,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Stefan HULA,POL,Men,Teams,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Maciej KOT,POL,Men,Teams,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Dawid KUBACKI,POL,Men,Teams,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Kamil STOCH,POL,Men,Teams,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Maren Lundby,NOR,Women,K90 Individual,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Katharina Althaus,GER,Women,K90 Individual,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Ski Jumping,Sara Takanashi,JPN,Women,K90 Individual,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Nevin Galmaini,SUI,Men,Giant Parall.S.,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Sangho Lee,KOR,Men,Giant Parall.S.,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Zan Kosir,SLO,Men,Giant Parall.S.,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Shaun White,USA,Men,Half-Pipe,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ayumu Hirano,JPN,Men,Half-Pipe,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Scotty James,AUS,Men,Half-Pipe,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ramona Theresia HOFMEISTER,SUI,Men,Parallel Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,LEE Sangho,KOR,Men,Parallel Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Zan KOSIR,SLO,Men,Parallel Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Redmond Gerard,USA,Men,Slopestyle,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Max Parrot,CAN,Men,Slopestyle,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Mark McMorris,CAN,Men,Slopestyle,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Pierre Vaultier,FRA,Men,Snowboard Cross,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Jarryd Hughes,AUS,Men,Snowboard Cross,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Regino Hernandez,SPA,Men,Snowboard Cross,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ester Ledecka,CZE,Women,Giant Parall.S.,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Selina Joerg,GER,Women,Giant Parall.S.,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ramona Theresia Hofmeister,GER,Women,Giant Parall.S.,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Chloe Kim,USA,Women,Half-Pipe,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Liu Jiayu,CHN,Women,Half-Pipe,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Arielle Gold,USA,Women,Half-Pipe,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ester LEDECKA,CZE,Women,Parallel Slalom,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Selina JOERG,GER,Women,Parallel Slalom,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Ramona Theresia HOFMEISTER,GER,Women,Parallel Slalom,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Jamie Anderson,USA,Women,Slopestyle,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Laurie Blouin,CAN,Women,Slopestyle,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Enni Rukajarvi,FIN,Women,Slopestyle,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Michela Moioli,ITA,Women,Snowboard Cross,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Julia Pereira de Sousa Mabileau,FRA,Women,Snowboard Cross,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Eva Samkova,CZE,Women,Snowboard Cross,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Kaitlyn Lawes,CAN,Women,Mixed Doubles,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,John Morris,CAN,Men,Mixed Doubles,Gold,,,,,,,,
-2018,Peyongchang,Curling,Curling,Jenny Perret,SUI,Women,Mixed Doubles,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Martin Rios,SUI,Men,Mixed Doubles,Silver,,,,,,,,
-2018,Peyongchang,Curling,Curling,Kristin Skaslien,NOR,Women,Mixed Doubles,Bronze,,,,,,,,
-2018,Peyongchang,Curling,Curling,Magnus Nedregotten,NOR,Men,Mixed Doubles,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Sebastien Toutant,CAN,Men,Big Air,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Kyle Mack,USA,Men,Big Air,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Billy Morgan,GBR,Men,Big Air,Bronze,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Anna Gasser,AUT,Women,Big Air,Gold,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Jamie Anderson,USA,Women,Big Air,Silver,,,,,,,,
-2018,Peyongchang,Skiing,Snowboard,Synnott Zoi Sadowski,NZL,Women,Big Air,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Lee Seung-Hoon,KOR,Men,Mass Start,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Bart Swings,BEL,Men,Mass Start,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Koen Verweij,NED,Men,Mass Start,Bronze,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Nana Takagi,JPN,Women,Mass Start,Gold,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Kim Bo-Reum,KOR,Women,Mass Start,Silver,,,,,,,,
-2018,Peyongchang,Skating,Speed skating,Irene Schouten,NED,Women,Mass Start,Bronze,,,,,,,,
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+2018,Peyongchang,Biathlon,Biathlon,Arnd Peiffer,GER,Men,10KM,Gold
+2018,Peyongchang,Biathlon,Biathlon,Michal Krcmar,CZE,Men,10KM,Silver
+2018,Peyongchang,Biathlon,Biathlon,Dominik Windisch,ITA,Men,10KM,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Martin Fourcade,FRA,Men,12.5Km Pursuit,Gold
+2018,Peyongchang,Biathlon,Biathlon,Sebastian Samuelsson,SWE,Men,12.5Km Pursuit,Silver
+2018,Peyongchang,Biathlon,Biathlon,Benedikt Doll,GER,Men,12.5Km Pursuit,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes Boe,NOR,Men,15KM Mass Start,Gold
+2018,Peyongchang,Biathlon,Biathlon,Jakov Fak,SLO,Men,15KM Mass Start,Silver
+2018,Peyongchang,Biathlon,Biathlon,Dominik Landertinger,AUT,Men,15KM Mass Start,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes Boe,NOR,Men,20KM,Gold
+2018,Peyongchang,Biathlon,Biathlon,Jakov Fak,SLO,Men,20KM,Silver
+2018,Peyongchang,Biathlon,Biathlon,Dominik Landertinger,AUT,Men,20KM,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Peppe FEMLING,SWE,Men,4X7.5KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Jesper NELIN,SWE,Men,4X7.5KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Sebastian SAMUELSSON,SWE,Men,4X7.5KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Fredrik LINDSTROEM,SWE,Men,4X7.5KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Lars Helge BIRKELAND,NOR,Men,4X7.5KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Tarjei BOE,NOR,Men,4X7.5KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes BOE,NOR,Men,4X7.5KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Emil Hegle SVENDSEN,NOR,Men,4X7.5KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Erik LESSER,GER,Men,4X7.5KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Benedikt DOLL,GER,Men,4X7.5KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Arnd PEIFFER,GER,Men,4X7.5KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Simon SCHEMPP,GER,Men,4X7.5KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Simon DESTHIEUX,FRA,Men,Relay Mix,Gold
+2018,Peyongchang,Biathlon,Biathlon,Martin FOURCADE,FRA,Men,Relay Mix,Gold
+2018,Peyongchang,Biathlon,Biathlon,Johannes Thingnes BOE,NOR,Men,Relay Mix,Silver
+2018,Peyongchang,Biathlon,Biathlon,Emil Hegle SVENDSEN,NOR,Men,Relay Mix,Silver
+2018,Peyongchang,Biathlon,Biathlon,Lukas HOFER,ITA,Men,Relay Mix,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Dominik WINDISCH,ITA,Men,Relay Mix,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,10KM Pursuit,Gold
+2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,10KM Pursuit,Silver
+2018,Peyongchang,Biathlon,Biathlon,Anais Bescond,FRA,Women,10KM Pursuit,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,12.5KM Mass Start,Gold
+2018,Peyongchang,Biathlon,Biathlon,Darya Domracheva,BLR,Women,12.5KM Mass Start,Silver
+2018,Peyongchang,Biathlon,Biathlon,Tiril Eckhoff,NOR,Women,12.5KM Mass Start,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Hanna Oeberg,SWE,Women,15KM,Gold
+2018,Peyongchang,Biathlon,Biathlon,Anastasiya Kuzmina,SVK,Women,15KM,Silver
+2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,15KM,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Nadezhda SKARDINO,BLR,Women,4X6KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Iryna KRYUKO,BLR,Women,4X6KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Dzinara ALIMBEKAVA,BLR,Women,4X6KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Darya DOMRACHEVA,BLR,Women,4X6KM Relay,Gold
+2018,Peyongchang,Biathlon,Biathlon,Linn PERSSON,SWE,Women,4X6KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Mona BRORSSON,SWE,Women,4X6KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Anna MAGNUSSON,SWE,Women,4X6KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Hanna OEBERG,SWE,Women,4X6KM Relay,Silver
+2018,Peyongchang,Biathlon,Biathlon,Anais CHEVALIER,FRA,Women,4X6KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Marie DORIN HABERT,FRA,Women,4X6KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Justine BRAISAZ,FRA,Women,4X6KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Anais BESCOND,FRA,Women,4X6KM Relay,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Laura Dahlmeier,GER,Women,7.5KM,Gold
+2018,Peyongchang,Biathlon,Biathlon,Marte Olsbu,NOR,Women,7.5KM,Silver
+2018,Peyongchang,Biathlon,Biathlon,Veronika Vitkova,CZE,Women,7.5KM,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Marie DORIN HABERT,FRA,Women,Relay Mix,Gold
+2018,Peyongchang,Biathlon,Biathlon,Anais BESCOND,FRA,Women,Relay Mix,Gold
+2018,Peyongchang,Biathlon,Biathlon,Marte OLSBU,NOR,Women,Relay Mix,Silver
+2018,Peyongchang,Biathlon,Biathlon,Tiril ECKHOFF,NOR,Women,Relay Mix,Silver
+2018,Peyongchang,Biathlon,Biathlon,Lisa VITTOZZI,ITA,Women,Relay Mix,Bronze
+2018,Peyongchang,Biathlon,Biathlon,Dorothea WIERER,ITA,Women,Relay Mix,Bronze
+2018,Peyongchang,Bobsleigh,Bobsleigh,Francisco Friedrich,GER,Men,Four-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Candy BAUER,GER,Men,Four-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Martin GROTHKOPP,GER,Men,Four-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Thorsten MARGIS,GER,Men,Four-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Won Junyong,KOR,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,JUN Junglin,KOR,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,SEO Youngwoo,KOR,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,KIM Donghyun,KOR,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Nico Walther,GER,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Kevin KUSKE,GER,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Alexander ROEDIGER,GER,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Eric FRANKE,GER,Men,Four-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Justin Kripps,CAN,Men,Two-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Alexander Kopacz,CAN,Men,Two-Man,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Francesco Friedrich,GER,Men,Two-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Thorsten Margis,GER,Men,Two-Man,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Oskars Melbardis,LAT,Men,Two-Man,Bronze
+2018,Peyongchang,Bobsleigh,Bobsleigh,Janis Strenga,LAT,Men,Two-Man,Bronze
+2018,Peyongchang,Bobsleigh,Bobsleigh,Mariama Jamanka,GER,Women,Two-Woman,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Lisa Buckwitz,GER,Women,Two-Woman,Gold
+2018,Peyongchang,Bobsleigh,Bobsleigh,Elana Meyers Taylor,USA,Women,Two-Woman,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Lauren Gibbs,USA,Women,Two-Woman,Silver
+2018,Peyongchang,Bobsleigh,Bobsleigh,Kaillie Humphries,CAN,Women,Two-Woman,Bronze
+2018,Peyongchang,Bobsleigh,Bobsleigh,Phylicia George,CAN,Women,Two-Woman,Bronze
+2018,Peyongchang,Bobsleigh,Skeleton,Yun Sungbin,KOR,Men,Individual,Gold
+2018,Peyongchang,Bobsleigh,Skeleton,Nikita Tregubov,RUS,Men,Individual,Silver
+2018,Peyongchang,Bobsleigh,Skeleton,Dom Parsons,GBR,Men,Individual,Bronze
+2018,Peyongchang,Bobsleigh,Skeleton,Lizzy Yarnold,GBR,Women,Individual,Gold
+2018,Peyongchang,Bobsleigh,Skeleton,Jacqueline Loelling,GER,Women,Individual,Silver
+2018,Peyongchang,Bobsleigh,Skeleton,Laura Deas,GBR,Women,Individual,Bronze
+2018,Peyongchang,Curling,Curling,John SHUSTER,USA,Men,Curling,Gold
+2018,Peyongchang,Curling,Curling,Tyler GEORGE,USA,Men,Curling,Gold
+2018,Peyongchang,Curling,Curling,Matt HAMILTON,USA,Men,Curling,Gold
+2018,Peyongchang,Curling,Curling,John LANDSTEINER,USA,Men,Curling,Gold
+2018,Peyongchang,Curling,Curling,Joe POLO,USA,Men,Curling,Gold
+2018,Peyongchang,Curling,Curling,Niklas EDIN,SWE,Men,Curling,Silver
+2018,Peyongchang,Curling,Curling,Oskar ERIKSSON,SWE,Men,Curling,Silver
+2018,Peyongchang,Curling,Curling,Rasmus WRANAA,SWE,Men,Curling,Silver
+2018,Peyongchang,Curling,Curling,Christoffer SUNDGREN,SWE,Men,Curling,Silver
+2018,Peyongchang,Curling,Curling,Henrik LEEK,SWE,Men,Curling,Silver
+2018,Peyongchang,Curling,Curling,Benoit SCHWARZ,SUI,Men,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Claudio PAETZ,SUI,Men,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Peter DE CRUZ,SUI,Men,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Valentin TANNER,SUI,Men,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Dominik MAERKI,SUI,Men,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Anna HASSELBORG,SWE,Women,Curling,Gold
+2018,Peyongchang,Curling,Curling,Sara MCMANUS,SWE,Women,Curling,Gold
+2018,Peyongchang,Curling,Curling,Agnes KNOCHENHAUER,SWE,Women,Curling,Gold
+2018,Peyongchang,Curling,Curling,Sofia MABERGS,SWE,Women,Curling,Gold
+2018,Peyongchang,Curling,Curling,Jennie WAAHLIN,SWE,Women,Curling,Gold
+2018,Peyongchang,Curling,Curling,KIM EunJung,KOR,Women,Curling,Silver
+2018,Peyongchang,Curling,Curling,KIM KyeongAe,KOR,Women,Curling,Silver
+2018,Peyongchang,Curling,Curling,KIM SeonYeong,KOR,Women,Curling,Silver
+2018,Peyongchang,Curling,Curling,KIM YeongMi,KOR,Women,Curling,Silver
+2018,Peyongchang,Curling,Curling,KIM Chohi,KOR,Women,Curling,Silver
+2018,Peyongchang,Curling,Curling,Satsuki FUJISAWA,JPN,Women,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Chinami YOSHIDA,JPN,Women,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Yumi SUZUKI,JPN,Women,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Yurika YOSHIDA,JPN,Women,Curling,Bronze
+2018,Peyongchang,Curling,Curling,Mari MOTOHASHI,JPN,Women,Curling,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Artyom ZUB,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Vladislav GAVRIKOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ivan TELEGIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei MOZYAKIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei ANDRONOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Pavel DATSYUK,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei KALININ,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Mikhail GRIGORENKO,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Vyacheslav VOINOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Andrei ZUBAREV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya KABLUKOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Igor SHESTYORKIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya SOROKIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Yegor YAKOVLEV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sergei SHIROKOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Alexei MARCHENKO,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Bogdan KISELEVICH,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ilya KOVALCHUK,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Nikolai PROKHORKIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kirill KAPRIZOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Vasili KOSHECHKIN,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Vadim SHIPACHYOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Nikita NESTEROV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Alexander BARABANOV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Nikita GUSEV,RUS,Men,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Daryl BOYLE,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Christian EHRHOFF,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Brooks MACEK,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Marcus KINK,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Matthias PLACHTA,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Frank MAUER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Danny AUS DEN BIRKEN,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Yannic SEIDENBERG,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Patrick REIMER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Bjorn KRUPP,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jonas MULLER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Yasin EHLIZ,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Gerrit FAUSER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Dennis ENDRAS,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Frank HORDLER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Patrick HAGER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Timo PIELMEIER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Felix SCHUTZ,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Marcel GOC,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Dominik KAHUN,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sinan AKDAG,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Leonhard PFODERL,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,David WOLF,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Moritz MULLER,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Marcel NOEBELS,GER,Men,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Karl STOLLERY,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Chris LEE,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Chay GENOWAY,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Gilbert BRULE,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Wojtek WOLSKI,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Derek ROY,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Chris KELLY,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Rob KLINKHAMMER,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Brandon KOZUN,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Quinton HOWDEN,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Rene BOURQUE,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Marc-Andre GRAGNANI,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Andrew EBBETT,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Mason RAYMOND,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Eric O'DELL,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Stefan ELLIOTT,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Cody GOLOUBEF,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ben SCRIVENS,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kevin POULIN,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Justin PETERS,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Mat ROBINSON,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Maxim LAPIERRE,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Maxim NOREAU,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Linden VEY,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Christian THOMAS,CAN,Men,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Lee STECKLEIN,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Cayla BARNES,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Megan KELLER,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kali FLANAGAN,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Monique LAMOUREUX-MORANDO,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Emily PFALZER,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Meghan DUGGAN,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Haley SKARUPA,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kelly PANNEK,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Brianna DECKER,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jocelyne LAMOUREUX-DAVIDSON,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Gigi MARVIN,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Hannah BRANDT,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Hilary KNIGHT,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kacey BELLAMY,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sidney MORIN,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Dani CAMERANESI,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Kendall COYNE,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Amanda KESSEL,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Nicole HENSLEY,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Alex RIGSBY,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Maddie ROONEY,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Amanda PELKEY,USA,Women,Ice Hockey,Gold
+2018,Peyongchang,Ice Hockey,Ice Hockey,Shannon SZABADOS,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Meghan AGOSTA,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jocelyne LAROCQUE,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Brigette LACQUETTE,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Lauriane ROUGEAU,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Rebecca JOHNSTON,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Laura STACEY,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Laura FORTINO,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jennifer WAKEFIELD,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jillian SAULNIER,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Meaghan MIKKELSON,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Renata FAST,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Melodie DAOUST,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Bailey BRAM,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Brianne JENNER,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sarah NURSE,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Haley IRWIN,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Natalie SPOONER,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Emily CLARK,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Marie-Philip POULIN,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Genevieve LACASSE,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ann-Renee DESBIENS,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Blayre TURNBULL,CAN,Women,Ice Hockey,Silver
+2018,Peyongchang,Ice Hockey,Ice Hockey,Eveliina SUONPAA,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Isa RAHUNEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Rosa LINDSTEDT,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Jenni HIIRIKOSKI,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Mira JALOSUO,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ella VIITASUO,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Venla HOVI,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Linda VALIMAKI,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Annina RAJAHUHTA,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Riikka VALILA,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Minnamari TUOMINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Meeri RAISANEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Petra NIEMINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Emma NUUTINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sanni HAKALA,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Noora TULUS,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Sara SAKKINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Saila SAARI,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Michelle KARVINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Noora RATY,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Tanja NISKANEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Susanna TAPANI,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Ice Hockey,Ice Hockey,Ronja SAVOLAINEN,FIN,Women,Ice Hockey,Bronze
+2018,Peyongchang,Luge,Luge,Tobias Wendl,GER,Men,Doubles,Gold
+2018,Peyongchang,Luge,Luge,Tobias Arlt,GER,Men,Doubles,Gold
+2018,Peyongchang,Luge,Luge,Peter Penz,AUT,Men,Doubles,Silver
+2018,Peyongchang,Luge,Luge,Georg Fischler,AUT,Men,Doubles,Silver
+2018,Peyongchang,Luge,Luge,Toni Eggert,GER,Men,Doubles,Bronze
+2018,Peyongchang,Luge,Luge,Sascha Benecken,GER,Men,Doubles,Bronze
+2018,Peyongchang,Luge,Luge,Johannes LUDWIG,GER,Men,Mixed Relay,Gold
+2018,Peyongchang,Luge,Luge,Tobias WENDL,GER,Men,Mixed Relay,Gold
+2018,Peyongchang,Luge,Luge,Tobias ARLT,GER,Men,Mixed Relay,Gold
+2018,Peyongchang,Luge,Luge,Sam EDNEY,CAN,Men,Mixed Relay,Silver
+2018,Peyongchang,Luge,Luge,Tristan WALKER,CAN,Men,Mixed Relay,Silver
+2018,Peyongchang,Luge,Luge,Justin SNITH,CAN,Men,Mixed Relay,Silver
+2018,Peyongchang,Luge,Luge,David GLEIRSCHER,AUT,Men,Mixed Relay,Bronze
+2018,Peyongchang,Luge,Luge,Peter PENZ,AUT,Men,Mixed Relay,Bronze
+2018,Peyongchang,Luge,Luge,Georg FISCHLER,AUT,Men,Mixed Relay,Bronze
+2018,Peyongchang,Luge,Luge,David Gleirscher,AUT,Men,Singles,Gold
+2018,Peyongchang,Luge,Luge,Chris Mazdzer,USA,Men,Singles,Silver
+2018,Peyongchang,Luge,Luge,Johannes Ludwig,GER,Men,Singles,Bronze
+2018,Peyongchang,Luge,Luge,Natalie GEISENBERGER,GER,Men,Mixed Relay,Gold
+2018,Peyongchang,Luge,Luge,Alex GOUGH,CAN,Men,Mixed Relay,Silver
+2018,Peyongchang,Luge,Luge,Madeleine EGLE,AUT,Men,Mixed Relay,Bronze
+2018,Peyongchang,Luge,Luge,Natalie Geisenberger,GER,Women,Singles,Gold
+2018,Peyongchang,Luge,Luge,Dajana Eitberger,GER,Women,Singles,Silver
+2018,Peyongchang,Luge,Luge,Alex Gough,CAN,Women,Singles,Bronze
+2018,Peyongchang,Skating,Figure skating,Scott Moir,CAN,Men,Ice Dancing,Gold
+2018,Peyongchang,Skating,Figure skating,Guillaume Cizeron,FRA,Men,Ice Dancing,Silver
+2018,Peyongchang,Skating,Figure skating,Alex Shibutani,USA,Men,Ice Dancing,Bronze
+2018,Peyongchang,Skating,Figure skating,Yuzuru Hanyu,JPN,Men,Individual,Gold
+2018,Peyongchang,Skating,Figure skating,Shoma Uno,JPN,Men,Individual,Silver
+2018,Peyongchang,Skating,Figure skating,Javier Fernandez,SPA,Men,Individual,Bronze
+2018,Peyongchang,Skating,Figure skating,Bruno Massot,GER,Men,Pairs,Gold
+2018,Peyongchang,Skating,Figure skating,Cong Han,CHN,Men,Pairs,Silver
+2018,Peyongchang,Skating,Figure skating,Eric Radford,CAN,Men,Pairs,Bronze
+2018,Peyongchang,Skating,Figure skating,Patrick CHAN,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Andrew POJE,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Charlie BILODEAU,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Eric RADFORD,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Keegan MESSING,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Michael MARINARO,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Paul POIRIER,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Scott MOIR,CAN,Men,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Dmitri ALIEV,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Alexander ENBERT,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Alexei ROGONOV,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Dmitri SOLOVIEV,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Jonathan GUERREIRO,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Mikhail KOLYADA,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Vladimir MOROZOV,RUS,Men,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Nathan CHEN,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Adam RIPPON,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Alex SHIBUTANI,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Chris KNIERIM,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Evan BATES,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Zachary DONOHUE,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Vincent ZHOU,USA,Men,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Tessa Virtue,CAN,Women,Ice Dancing,Gold
+2018,Peyongchang,Skating,Figure skating,Gabriella Papadakis,FRA,Women,Ice Dancing,Silver
+2018,Peyongchang,Skating,Figure skating,Maia Shibutani,USA,Women,Ice Dancing,Bronze
+2018,Peyongchang,Skating,Figure skating,Alina Zagitova,RUS,Women,Individual,Gold
+2018,Peyongchang,Skating,Figure skating,Evgenia Medvedeva,RUS,Women,Individual,Silver
+2018,Peyongchang,Skating,Figure skating,Kaetlyn Osmond,CAN,Women,Individual,Bronze
+2018,Peyongchang,Skating,Figure skating,Aljona Savchenko,GER,Women,Pairs,Gold
+2018,Peyongchang,Skating,Figure skating,Wenjing Sui,CHN,Women,Pairs,Silver
+2018,Peyongchang,Skating,Figure skating,Meagan Duhamel,CAN,Women,Pairs,Bronze
+2018,Peyongchang,Skating,Figure skating,Julianne SEGUIN,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Kaitlyn WEAVER,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Kirsten MOORE-TOWERS,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Meagan DUHAMEL,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Piper GILLES,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Tessa VIRTUE,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Larkyn AUSTMAN,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Gabrielle DALEMAN,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Kaetlyn OSMOND,CAN,Women,Team,Gold
+2018,Peyongchang,Skating,Figure skating,Ekaterina BOBROVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Evgenia TARASOVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Kristina ASTAKHOVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Natalia ZABIIAKO,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Tiffani ZAGORSKI,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Evgenia MEDVEDEVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Maria SOTSKOVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Alina ZAGITOVA,RUS,Women,Team,Silver
+2018,Peyongchang,Skating,Figure skating,Alexa SCIMECA KNIERIM,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Madison CHOCK,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Madison HUBBELL,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Maia SHIBUTANI,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Karen CHEN,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Mirai NAGASU,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Figure skating,Bradie TENNELL,USA,Women,Team,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Samuel Girard,CAN,Men,1000M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,John-Henry Krueger,USA,Men,1000M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Yira Seo,KOR,Men,1000M,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Lim Hyojun,KOR,Men,1500M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Sjinkie Knegt,NED,Men,1500M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Semen Elistratov,RUS,Men,1500M,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Bence OLAH,HUN,Men,5000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Csaba BURJAN,HUN,Men,5000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Shaoang LIU,HUN,Men,5000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Shaolin Sandor LIU,HUN,Men,5000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Viktor KNOCH,HUN,Men,5000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,CHEN Dequan,CHN,Men,5000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,HAN Tianyu,CHN,Men,5000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,REN Ziwei,CHN,Men,5000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,WU Dajing,CHN,Men,5000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,XU Hongzhi,CHN,Men,5000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Charle COURNOYER,CAN,Men,5000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Charles HAMELIN,CAN,Men,5000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Francois HAMELIN,CAN,Men,5000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Pascal DION,CAN,Men,5000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Samuel GIRARD,CAN,Men,5000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Wu Dajing,CHN,Men,500M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Hwang Daeheon,KOR,Men,500M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Lim Hyojun,KOR,Men,500M,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Suzanne Schulting,NED,Women,1000M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,1000M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Arianna Fontana,ITA,Women,1000M,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Choi Minjeong,KOR,Women,1500M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Li Jinyu,CHN,Women,1500M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,1500M,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,CHOI Minjeong,KOR,Women,3000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,KIM Alang,KOR,Women,3000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,KIM Yejin,KOR,Women,3000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,LEE Yubin,KOR,Women,3000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,SHIM Sukhee,KOR,Women,3000M Relay,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Arianna FONTANA,ITA,Women,3000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Cecilia MAFFEI,ITA,Women,3000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Cynthia MASCITTO,ITA,Women,3000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Lucia PERETTI,ITA,Women,3000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Martina VALCEPINA,ITA,Women,3000M Relay,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Jorien TER MORS,NED,Women,3000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Jorien TER MORS,NED,Women,3000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Rianne DE VRIES,NED,Women,3000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Suzanne SCHULTING,NED,Women,3000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Yara VAN KERKHOF,NED,Women,3000M Relay,Bronze
+2018,Peyongchang,Skating,Short Track Speed Skating,Arianna Fontana,ITA,Women,500M,Gold
+2018,Peyongchang,Skating,Short Track Speed Skating,Yara van Kerkhof,NED,Women,500M,Silver
+2018,Peyongchang,Skating,Short Track Speed Skating,Kim Boutin,CAN,Women,500M,Bronze
+2018,Peyongchang,Skating,Speed skating,Ted-Jan Bloemen,CAN,Men,10000M,Gold
+2018,Peyongchang,Skating,Speed skating,Jorrit Bergsma,NED,Men,10000M,Silver
+2018,Peyongchang,Skating,Speed skating,Nicola Tumolero,ITA,Men,10000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Kjeld Nuis,NED,Men,1000M,Gold
+2018,Peyongchang,Skating,Speed skating,Havard Lorentzen,NOR,Men,1000M,Silver
+2018,Peyongchang,Skating,Speed skating,Kim Tae-Yun,KOR,Men,1000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Kjeld Nuis,NED,Men,1500M,Gold
+2018,Peyongchang,Skating,Speed skating,Patrick Roest,NED,Men,1500M,Silver
+2018,Peyongchang,Skating,Speed skating,Kim Min Seok,KOR,Men,1500M,Bronze
+2018,Peyongchang,Skating,Speed skating,Sven Kramer,NED,Men,5000M,Gold
+2018,Peyongchang,Skating,Speed skating,Ted-Jan Bloemen,CAN,Men,5000M,Silver
+2018,Peyongchang,Skating,Speed skating,Sverre Lunde Pedersen,NOR,Men,5000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Havard Lorentzen,NOR,Men,500M,Gold
+2018,Peyongchang,Skating,Speed skating,Min Kyu Cha,KOR,Men,500M,Silver
+2018,Peyongchang,Skating,Speed skating,Tingyu Gao,CHN,Men,500M,Bronze
+2018,Peyongchang,Skating,Speed skating,Havard BOKKO,NOR,Men,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Sindre HENRIKSEN,NOR,Men,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Sverre Lunde PEDERSEN,NOR,Men,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Simen Spieler NILSEN,NOR,Men,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,LEE Seung-Hoon,KOR,Men,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,CHUNG Jaewon,KOR,Men,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,KIM Min Seok,KOR,Men,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,JOO Hyong-Jun,KOR,Men,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Koen VERWEIJ,NLD,Men,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Patrick ROEST,NLD,Men,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Sven KRAMER,NLD,Men,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Jan BLOKHUIJSEN,NLD,Men,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Jorien Ter Mors,NED,Women,1000M,Gold
+2018,Peyongchang,Skating,Speed skating,Nao Kodaira,JPN,Women,1000M,Silver
+2018,Peyongchang,Skating,Speed skating,Miho Takagi,JPN,Women,1000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Ireen Wust,NED,Women,1500M,Gold
+2018,Peyongchang,Skating,Speed skating,Miho Takagi,JPN,Women,1500M,Silver
+2018,Peyongchang,Skating,Speed skating,Marrit Leenstra,NED,Women,1500M,Bronze
+2018,Peyongchang,Skating,Speed skating,Carlijn Achtereekte,NED,Women,3000M,Gold
+2018,Peyongchang,Skating,Speed skating,Ireen Wust,NED,Women,3000M,Silver
+2018,Peyongchang,Skating,Speed skating,Antoinette de Jong,NED,Women,3000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Esmee Visser,NED,Women,5000M,Gold
+2018,Peyongchang,Skating,Speed skating,Martina Sablikova,CZE,Women,5000M,Silver
+2018,Peyongchang,Skating,Speed skating,Natalia Voronina,RUS,Women,5000M,Bronze
+2018,Peyongchang,Skating,Speed skating,Nao Kodaira,JPN,Women,500M,Gold
+2018,Peyongchang,Skating,Speed skating,Lee Sang-Hwa,KOR,Women,500M,Silver
+2018,Peyongchang,Skating,Speed skating,Karolina Erbanova,CZE,Women,500M,Bronze
+2018,Peyongchang,Skating,Speed skating,Miho TAKAGI,JPN,Women,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Ayaka KIKUCHI,JPN,Women,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Ayano SATO,JPN,Women,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Nana TAKAGI,JPN,Women,Team Pursuit,Gold
+2018,Peyongchang,Skating,Speed skating,Marrit LEENSTRA,NED,Women,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Jorien TER MORS,NED,Women,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Lotte VAN BEEK,NED,Women,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Ireen WUST,NED,Women,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Antoinette DE JONG,NED,Women,Team Pursuit,Silver
+2018,Peyongchang,Skating,Speed skating,Heather BERGSMA,USA,Women,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Brittany BOWE,USA,Women,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Mia MANGANELLO,USA,Women,Team Pursuit,Bronze
+2018,Peyongchang,Skating,Speed skating,Carlijn SCHOUTENS,USA,Women,Team Pursuit,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Aksel Lund Svindal,NOR,Men,Downhill,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Kjetil Jansrud,NOR,Men,Downhill,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Beat Feuz,SUI,Men,Downhill,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Marcel Hirscher,AUT,Men,Giant Slalom,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Henrik Kristoffersen,NOR,Men,Giant Slalom,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Alexis Pinturault,FRA,Men,Giant Slalom,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Andre Myhrer,SWE,Men,Slalom,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Ramon Zenhaeusern,SUI,Men,Slalom,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Michael Matt,AUT,Men,Slalom,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Marcel Hirscher,AUT,Men,Super Combined,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Alexis Pinturault,FRA,Men,Super Combined,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Victor Muffat-Jeandet,FRA,Men,Super Combined,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Matthias Mayer,AUT,Men,Super-G,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Beat Feuz,SUI,Men,Super-G,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Kjetil Jansrud,NOR,Men,Super-G,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Sofia Goggia,ITA,Women,Downhill,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Ragnhild Mowinckel,NOR,Women,Downhill,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Lindsey Vonn,USA,Women,Downhill,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Mikaela Shiffrin,USA,Women,Giant Slalom,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Ragnhild Mowinckel,NOR,Women,Giant Slalom,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Federica Brignone,ITA,Women,Giant Slalom,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Frida Hansdotter,SWE,Women,Slalom,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Wendy Holdener,SUI,Women,Slalom,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Katharina Gallhuber,AUT,Women,Slalom,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Michelle Gisin,SUI,Women,Super Combined,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Mikaela Shiffrin,USA,Women,Super Combined,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Wendy Holdener,SUI,Women,Super Combined,Bronze
+2018,Peyongchang,Skiing,Alpine Skiing,Ester Ledecka,CZE,Women,Super-G,Gold
+2018,Peyongchang,Skiing,Alpine Skiing,Anna Veith,AUT,Women,Super-G,Silver
+2018,Peyongchang,Skiing,Alpine Skiing,Tina Weirather,LIE,Women,Super-G,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Dario¾Cologna,SUI,Men,15KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Simen Hegstad¾Krueger,NOR,Men,15KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Denis Spitsov,RUS,Men,15KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Didrik TOENSETH,NOR,Men,4X10KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud SUNDBY,NOR,Men,4X10KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Simen Hegstad KRUEGER,NOR,Men,4X10KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot KLAEBO,NOR,Men,4X10KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Andrey LARKOV,RUS,Men,4X10KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Alexander BOLSHUNOV,RUS,Men,4X10KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Alexey CHERVOTKIN,RUS,Men,4X10KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Denis SPITSOV,RUS,Men,4X10KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Jean Marc GAILLARD,FRA,Men,4X10KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Maurice MANIFICAT,FRA,Men,4X10KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Clement PARISSE,FRA,Men,4X10KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Adrien BACKSCHEIDER,FRA,Men,4X10KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Iivo Niskanen,FIN,Men,50KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,50KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Andrey Larkov,RUS,Men,50KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Simen Hegstad Krueger,NOR,Men,Combined 15+15K,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud Sundby,NOR,Men,Combined 15+15K,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Hans Christer Holund,NOR,Men,Combined 15+15K,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot Klaebo,NOR,Men,Sprint 1.5KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Federico Pellegrino,ITA,Men,Sprint 1.5KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,Sprint 1.5KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Martin Johnsrud Sundby,NOR,Men,Team Sprint,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Johannes Hoesflot Klaebo,NOR,Men,Team Sprint,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Denis Spitsov,RUS,Men,Team Sprint,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Alexander Bolshunov,RUS,Men,Team Sprint,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Maurice Manificat,FRA,Men,Team Sprint,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Richard Jouve,FRA,Men,Team Sprint,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Ragnhild Haga,NOR,Women,10KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,10KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,10KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjorgen,NOR,Women,30KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Krista Parmakoski,FIN,Women,30KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,30KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Ingvild Flugstad OESTBERG,NOR,Women,4X5KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Astrid Uhrenholdt JACOBSEN,NOR,Women,4X5KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Ragnhild HAGA,NOR,Women,4X5KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Marit BJOERGEN,NOR,Women,4X5KM Relay,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Anna HAAG,SWE,Women,4X5KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte KALLA,SWE,Women,4X5KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Ebba ANDERSSON,SWE,Women,4X5KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Stina NILSSON,SWE,Women,4X5KM Relay,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Natalia NEPRYAEVA,RUS,Women,4X5KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Yulia BELORUKOVA,RUS,Women,4X5KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Anastasia SEDOVA,RUS,Women,4X5KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Anna NECHAEVSKAYA,RUS,Women,4X5KM Relay,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,Combined7.5+7.5,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,Combined7.5+7.5,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Krista Parmakoski,FIN,Women,Combined7.5+7.5,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,Sprint 1.5KM,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Maiken Caspersen Falla,NOR,Women,Sprint 1.5KM,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Yulia Beloruko,RUS,Women,Sprint 1.5KM,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Kikkan Randall,USA,Women,Team Sprint,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Jessica Diggins,USA,Women,Team Sprint,Gold
+2018,Peyongchang,Skiing,Cross Country Skiing,Charlotte Kalla,SWE,Women,Team Sprint,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Stina Nilsson,SWE,Women,Team Sprint,Silver
+2018,Peyongchang,Skiing,Cross Country Skiing,Marit Bjoergen,NOR,Women,Team Sprint,Bronze
+2018,Peyongchang,Skiing,Cross Country Skiing,Maiken Caspersen Falla,NOR,Women,Team Sprint,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Oleksandr Abramenko,UKR,Men,Aerials,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Jia Zongyang,CHN,Men,Aerials,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Ilia Burov,RUS,Men,Aerials,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Mikael Kingsbury,CAN,Men,Moguls,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Matt Graham,AUS,Men,Moguls,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Daichi Hara,JPN,Men,Moguls,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Brady Leman,CAN,Men,Ski Cross,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Marc Bischofberger,SUI,Men,Ski Cross,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Sergey Ridzik,RUS,Men,Ski Cross,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,David Wise,USA,Men,Ski Halfpipe,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Alex Ferreira,USA,Men,Ski Halfpipe,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Nico Porteous,NZL,Men,Ski Halfpipe,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Oystein Braaten,NOR,Men,Ski Slopestyle,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Nick Goepper,USA,Men,Ski Slopestyle,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Alex Beaulieu-Marchand,CAN,Men,Ski Slopestyle,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Hanna Huskova,BLR,Women,Aerials,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Zhang Xin,CHN,Women,Aerials,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Kong Fanyu,CHN,Women,Aerials,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Perrine Laffont,FRA,Women,Moguls,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Justine Dufour-Lapointe,CAN,Women,Moguls,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Yulia Galysheva,KAZ,Women,Moguls,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Kelsey Serwa,CAN,Women,Ski Cross,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Brittany Phelan,CAN,Women,Ski Cross,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Fanny Smith,SUI,Women,Ski Cross,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Cassie Sharpe,CAN,Women,Ski Halfpipe,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Marie Martinod,FRA,Women,Ski Halfpipe,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Brita Sigourney,USA,Women,Ski Halfpipe,Bronze
+2018,Peyongchang,Skiing,Freestyle Skiing,Sarah Hoefflin,SUI,Women,Ski Slopestyle,Gold
+2018,Peyongchang,Skiing,Freestyle Skiing,Mathilde Gremaud,SUI,Women,Ski Slopestyle,Silver
+2018,Peyongchang,Skiing,Freestyle Skiing,Isabel Atkin,GBR,Women,Ski Slopestyle,Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Eric Frenzel,GER,Men,Ind. K90 (70M),Gold
+2018,Peyongchang,Skiing,Nordic Combined,Akito Watabe,JPN,Men,Ind. K90 (70M),Silver
+2018,Peyongchang,Skiing,Nordic Combined,Lukas Klapfer,AUT,Men,Ind. K90 (70M),Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Johannes Rydzek,GER,Men,Sprint K120,Gold
+2018,Peyongchang,Skiing,Nordic Combined,Fabian Riessle,GER,Men,Sprint K120,Silver
+2018,Peyongchang,Skiing,Nordic Combined,Eric Frenzel,GER,Men,Sprint K120,Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Eric FRENZEL,GER,Men,"Team, 4X5 KM",Gold
+2018,Peyongchang,Skiing,Nordic Combined,Vinzenz GEIGER,GER,Men,"Team, 4X5 KM",Gold
+2018,Peyongchang,Skiing,Nordic Combined,Fabian RIESSLE,GER,Men,"Team, 4X5 KM",Gold
+2018,Peyongchang,Skiing,Nordic Combined,Johannes RYDZEK,GER,Men,"Team, 4X5 KM",Gold
+2018,Peyongchang,Skiing,Nordic Combined,Joergen GRAABAK,NOR,Men,"Team, 4X5 KM",Silver
+2018,Peyongchang,Skiing,Nordic Combined,Jarl Magnus RIIBER,NOR,Men,"Team, 4X5 KM",Silver
+2018,Peyongchang,Skiing,Nordic Combined,Espen ANDERSEN,NOR,Men,"Team, 4X5 KM",Silver
+2018,Peyongchang,Skiing,Nordic Combined,Jan SCHMID,NOR,Men,"Team, 4X5 KM",Silver
+2018,Peyongchang,Skiing,Nordic Combined,Mario SEIDL,AUT,Men,"Team, 4X5 KM",Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Bernhard GRUBER,AUT,Men,"Team, 4X5 KM",Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Lukas KLAPFER,AUT,Men,"Team, 4X5 KM",Bronze
+2018,Peyongchang,Skiing,Nordic Combined,Wilhelm DENIFL,AUT,Men,"Team, 4X5 KM",Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Kamil Stoch,POL,Men,Large Hill,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Andreas Wellinger,GER,Men,Large Hill,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Robert Johansson,NOR,Men,Large Hill,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Andreas Wellinger,GER,Men,Normal Hill,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Johann Andre Forfang,NOR,Men,Normal Hill,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Robert Johansson,NOR,Men,Normal Hill,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Johann Andre FORFANG,NOR,Men,Teams,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Robert JOHANSSON,NOR,Men,Teams,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Andreas STJERNEN,NOR,Men,Teams,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Daniel Andre TANDE,NOR,Men,Teams,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Richard FREITAG,GER,Men,Teams,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Karl GEIGER,GER,Men,Teams,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Stephan LEYHE,GER,Men,Teams,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Andreas WELLINGER,GER,Men,Teams,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Stefan HULA,POL,Men,Teams,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Maciej KOT,POL,Men,Teams,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Dawid KUBACKI,POL,Men,Teams,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Kamil STOCH,POL,Men,Teams,Bronze
+2018,Peyongchang,Skiing,Ski Jumping,Maren Lundby,NOR,Women,K90 Individual,Gold
+2018,Peyongchang,Skiing,Ski Jumping,Katharina Althaus,GER,Women,K90 Individual,Silver
+2018,Peyongchang,Skiing,Ski Jumping,Sara Takanashi,JPN,Women,K90 Individual,Bronze
+2018,Peyongchang,Skiing,Snowboard,Nevin Galmaini,SUI,Men,Giant Parall.S.,Gold
+2018,Peyongchang,Skiing,Snowboard,Sangho Lee,KOR,Men,Giant Parall.S.,Silver
+2018,Peyongchang,Skiing,Snowboard,Zan Kosir,SLO,Men,Giant Parall.S.,Bronze
+2018,Peyongchang,Skiing,Snowboard,Shaun White,USA,Men,Half-Pipe,Gold
+2018,Peyongchang,Skiing,Snowboard,Ayumu Hirano,JPN,Men,Half-Pipe,Silver
+2018,Peyongchang,Skiing,Snowboard,Scotty James,AUS,Men,Half-Pipe,Bronze
+2018,Peyongchang,Skiing,Snowboard,Ramona Theresia HOFMEISTER,SUI,Men,Parallel Slalom,Gold
+2018,Peyongchang,Skiing,Snowboard,LEE Sangho,KOR,Men,Parallel Slalom,Silver
+2018,Peyongchang,Skiing,Snowboard,Zan KOSIR,SLO,Men,Parallel Slalom,Bronze
+2018,Peyongchang,Skiing,Snowboard,Redmond Gerard,USA,Men,Slopestyle,Gold
+2018,Peyongchang,Skiing,Snowboard,Max Parrot,CAN,Men,Slopestyle,Silver
+2018,Peyongchang,Skiing,Snowboard,Mark McMorris,CAN,Men,Slopestyle,Bronze
+2018,Peyongchang,Skiing,Snowboard,Pierre Vaultier,FRA,Men,Snowboard Cross,Gold
+2018,Peyongchang,Skiing,Snowboard,Jarryd Hughes,AUS,Men,Snowboard Cross,Silver
+2018,Peyongchang,Skiing,Snowboard,Regino Hernandez,SPA,Men,Snowboard Cross,Bronze
+2018,Peyongchang,Skiing,Snowboard,Ester Ledecka,CZE,Women,Giant Parall.S.,Gold
+2018,Peyongchang,Skiing,Snowboard,Selina Joerg,GER,Women,Giant Parall.S.,Silver
+2018,Peyongchang,Skiing,Snowboard,Ramona Theresia Hofmeister,GER,Women,Giant Parall.S.,Bronze
+2018,Peyongchang,Skiing,Snowboard,Chloe Kim,USA,Women,Half-Pipe,Gold
+2018,Peyongchang,Skiing,Snowboard,Liu Jiayu,CHN,Women,Half-Pipe,Silver
+2018,Peyongchang,Skiing,Snowboard,Arielle Gold,USA,Women,Half-Pipe,Bronze
+2018,Peyongchang,Skiing,Snowboard,Ester LEDECKA,CZE,Women,Parallel Slalom,Gold
+2018,Peyongchang,Skiing,Snowboard,Selina JOERG,GER,Women,Parallel Slalom,Silver
+2018,Peyongchang,Skiing,Snowboard,Ramona Theresia HOFMEISTER,GER,Women,Parallel Slalom,Bronze
+2018,Peyongchang,Skiing,Snowboard,Jamie Anderson,USA,Women,Slopestyle,Gold
+2018,Peyongchang,Skiing,Snowboard,Laurie Blouin,CAN,Women,Slopestyle,Silver
+2018,Peyongchang,Skiing,Snowboard,Enni Rukajarvi,FIN,Women,Slopestyle,Bronze
+2018,Peyongchang,Skiing,Snowboard,Michela Moioli,ITA,Women,Snowboard Cross,Gold
+2018,Peyongchang,Skiing,Snowboard,Julia Pereira de Sousa Mabileau,FRA,Women,Snowboard Cross,Silver
+2018,Peyongchang,Skiing,Snowboard,Eva Samkova,CZE,Women,Snowboard Cross,Bronze
+2018,Peyongchang,Curling,Curling,Kaitlyn Lawes,CAN,Women,Mixed Doubles,Gold
+2018,Peyongchang,Curling,Curling,John Morris,CAN,Men,Mixed Doubles,Gold
+2018,Peyongchang,Curling,Curling,Jenny Perret,SUI,Women,Mixed Doubles,Silver
+2018,Peyongchang,Curling,Curling,Martin Rios,SUI,Men,Mixed Doubles,Silver
+2018,Peyongchang,Curling,Curling,Kristin Skaslien,NOR,Women,Mixed Doubles,Bronze
+2018,Peyongchang,Curling,Curling,Magnus Nedregotten,NOR,Men,Mixed Doubles,Bronze
+2018,Peyongchang,Skiing,Snowboard,Sebastien Toutant,CAN,Men,Big Air,Gold
+2018,Peyongchang,Skiing,Snowboard,Kyle Mack,USA,Men,Big Air,Silver
+2018,Peyongchang,Skiing,Snowboard,Billy Morgan,GBR,Men,Big Air,Bronze
+2018,Peyongchang,Skiing,Snowboard,Anna Gasser,AUT,Women,Big Air,Gold
+2018,Peyongchang,Skiing,Snowboard,Jamie Anderson,USA,Women,Big Air,Silver
+2018,Peyongchang,Skiing,Snowboard,Synnott Zoi Sadowski,NZL,Women,Big Air,Bronze
+2018,Peyongchang,Skating,Speed skating,Lee Seung-Hoon,KOR,Men,Mass Start,Gold
+2018,Peyongchang,Skating,Speed skating,Bart Swings,BEL,Men,Mass Start,Silver
+2018,Peyongchang,Skating,Speed skating,Koen Verweij,NED,Men,Mass Start,Bronze
+2018,Peyongchang,Skating,Speed skating,Nana Takagi,JPN,Women,Mass Start,Gold
+2018,Peyongchang,Skating,Speed skating,Kim Bo-Reum,KOR,Women,Mass Start,Silver
+2018,Peyongchang,Skating,Speed skating,Irene Schouten,NED,Women,Mass Start,Bronze
