@@ -1,7 +1,7 @@
-from datamerge.py import *
+from datamerge import *
+
 
 # This creates a bool column to match search term with search term being male. How many male medalists?
-
 
 def create_bool_field_from_search_term(data_sample, search_term):
     new_array = []
@@ -26,6 +26,6 @@ def filter_col_by_bool(data_sample, col):
 
     return matches_search_term
 
-new_csv = create_bool_field_from_search_term(data_from_csv, "Men")
-number_of_male_medalists = number_of_records(filter_col_by_bool(new_csv, 9))
-print("Male Medal Winners": number_of_male_medalists(new_csv))
+new_csv = create_bool_field_from_search_term(results, "men")
+number_of_male_medalists = results(filter_col_by_bool(new_csv, 9))
+print("Male Medal Winners:" number_of_male_medalists(new_csv))
