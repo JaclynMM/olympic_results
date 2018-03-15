@@ -8,7 +8,12 @@ cur.execute("""CREATE TABLE IF NOT EXISTS winners (post_id INTEGER NOT NULL PRIM
 
 with open('./output_data/totalresults.csv','r') as person_table:
     dr = csv.DictReader(person_table, delimiter=',') # comma is default delimiter
-    to_db = [(i['City'], i['Sport'], i['Discipline'], i['Athlete'], i['Country'], i['Gender'], i['Event'], i['Medal'], i['Year']) for i in dr]
+
+    for y in dr:
+        y['Athlete'] = ' '.join(y['Athlete'].split(", ")[::-1])
+        print(y['Athlete'])
+
+    to_db = [(i['City'], i['Sport'], i['Discipline'], ' '.join(i['Athlete'].split(", ")[::-1]), i['Country'], i['Gender'], i['Event'], i['Medal'], i['Year']) for i in dr]
 
 cur.execute("DELETE FROM winners")
 
