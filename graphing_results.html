@@ -1,0 +1,69 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bokeh Plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.10.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.10.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+        <style>
+          html {
+            width: 100%;
+            height: 100%;
+          }
+          body {
+            width: 90%;
+            height: 100%;
+            margin: auto;
+          }
+        </style>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="c48db594-979c-4952-936e-fac219dac810"></div>
+        </div>
+        
+        <script type="text/javascript">
+            (function() {
+          var fn = function() {
+            Bokeh.safely(function() {
+              (function(root) {
+                function embed_document(root) {
+                  var docs_json = {"04f343ed-eca4-4ae3-a609-f85020a07c1b":{"roots":{"references":[{"attributes":{"callback":null,"factors":[["AQUATICS","Men"],["AQUATICS","Women"],["ARCHERY","Men"],["ARCHERY","Women"],["ATHLETICS","Men"],["ATHLETICS","Women"],["BADMINTON","Men"],["BADMINTON","Women"],["BASEBALL","Men"],["BASEBALL","Women"],["BASKETBALL","Men"],["BASKETBALL","Women"],["BIATHLON","Men"],["BIATHLON","Women"],["BOBSLEIGH","Men"],["BOBSLEIGH","Women"],["BOXING","Men"],["BOXING","Women"],["CANOE","Men"],["CANOE","Women"],["CANOE / KAYAK","Men"],["CANOE / KAYAK","Women"],["CROQUET","Men"],["CROQUET","Women"],["CURLING","Men"],["CURLING","Women"],["CYCLING","Men"],["CYCLING","Women"],["EQUESTRIAN","Men"],["EQUESTRIAN","Women"],["FENCING","Men"],["FENCING","Women"],["FOOTBALL","Men"],["FOOTBALL","Women"],["GOLF","Men"],["GOLF","Women"],["GYMNASTICS","Men"],["GYMNASTICS","Women"],["HANDBALL","Men"],["HANDBALL","Women"],["HOCKEY","Men"],["HOCKEY","Women"],["ICE HOCKEY","Men"],["ICE HOCKEY","Women"],["JUDO","Men"],["JUDO","Women"],["LUGE","Men"],["LUGE","Women"],["MODERN PENTATHLON","Men"],["MODERN PENTATHLON","Women"],["POLO","Men"],["POLO","Women"],["RACKETS","Men"],["RACKETS","Women"],["ROWING","Men"],["ROWING","Women"],["RUGBY","Men"],["RUGBY","Women"],["SAILING","Men"],["SAILING","Women"],["SHOOTING","Men"],["SHOOTING","Women"],["SKATING","Men"],["SKATING","Women"],["SKIING","Men"],["SKIING","Women"],["SOFTBALL","Men"],["SOFTBALL","Women"],["TABLE TENNIS","Men"],["TABLE TENNIS","Women"],["TAEKWONDO","Men"],["TAEKWONDO","Women"],["TENNIS","Men"],["TENNIS","Women"],["TRIATHLON","Men"],["TRIATHLON","Women"],["TUG OF WAR","Men"],["TUG OF WAR","Women"],["VOLLEYBALL","Men"],["VOLLEYBALL","Women"],["WATER MOTORSPORTS","Men"],["WATER MOTORSPORTS","Women"],["WEIGHTLIFTING","Men"],["WEIGHTLIFTING","Women"],["WRESTLING","Men"],["WRESTLING","Women"]],"range_padding":0.05},"id":"1b75a51c-d8fe-40d0-85df-a24c5c45997f","type":"FactorRange"},{"attributes":{"overlay":{"id":"ce5b4abb-760a-430a-84df-512e051ddbed","type":"BoxAnnotation"}},"id":"82dcf2c8-0e8d-4ce5-8af9-8a191b2bd647","type":"BoxZoomTool"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_scroll":"auto","active_tap":"auto","tools":[{"id":"529c6616-13df-43bc-aa93-d935c114ac0d","type":"PanTool"},{"id":"cd2b9e83-a135-4f83-954d-f287375ece1b","type":"WheelZoomTool"},{"id":"82dcf2c8-0e8d-4ce5-8af9-8a191b2bd647","type":"BoxZoomTool"},{"id":"1791b1bb-319e-4545-9344-7738b64990f8","type":"SaveTool"},{"id":"a41e948f-55bc-43cb-b6ac-b9a53b79e318","type":"ResetTool"},{"id":"2df682db-4b6b-410b-930c-470d48fd31f4","type":"HelpTool"}]},"id":"46d8da33-fe7a-48f1-b24b-bbda08fdc3db","type":"Toolbar"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"ce5b4abb-760a-430a-84df-512e051ddbed","type":"BoxAnnotation"},{"attributes":{"callback":null,"start":0},"id":"bc4098f8-fb6b-48a7-8987-4d48f5475ce5","type":"DataRange1d"},{"attributes":{},"id":"1791b1bb-319e-4545-9344-7738b64990f8","type":"SaveTool"},{"attributes":{},"id":"a41e948f-55bc-43cb-b6ac-b9a53b79e318","type":"ResetTool"},{"attributes":{},"id":"9e5f3f50-3b96-41a4-b053-7f7b34611a28","type":"CategoricalScale"},{"attributes":{"source":{"id":"991c64dc-8654-4e8e-945d-356251094bf3","type":"ColumnDataSource"}},"id":"6ae660f2-2d9b-4aa5-9ee1-5f5684763f5a","type":"CDSView"},{"attributes":{},"id":"2df682db-4b6b-410b-930c-470d48fd31f4","type":"HelpTool"},{"attributes":{"end":2,"factors":["Men","Women"],"palette":["#41ebf4","#f4d041"],"start":1},"id":"f2d115af-6e28-4089-8a8b-26326f33c742","type":"CategoricalColorMapper"},{"attributes":{"formatter":{"id":"eaf2ed5a-1af4-4154-9ce3-697afe5e9a1a","type":"BasicTickFormatter"},"plot":{"id":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8","subtype":"Figure","type":"Plot"},"ticker":{"id":"f476558b-6012-4094-ac47-b854f619af45","type":"BasicTicker"}},"id":"d370d25d-3047-44ff-9ca0-a09cdfd1995c","type":"LinearAxis"},{"attributes":{"formatter":{"id":"b2e1c5b4-e23a-4f76-8162-595594b1c578","type":"CategoricalTickFormatter"},"major_label_orientation":1,"plot":{"id":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8","subtype":"Figure","type":"Plot"},"ticker":{"id":"df9a4874-c3b0-449b-aebc-14010302c837","type":"CategoricalTicker"}},"id":"8998cb7b-7a47-47bc-8812-1f3e8c18a52e","type":"CategoricalAxis"},{"attributes":{},"id":"df9a4874-c3b0-449b-aebc-14010302c837","type":"CategoricalTicker"},{"attributes":{"grid_line_color":{"value":null},"plot":{"id":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8","subtype":"Figure","type":"Plot"},"ticker":{"id":"df9a4874-c3b0-449b-aebc-14010302c837","type":"CategoricalTicker"}},"id":"ccdc95a7-19f1-4cea-9382-3f13a1c7b005","type":"Grid"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"f2d115af-6e28-4089-8a8b-26326f33c742","type":"CategoricalColorMapper"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.5},"x":{"field":"x"}},"id":"1f05998e-f062-4bfe-8885-67113f041c12","type":"VBar"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"field":"counts"},"width":{"value":0.5},"x":{"field":"x"}},"id":"9499758d-fbd0-4a01-b7e6-27f8167a1caf","type":"VBar"},{"attributes":{},"id":"f476558b-6012-4094-ac47-b854f619af45","type":"BasicTicker"},{"attributes":{"plot":null,"text":"Olympic Winners by Sport & Gender"},"id":"ecc54457-1d5e-42f3-9ec2-34a709945298","type":"Title"},{"attributes":{"dimension":1,"plot":{"id":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8","subtype":"Figure","type":"Plot"},"ticker":{"id":"f476558b-6012-4094-ac47-b854f619af45","type":"BasicTicker"}},"id":"cdd15e3f-9396-4436-8b6e-89094df50fae","type":"Grid"},{"attributes":{"below":[{"id":"8998cb7b-7a47-47bc-8812-1f3e8c18a52e","type":"CategoricalAxis"}],"left":[{"id":"d370d25d-3047-44ff-9ca0-a09cdfd1995c","type":"LinearAxis"}],"plot_height":700,"plot_width":5000,"renderers":[{"id":"8998cb7b-7a47-47bc-8812-1f3e8c18a52e","type":"CategoricalAxis"},{"id":"ccdc95a7-19f1-4cea-9382-3f13a1c7b005","type":"Grid"},{"id":"d370d25d-3047-44ff-9ca0-a09cdfd1995c","type":"LinearAxis"},{"id":"cdd15e3f-9396-4436-8b6e-89094df50fae","type":"Grid"},{"id":"ce5b4abb-760a-430a-84df-512e051ddbed","type":"BoxAnnotation"},{"id":"b41212de-02d7-4749-a3ba-56dbeb0a43a8","type":"GlyphRenderer"}],"title":{"id":"ecc54457-1d5e-42f3-9ec2-34a709945298","type":"Title"},"toolbar":{"id":"46d8da33-fe7a-48f1-b24b-bbda08fdc3db","type":"Toolbar"},"toolbar_location":"below","toolbar_sticky":false,"x_range":{"id":"1b75a51c-d8fe-40d0-85df-a24c5c45997f","type":"FactorRange"},"x_scale":{"id":"9e5f3f50-3b96-41a4-b053-7f7b34611a28","type":"CategoricalScale"},"y_range":{"id":"bc4098f8-fb6b-48a7-8987-4d48f5475ce5","type":"DataRange1d"},"y_scale":{"id":"f71a3ff6-7c2f-4e29-adc1-084b6273fb12","type":"LinearScale"}},"id":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"b2e1c5b4-e23a-4f76-8162-595594b1c578","type":"CategoricalTickFormatter"},{"attributes":{"data_source":{"id":"991c64dc-8654-4e8e-945d-356251094bf3","type":"ColumnDataSource"},"glyph":{"id":"1f05998e-f062-4bfe-8885-67113f041c12","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"9499758d-fbd0-4a01-b7e6-27f8167a1caf","type":"VBar"},"selection_glyph":null,"view":{"id":"6ae660f2-2d9b-4aa5-9ee1-5f5684763f5a","type":"CDSView"}},"id":"b41212de-02d7-4749-a3ba-56dbeb0a43a8","type":"GlyphRenderer"},{"attributes":{},"id":"eaf2ed5a-1af4-4154-9ce3-697afe5e9a1a","type":"BasicTickFormatter"},{"attributes":{"callback":null,"column_names":["x","counts"],"data":{"counts":[554,375,56,22,451,232,12,15,28,0,99,70,68,46,76,4,63,3,12,14,178,46,3,0,8,7,174,29,158,38,298,77,80,56,3,0,265,134,87,74,158,74,183,91,49,35,34,12,33,0,4,0,3,0,275,121,11,0,119,19,197,29,164,145,263,161,0,43,21,17,13,6,39,26,4,0,7,0,96,88,2,0,95,10,154,8],"x":[["AQUATICS","Men"],["AQUATICS","Women"],["ARCHERY","Men"],["ARCHERY","Women"],["ATHLETICS","Men"],["ATHLETICS","Women"],["BADMINTON","Men"],["BADMINTON","Women"],["BASEBALL","Men"],["BASEBALL","Women"],["BASKETBALL","Men"],["BASKETBALL","Women"],["BIATHLON","Men"],["BIATHLON","Women"],["BOBSLEIGH","Men"],["BOBSLEIGH","Women"],["BOXING","Men"],["BOXING","Women"],["CANOE","Men"],["CANOE","Women"],["CANOE / KAYAK","Men"],["CANOE / KAYAK","Women"],["CROQUET","Men"],["CROQUET","Women"],["CURLING","Men"],["CURLING","Women"],["CYCLING","Men"],["CYCLING","Women"],["EQUESTRIAN","Men"],["EQUESTRIAN","Women"],["FENCING","Men"],["FENCING","Women"],["FOOTBALL","Men"],["FOOTBALL","Women"],["GOLF","Men"],["GOLF","Women"],["GYMNASTICS","Men"],["GYMNASTICS","Women"],["HANDBALL","Men"],["HANDBALL","Women"],["HOCKEY","Men"],["HOCKEY","Women"],["ICE HOCKEY","Men"],["ICE HOCKEY","Women"],["JUDO","Men"],["JUDO","Women"],["LUGE","Men"],["LUGE","Women"],["MODERN PENTATHLON","Men"],["MODERN PENTATHLON","Women"],["POLO","Men"],["POLO","Women"],["RACKETS","Men"],["RACKETS","Women"],["ROWING","Men"],["ROWING","Women"],["RUGBY","Men"],["RUGBY","Women"],["SAILING","Men"],["SAILING","Women"],["SHOOTING","Men"],["SHOOTING","Women"],["SKATING","Men"],["SKATING","Women"],["SKIING","Men"],["SKIING","Women"],["SOFTBALL","Men"],["SOFTBALL","Women"],["TABLE TENNIS","Men"],["TABLE TENNIS","Women"],["TAEKWONDO","Men"],["TAEKWONDO","Women"],["TENNIS","Men"],["TENNIS","Women"],["TRIATHLON","Men"],["TRIATHLON","Women"],["TUG OF WAR","Men"],["TUG OF WAR","Women"],["VOLLEYBALL","Men"],["VOLLEYBALL","Women"],["WATER MOTORSPORTS","Men"],["WATER MOTORSPORTS","Women"],["WEIGHTLIFTING","Men"],["WEIGHTLIFTING","Women"],["WRESTLING","Men"],["WRESTLING","Women"]]}},"id":"991c64dc-8654-4e8e-945d-356251094bf3","type":"ColumnDataSource"},{"attributes":{},"id":"529c6616-13df-43bc-aa93-d935c114ac0d","type":"PanTool"},{"attributes":{},"id":"cd2b9e83-a135-4f83-954d-f287375ece1b","type":"WheelZoomTool"},{"attributes":{},"id":"f71a3ff6-7c2f-4e29-adc1-084b6273fb12","type":"LinearScale"}],"root_ids":["b9fc7ae9-0a23-409c-b0dd-70f52deca3f8"]},"title":"Bokeh Application","version":"0.12.10"}};
+                  var render_items = [{"docid":"04f343ed-eca4-4ae3-a609-f85020a07c1b","elementid":"c48db594-979c-4952-936e-fac219dac810","modelid":"b9fc7ae9-0a23-409c-b0dd-70f52deca3f8"}];
+              
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                }
+              
+                if (root.Bokeh !== undefined) {
+                  embed_document(root);
+                } else {
+                  var attempts = 0;
+                  var timer = setInterval(function(root) {
+                    if (root.Bokeh !== undefined) {
+                      embed_document(root);
+                      clearInterval(timer);
+                    }
+                    attempts++;
+                    if (attempts > 100) {
+                      console.log("Bokeh: ERROR: Unable to embed document because BokehJS library is missing")
+                      clearInterval(timer);
+                    }
+                  }, 10, root)
+                }
+              })(window);
+            });
+          };
+          if (document.readyState != "loading") fn();
+          else document.addEventListener("DOMContentLoaded", fn);
+        })();
+        
+        </script>
+    </body>
+</html>
