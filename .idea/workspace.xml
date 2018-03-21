@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249ac5b2-a245-4c18-a6ab-b9490992e143" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/graphing.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/datamerge.py" afterPath="$PROJECT_DIR$/datamerge.py" />
+      <change beforePath="$PROJECT_DIR$/graphing.py" afterPath="$PROJECT_DIR$/graphing.py" />
+      <change beforePath="$PROJECT_DIR$/graphing_results.html" afterPath="$PROJECT_DIR$/graphing_results.html" />
       <change beforePath="$PROJECT_DIR$/querydata.py" afterPath="$PROJECT_DIR$/querydata.py" />
       <change beforePath="$PROJECT_DIR$/sqlconnect.py" afterPath="$PROJECT_DIR$/sqlconnect.py" />
-      <change beforePath="$PROJECT_DIR$/stuff.db" afterPath="$PROJECT_DIR$/stuff.db" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="datamerge.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="datamerge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datamerge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="304">
+              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -35,12 +37,12 @@
       <file leaf-file-name="sqlconnect.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sqlconnect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="93" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="93" />
+            <state relative-caret-position="90">
+              <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
               <folding>
-                <marker date="1521150082005" expanded="true" signature="126:413" ph="CREATE TABLE... IF" />
-                <marker date="1521150082005" expanded="true" signature="752:771" ph="DELETE FROM winners... " />
-                <marker date="1521150082005" expanded="true" signature="792:843" ph="INSERT INTO person... " />
+                <marker date="1521667487272" expanded="true" signature="216:503" ph="CREATE TABLE... IF" />
+                <marker date="1521667487272" expanded="true" signature="980:999" ph="DELETE FROM winners... " />
+                <marker date="1521667487272" expanded="true" signature="1020:1071" ph="INSERT INTO person... " />
               </folding>
             </state>
           </provider>
@@ -49,15 +51,15 @@
       <file leaf-file-name="querydata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/querydata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            <state relative-caret-position="-116">
+              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
-                <marker date="1521490693532" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
-                <marker date="1521490693532" expanded="true" signature="158:181" ph="SELECT * FRO... winners" />
-                <marker date="1521490693532" expanded="true" signature="197:268" ph="SELECT disci... winners" />
-                <marker date="1521490693532" expanded="true" signature="197:274" ph="SELECT athle... " />
-                <marker date="1521490693532" expanded="true" signature="197:276" ph="SELECT disci... winners" />
-                <marker date="1521490693532" expanded="true" signature="290:449" ph="SELECT athle... winners" />
+                <marker date="1521667640833" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
+                <marker date="1521667640833" expanded="true" signature="158:181" ph="SELECT * FRO... winners" />
+                <marker date="1521667640833" expanded="true" signature="197:268" ph="SELECT disci... winners" />
+                <marker date="1521667640833" expanded="true" signature="197:274" ph="SELECT athle... " />
+                <marker date="1521667640833" expanded="true" signature="197:276" ph="SELECT disci... winners" />
+                <marker date="1521667640833" expanded="true" signature="454:634" ph="SELECT athle... " />
               </folding>
             </state>
           </provider>
@@ -66,11 +68,31 @@
       <file leaf-file-name="graphing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graphing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graphing_results.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/graphing_results.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,6 +114,7 @@
       <list>
         <option value="$PROJECT_DIR$/cleandata.py" />
         <option value="$PROJECT_DIR$/dataintosql.py" />
+        <option value="$PROJECT_DIR$/graphing_results.html" />
         <option value="$PROJECT_DIR$/datamerge.py" />
         <option value="$PROJECT_DIR$/sqlconnect.py" />
         <option value="$PROJECT_DIR$/querydata.py" />
@@ -251,7 +274,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/datamerge.py</url>
-          <line>22</line>
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -301,50 +324,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphing.py">
+    <entry file="file://$PROJECT_DIR$/datamerge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        <state relative-caret-position="304">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/querydata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <marker date="1521490693532" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
-            <marker date="1521490693532" expanded="true" signature="158:181" ph="SELECT * FRO... winners" />
-            <marker date="1521490693532" expanded="true" signature="197:268" ph="SELECT disci... winners" />
-            <marker date="1521490693532" expanded="true" signature="197:274" ph="SELECT athle... " />
-            <marker date="1521490693532" expanded="true" signature="197:276" ph="SELECT disci... winners" />
-            <marker date="1521490693532" expanded="true" signature="290:449" ph="SELECT athle... winners" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sqlconnect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="93" lean-forward="true" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="93" />
+        <state relative-caret-position="90">
+          <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
           <folding>
-            <marker date="1521150082005" expanded="true" signature="126:413" ph="CREATE TABLE... IF" />
-            <marker date="1521150082005" expanded="true" signature="752:771" ph="DELETE FROM winners... " />
-            <marker date="1521150082005" expanded="true" signature="792:843" ph="INSERT INTO person... " />
+            <marker date="1521667487272" expanded="true" signature="216:503" ph="CREATE TABLE... IF" />
+            <marker date="1521667487272" expanded="true" signature="980:999" ph="DELETE FROM winners... " />
+            <marker date="1521667487272" expanded="true" signature="1020:1071" ph="INSERT INTO person... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datamerge.py">
+    <entry file="file://$PROJECT_DIR$/querydata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="-116">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1521667640833" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
+            <marker date="1521667640833" expanded="true" signature="158:181" ph="SELECT * FRO... winners" />
+            <marker date="1521667640833" expanded="true" signature="197:268" ph="SELECT disci... winners" />
+            <marker date="1521667640833" expanded="true" signature="197:274" ph="SELECT athle... " />
+            <marker date="1521667640833" expanded="true" signature="197:276" ph="SELECT disci... winners" />
+            <marker date="1521667640833" expanded="true" signature="454:634" ph="SELECT athle... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphing_results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

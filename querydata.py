@@ -9,7 +9,11 @@ cur = con.cursor()
 
 # cur.execute("SELECT * FROM winners")
 # cur.execute("SELECT athlete, sport, medal, gender, year FROM winners WHERE country = 'usa'")
-cur.execute("SELECT athlete, UPPER(sport) AS discipline, gender, medal, COUNT(*) AS total FROM winners GROUP BY athlete, discipline HAVING total > 1 ORDER BY discipline ASC")
+
+# create a table with athlete name, uppercase sport, year, gender, medal and how many athletes have more than 1 medal
+# grouped by athlete name in ascending order
+cur.execute("SELECT athlete, UPPER(sport) AS discipline, year, gender, medal, COUNT(*) AS total FROM winners "
+            "GROUP BY athlete, discipline HAVING total > 1 ORDER BY discipline ASC")
 
 
 medal_winner = cur.fetchone()
@@ -18,6 +22,7 @@ medal_winner = cur.fetchone()
 total_winners = 0
 
 
+#create the format for data for graph
 disciplines = []
 
 genders = ['Men', 'Women']
@@ -27,12 +32,13 @@ data = {
     'women': []
 }
 
-
+# loops through list and adds multiple medal winner count in specific format for graph
+# where men and women are counted separately
 while medal_winner != None:
     total_winners = total_winners + 1
     # print ('%s %s %s' % (usa_winner[2], usa_winner[1], usa_winner[0]))
     # print ('%s' % (type(usa_winner)))
-    print ('%(discipline)s %(athlete)s %(gender)s %(medal)s' % (medal_winner))
+    print ('%(discipline)s %(athlete)s %(gender)s %(medal)s %(year)s' % (medal_winner))
     # print ('%(year)s' % { 'year': 2017 })
 
     if medal_winner["discipline"] not in disciplines:
