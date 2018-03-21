@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249ac5b2-a245-4c18-a6ab-b9490992e143" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/datamerge.py" afterPath="$PROJECT_DIR$/datamerge.py" />
-      <change beforePath="$PROJECT_DIR$/graphing.py" afterPath="$PROJECT_DIR$/graphing.py" />
-      <change beforePath="$PROJECT_DIR$/graphing_results.html" afterPath="$PROJECT_DIR$/graphing_results.html" />
-      <change beforePath="$PROJECT_DIR$/querydata.py" afterPath="$PROJECT_DIR$/querydata.py" />
-      <change beforePath="$PROJECT_DIR$/sqlconnect.py" afterPath="$PROJECT_DIR$/sqlconnect.py" />
+      <change beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,7 +45,7 @@
       <file leaf-file-name="querydata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/querydata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
+            <state relative-caret-position="525">
               <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <marker date="1521667640833" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
@@ -90,8 +84,8 @@
       <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="268">
+              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -119,6 +113,7 @@
         <option value="$PROJECT_DIR$/sqlconnect.py" />
         <option value="$PROJECT_DIR$/querydata.py" />
         <option value="$PROJECT_DIR$/graphing.py" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -324,6 +319,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graphing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/datamerge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -331,6 +336,14 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphing_results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -348,7 +361,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/querydata.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
+        <state relative-caret-position="525">
           <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <marker date="1521667640833" expanded="true" signature="158:179" ph="SELECT * FRO... winners" />
@@ -361,28 +374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/graphing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphing_results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="268">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>
