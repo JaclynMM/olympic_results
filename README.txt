@@ -30,3 +30,5 @@ Process of Project (file order and breif description of what file does)
 3. querydata.py: creates a query of the data I want to pull specifically for graphing purposes
 4. graphing.py: this file is where I implement bokeh to graph the data found
 5. graphing_results.html: visual graph created from running the bokeh file
+
+bokeh serve --show graphing.py

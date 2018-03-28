@@ -6,10 +6,12 @@ import datetime
 import glob, os
 import re
 
+
 # takes all the different data files to merge into one
 path = "/Users/jaclyn/Desktop/CodeLouisville/Python_Data/olympics_project/input_data/"
 os.chdir(path)
 results = pd.DataFrame([])
+
 
 # neutralizes all data, converts everything to lowercase and appends year
 for counter, current_file in enumerate(glob.glob("*.csv")):
@@ -21,6 +23,7 @@ for counter, current_file in enumerate(glob.glob("*.csv")):
     print(x)
 
     results = pd.concat([results, x])
+
 
 # puts new dataset into an actual file
 results.to_csv('/Users/jaclyn/Desktop/CodeLouisville/Python_Data/olympics_project/output_data/totalresults.csv',
