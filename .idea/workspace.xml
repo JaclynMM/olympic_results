@@ -2,8 +2,441 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="249ac5b2-a245-4c18-a6ab-b9490992e143" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
-      <change beforePath="$PROJECT_DIR$/graphing_results.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.babelrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.gitattributes" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.github/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.stylelintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.stylelintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/CODE_OF_CONDUCT.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/breakpoints.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/browser-bugs.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/browser-features.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/examples.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/grays.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/nav.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/theme-colors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_data/translations.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/ads.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/callout-danger-async-methods.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/callout-info-mediaqueries-breakpoints.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/callout-warning-color-assistive-technologies.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/docs-navbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/docs-sidebar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/favicons.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/bootstrap.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/download.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/github.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/import.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/lightning.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/menu.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/slack.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/icons/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/scripts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_includes/social.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/docs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/examples.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/redirect.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_layouts/simple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_plugins/bugify.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_plugins/callout.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_plugins/example.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/_plugins/markdown-block.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/brand/bootstrap-outline.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/brand/bootstrap-punchout.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/brand/bootstrap-social-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/brand/bootstrap-social.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/brand/bootstrap-solid.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/css/docs.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/css/docs.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/bootstrap-stack.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/bootstrap-themes.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/android-chrome-192x192.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/android-chrome-512x512.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/browserconfig.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/mstile-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/mstile-150x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/mstile-310x150.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/mstile-310x310.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/mstile-70x70.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/img/favicons/safari-pinned-tab.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/docs.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/src/application.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/src/ie-emulation-modes-warning.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/src/pwa.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/vendor/anchor.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/vendor/clipboard.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/vendor/holder.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/vendor/jquery-slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/js/vendor/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_ads.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_algolia.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_anchor.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_brand.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_browser-bugs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_callouts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_clipboard-js.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_colors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_component-examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_content.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_examples.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_masthead.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_sidebar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_skiplink.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_syntax.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/assets/scss/docs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/.htmllintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/change-version.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/gcp-key.json.enc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/generate-sri.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/lint-vars.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/postcss.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/rollup.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/sauce_browsers.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/saucelabs-unit-test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/ship.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/upload-preview.sh" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/vnu-jar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/workbox.config.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/build/workbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/dist/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/about/brand.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/about/license.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/about/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/about/translations.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/browser-bugs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/alerts.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/badge.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/breadcrumb.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/button-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/buttons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/card.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/carousel.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/collapse.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/dropdowns.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/forms.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/input-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/jumbotron.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/list-group.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/modal.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/navbar.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/navs.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/pagination.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/popovers.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/progress.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/scrollspy.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/components/tooltips.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/code.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/figures.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/images.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/reboot.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/tables.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/content/typography.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/.stylelintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/album/album.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/album/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/blog/blog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/blog/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/carousel/carousel.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/carousel/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/checkout/form-validation.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/checkout/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/cover/cover.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/cover/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/dashboard/dashboard.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/dashboard/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/floating-labels/floating-labels.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/floating-labels/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/grid/grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/grid/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/jumbotron/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/jumbotron/jumbotron.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbar-bottom/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/navbar-top-fixed.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbar-static/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbar-static/navbar-top.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbars/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/navbars/navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/offcanvas/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/offcanvas/offcanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/pricing/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/pricing/pricing.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/product/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/product/product.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/album.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/blog.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/carousel.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/checkout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/cover.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/dashboard.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/floating-labels.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/grid.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/jumbotron.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-bottom.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-fixed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbar-static.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/navbars.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/offcanvas.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/pricing.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/product.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/sign-in.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/starter-template.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer-navbar.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/screenshots/sticky-footer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sign-in/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sign-in/signin.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/starter-template/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/starter-template/starter-template.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/sticky-footer/sticky-footer.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/examples/tooltip-viewport/tooltip-viewport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/extend/approach.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/extend/icons.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/extend/index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/accessibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/best-practices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/browsers-devices.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/build-tools.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/contents.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/download.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/introduction.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/javascript.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/theming.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/getting-started/webpack.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/layout/grid.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/layout/media-object.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/layout/overview.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/layout/utilities-for-layout.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/migration.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/borders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/clearfix.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/close-icon.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/colors.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/display.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/embed.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/flex.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/float.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/image-replacement.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/position.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/screenreaders.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/sizing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/spacing.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/text.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/vertical-align.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/docs/4.0/utilities/visibility.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/alert.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/button.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/carousel.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/collapse.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/dropdown.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/index.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/modal.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/popover.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/scrollspy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/tab.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/tooltip.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/dist/util.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/src/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/unit/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/vendor/qunit.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/vendor/qunit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/alert.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/button.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/carousel.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/collapse.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/dropdown.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/modal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/popover.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/scrollspy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/tab.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/js/tests/visual/tooltip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/nuget/MyGet.ps1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/nuget/bootstrap.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/nuget/bootstrap.sass.nuspec" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/package.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/sache.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_breadcrumb.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_button-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_card.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_code.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_custom-forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_images.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_input-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_jumbotron.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_popover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_progress.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_root.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_transitions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/bootstrap-grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/bootstrap-reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_background-variant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_box-shadow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_breakpoints.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_caret.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_gradients.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_grid-framework.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_hover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_image.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_lists.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_nav-divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_navbar-align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_reset-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_resize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_table-row.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_text-emphasis.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_text-hide.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_text-truncate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/mixins/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_background.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_borders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_display.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_embed.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_flex.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_position.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_screenreaders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_sizing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_spacing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/scss/utilities/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-4.0.0/sw.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +453,8 @@
       <file leaf-file-name="datamerge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datamerge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -32,7 +465,7 @@
       <file leaf-file-name="sqlconnect.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sqlconnect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
+            <state relative-caret-position="450">
               <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <marker date="1522269253345" expanded="true" signature="218:550" ph="CREATE TABLE... IF" />
@@ -46,11 +479,9 @@
       <file leaf-file-name="querydata.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/querydata.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
+            <state relative-caret-position="780">
               <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-              <folding>
-                <marker date="1522267929003" expanded="true" signature="337:565" ph="SELECT athle... " />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,8 +489,8 @@
       <file leaf-file-name="graphing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graphing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
-              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state relative-caret-position="177">
+              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -70,8 +501,8 @@
       <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="98" lean-forward="false" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -133,6 +564,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -164,13 +596,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,11 +659,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17397556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17613228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09417685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -276,6 +708,46 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/datamerge.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlconnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <marker date="1522269253345" expanded="true" signature="218:550" ph="CREATE TABLE... IF" />
+            <marker date="1522269253345" expanded="true" signature="1111:1130" ph="DELETE FROM winners... " />
+            <marker date="1522269253345" expanded="true" signature="1174:1225" ph="INSERT INTO person... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/querydata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graphing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datamerge.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -288,54 +760,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cleandata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dataintosql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CustomJS_Callbacks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/graphing_results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cleandata.py" />
+    <entry file="file://$PROJECT_DIR$/dataintosql.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/CustomJS_Callbacks.js" />
+    <entry file="file://$PROJECT_DIR$/graphing_results.html" />
     <entry file="file://$PROJECT_DIR$/datamerge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -344,7 +780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sqlconnect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
+        <state relative-caret-position="450">
           <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <marker date="1522269253345" expanded="true" signature="218:550" ph="CREATE TABLE... IF" />
@@ -354,30 +790,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/querydata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/graphing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="177">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/querydata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="52" column="45" lean-forward="false" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
-          <folding>
-            <marker date="1522267929003" expanded="true" signature="337:565" ph="SELECT athle... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="98" lean-forward="false" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
